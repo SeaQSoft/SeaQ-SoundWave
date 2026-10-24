@@ -1,0 +1,1233 @@
+# हिन्दी translation of SeaQ SoundWave.
+# Copyright (C) 2026 SeaQ
+# This file is distributed under the same license as the SeaQ SoundWave package.
+msgid ""
+msgstr ""
+"Project-Id-Version: seaq-soundwave 2.5.0\n"
+"Report-Msgid-Bugs-To: https://github.com/SeaQSoft/SeaQ-SoundWave/issues\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "At the panel"
+msgstr "पैनल पर"
+
+msgid "Fixed position"
+msgstr "निश्चित स्थान"
+
+msgid "Placed freely"
+msgstr "स्वतंत्र रूप से रखा गया"
+
+msgid "In the widget"
+msgstr "विजेट के अंदर"
+
+msgid "Moving active"
+msgstr "खिसकाना सक्रिय"
+
+msgid "Pause"
+msgstr "रोकें"
+
+msgid "Resume"
+msgstr "फिर से चलाएँ"
+
+msgid "Lock position (%1)"
+msgstr "स्थान लॉक करें (%1)"
+
+msgid "Move freely (%1)"
+msgstr "स्वतंत्र रूप से खिसकाएँ (%1)"
+
+msgid "Settings editor"
+msgstr "सेटिंग्स संपादक"
+
+msgid "Fixed position on the screen"
+msgstr "स्क्रीन पर निश्चित स्थान"
+
+msgid "Freely movable"
+msgstr "स्वतंत्र रूप से खिसकाने योग्य"
+
+msgid "Quick settings · everything else in the settings editor"
+msgstr "त्वरित सेटिंग्स · बाकी सब सेटिंग्स संपादक में"
+
+msgid "Open settings editor…"
+msgstr "सेटिंग्स संपादक खोलें…"
+
+msgid "Style:"
+msgstr "शैली:"
+
+msgid "Colour palette:"
+msgstr "रंग पैलेट:"
+
+msgid "Custom colours"
+msgstr "अपने रंग"
+
+msgid "Let the colours flow"
+msgstr "रंगों को बहने दें"
+
+msgid "Placement:"
+msgstr "स्थान निर्धारण:"
+
+msgid "Move freely, lock and unlock again: shortcut %1 (change it on the “Keyboard Shortcuts” page or in the settings editor)."
+msgstr "स्वतंत्र रूप से खिसकाएँ, लॉक करें और फिर अनलॉक करें: शॉर्टकट %1 (“कीबोर्ड शॉर्टकट” टैब या सेटिंग्स संपादक में बदला जा सकता है)।"
+
+msgid "Sensitivity:"
+msgstr "संवेदनशीलता:"
+
+msgid "Clicking the orb:"
+msgstr "गोले पर क्लिक:"
+
+msgid "Pause / resume audio and video"
+msgstr "ऑडियो और वीडियो रोकें / फिर से चलाएँ"
+
+msgid "Do nothing"
+msgstr "कुछ न करें"
+
+msgid "no shortcut"
+msgstr "कोई शॉर्टकट नहीं"
+
+msgid "Free positioning only works while the widget sits on the desktop."
+msgstr "स्वतंत्र स्थान निर्धारण तभी काम करता है जब विजेट डेस्कटॉप पर हो।"
+
+msgid "Repair"
+msgstr "ठीक करें"
+
+msgid "Don't report again"
+msgstr "फिर से सूचित न करें"
+
+msgid "Sound of %1 is muted"
+msgstr "%1 की आवाज़ म्यूट है"
+
+msgid "The system remembered this app as muted or at 0 %. Click “Repair” to give it its sound back."
+msgstr "सिस्टम ने इस ऐप को म्यूट या 0 % पर याद रखा है। आवाज़ वापस लाने के लिए “ठीक करें” पर क्लिक करें।"
+
+msgid "The settings editor could not be loaded."
+msgstr "सेटिंग्स संपादक लोड नहीं हो सका।"
+
+msgid "Lock position"
+msgstr "स्थान लॉक करें"
+
+msgid "Move freely"
+msgstr "स्वतंत्र रूप से खिसकाएँ"
+
+msgid "Pause playback"
+msgstr "प्लेबैक रोकें"
+
+msgid "Resume playback"
+msgstr "प्लेबैक फिर से शुरू करें"
+
+msgid "No audio capture tool found.\nPlease install “pulseaudio-utils” or “pipewire-utils” (or “cava”) and add the widget again."
+msgstr "कोई ऑडियो कैप्चर टूल नहीं मिला।\nकृपया “pulseaudio-utils” या “pipewire-utils” (या “cava”) इंस्टॉल करें और विजेट को फिर से जोड़ें।"
+
+msgid "The audio engine could not be started."
+msgstr "ऑडियो इंजन शुरू नहीं हो सका।"
+
+msgid "Drag = move · Edges and corners = resize · Wheel = zoom · Arrow keys = 1 px (⇧ 10 px)"
+msgstr "खींचें = खिसकाएँ · किनारे और कोने = आकार बदलें · व्हील = ज़ूम · तीर कुंजियाँ = 1 px (⇧ 10 px)"
+
+msgid "Lock (%1 / Enter)"
+msgstr "लॉक करें (%1 / Enter)"
+
+msgid "Configure SeaQ SoundWave…"
+msgstr "SeaQ SoundWave कॉन्फ़िगर करें…"
+
+msgid "Choose a colour"
+msgstr "रंग चुनें"
+
+msgid "Copied to the clipboard"
+msgstr "क्लिपबोर्ड पर कॉपी किया गया"
+
+msgid "My palette %1"
+msgstr "मेरा पैलेट %1"
+
+msgid "“%1” saved"
+msgstr "“%1” सहेजा गया"
+
+msgid "Colour"
+msgstr "रंग"
+
+msgid "Remove"
+msgstr "हटाएँ"
+
+msgid "Position"
+msgstr "स्थान"
+
+msgid "Rotation"
+msgstr "घुमाव"
+
+msgid "Type"
+msgstr "प्रकार"
+
+msgid "Auto: every visualizer lays out the colours itself (e.g. per line, all around or from bottom to top)."
+msgstr "ऑटो: हर विज़ुअलाइज़र रंगों को खुद सजाता है (जैसे हर रेखा के अनुसार, चारों ओर या नीचे से ऊपर)।"
+
+msgid "The gradient covers the whole visualizer – rotation and type apply as set above."
+msgstr "ग्रेडिएंट पूरे विज़ुअलाइज़र पर लगता है – घुमाव और प्रकार ऊपर की सेटिंग के अनुसार लागू होते हैं।"
+
+msgid "Random"
+msgstr "यादृच्छिक"
+
+msgid "Save"
+msgstr "सहेजें"
+
+msgid "Name of the palette"
+msgstr "पैलेट का नाम"
+
+msgid "Cancel"
+msgstr "रद्द करें"
+
+msgid "Preview with the current visualizer"
+msgstr "मौजूदा विज़ुअलाइज़र के साथ पूर्वावलोकन"
+
+msgid "Gradient"
+msgstr "ग्रेडिएंट"
+
+msgid "Auto"
+msgstr "ऑटो"
+
+msgid "Linear"
+msgstr "रैखिक"
+
+msgid "Radial"
+msgstr "त्रिज्य"
+
+msgid "Conic"
+msgstr "शंक्वाकार"
+
+msgid "Copy CSS"
+msgstr "CSS कॉपी करें"
+
+msgid "Copy hex values"
+msgstr "हेक्स मान कॉपी करें"
+
+msgid "Reverse colours"
+msgstr "रंग उलटें"
+
+msgid "Spread evenly"
+msgstr "बराबर बाँटें"
+
+msgid "Live"
+msgstr "लाइव"
+
+msgid "Demo · nothing is playing right now"
+msgstr "डेमो · अभी कुछ नहीं चल रहा"
+
+msgid "Version %1 · by %2"
+msgstr "संस्करण %1 · %2 द्वारा"
+
+msgid "Support SeaQ SoundWave"
+msgstr "SeaQ SoundWave का समर्थन करें"
+
+msgid "If you like the widget, you can support its development – thank you!"
+msgstr "अगर आपको यह विजेट पसंद है, तो आप इसके विकास का समर्थन कर सकते हैं – धन्यवाद!"
+
+msgid "Donate with PayPal"
+msgstr "PayPal से दान करें"
+
+msgid "Buy me a coffee"
+msgstr "मुझे एक कॉफ़ी पिलाएँ"
+
+msgid "About"
+msgstr "परिचय"
+
+msgid "Audio visualizer for KDE Plasma 6"
+msgstr "KDE Plasma 6 के लिए ऑडियो विज़ुअलाइज़र"
+
+msgid "19 styles in four groups, colour collection with gradient editor, orb with play/pause, panel attachment, fixed or free position on the desktop."
+msgstr "चार समूहों में 19 शैलियाँ, ग्रेडिएंट संपादक के साथ रंग संग्रह, प्ले/पॉज़ वाला गोला, पैनल से जोड़ना, डेस्कटॉप पर निश्चित या स्वतंत्र स्थान।"
+
+msgid "Author"
+msgstr "लेखक"
+
+msgid "License"
+msgstr "लाइसेंस"
+
+msgid "Appearance"
+msgstr "रूप-रंग"
+
+msgid "Logo in the taskbar"
+msgstr "टास्कबार में लोगो"
+
+msgid "Shows the SeaQ SoundWave logo instead of the Plasma logo while a settings window is open. Adds a hidden desktop file and a KWin window rule – switching it off removes both again."
+msgstr "जब तक कोई सेटिंग्स विंडो खुली है, Plasma लोगो की जगह SeaQ SoundWave लोगो दिखाता है। एक छिपी डेस्कटॉप फ़ाइल और एक KWin विंडो नियम जोड़ता है – बंद करने पर दोनों फिर हट जाते हैं।"
+
+msgid "Reset"
+msgstr "रीसेट करें"
+
+msgid "Everything to factory settings"
+msgstr "सब कुछ फ़ैक्टरी सेटिंग्स पर"
+
+msgid "Style, style options, colours, position, orb, audio and editor – everything like right after installing. Your own palettes are kept."
+msgstr "शैली, शैली विकल्प, रंग, स्थान, गोला, ऑडियो और संपादक – सब कुछ इंस्टॉल के ठीक बाद जैसा। आपके अपने पैलेट बने रहेंगे।"
+
+msgid "Yes, reset everything"
+msgstr "हाँ, सब रीसेट करें"
+
+msgid "Factory settings"
+msgstr "फ़ैक्टरी सेटिंग्स"
+
+msgid "Reset the options of all styles"
+msgstr "सभी शैलियों के विकल्प रीसेट करें"
+
+msgid "Sets the shape settings of every style back to the defaults"
+msgstr "हर शैली की आकृति सेटिंग्स को डिफ़ॉल्ट मानों पर वापस लाता है"
+
+msgid "Really?"
+msgstr "पक्का?"
+
+msgid "Reset colours"
+msgstr "रंग रीसेट करें"
+
+msgid "macOS rainbow, colour flow on"
+msgstr "macOS इंद्रधनुष, रंग प्रवाह चालू"
+
+msgid "Automatic"
+msgstr "स्वचालित"
+
+msgid "Light"
+msgstr "हल्का"
+
+msgid "Dark"
+msgstr "गहरा"
+
+msgid "Analysis"
+msgstr "विश्लेषण"
+
+msgid "Frequency bands"
+msgstr "आवृत्ति बैंड"
+
+msgid "Detail of the spectrum"
+msgstr "स्पेक्ट्रम की बारीकी"
+
+msgid "Sensitivity"
+msgstr "संवेदनशीलता"
+
+msgid "Frame rate"
+msgstr "फ़्रेम दर"
+
+msgid "Fewer frames per second save power"
+msgstr "प्रति सेकंड कम फ़्रेम बिजली बचाते हैं"
+
+msgid "Smoothing"
+msgstr "स्मूदिंग"
+
+msgid "Audio source"
+msgstr "ऑडियो स्रोत"
+
+msgid "Audio engine"
+msgstr "ऑडियो इंजन"
+
+msgid "Automatic uses cava when it is installed – otherwise the built-in analysis (needs only parec or pw-record)."
+msgstr "स्वचालित में cava इंस्टॉल होने पर cava का उपयोग होता है – नहीं तो अंतर्निहित विश्लेषण (केवल parec या pw-record चाहिए)।"
+
+msgid "Input method (cava only)"
+msgstr "इनपुट विधि (केवल cava)"
+
+msgid "Source"
+msgstr "स्रोत"
+
+msgid "“auto” shows whatever is playing. Find other sources with “pactl list short sources”."
+msgstr "“auto” वह दिखाता है जो अभी चल रहा है। दूसरे स्रोत “pactl list short sources” से ढूँढें।"
+
+msgid "Audio protection"
+msgstr "ध्वनि सुरक्षा"
+
+msgid "SoundWave keeps its own recording stream out of the audio memory. If an app ends up muted or at 0 % anyway (as remembered by the system), it can be repaired here."
+msgstr "SoundWave अपनी रिकॉर्डिंग स्ट्रीम को ऑडियो मेमोरी से बाहर रखता है। अगर फिर भी कोई ऐप म्यूट या 0 % पर सहेजा गया हो (सिस्टम द्वारा याद रखा गया), तो उसे यहाँ ठीक कर सकते हैं।"
+
+msgid "Repairing only unmutes and only raises a volume that is at 0 % (to the normal 100 %). Cleaning the remembered settings briefly restarts the audio service."
+msgstr "मरम्मत सिर्फ़ म्यूट हटाती है और सिर्फ़ 0 % वाली आवाज़ को बढ़ाती है (सामान्य 100 % तक)। सहेजी गई सेटिंग्स साफ़ करने से ऑडियो सेवा थोड़ी देर के लिए फिर से शुरू होती है।"
+
+msgid "When a muted app is found"
+msgstr "जब कोई म्यूट ऐप मिले"
+
+msgid "Muted or silent: %1"
+msgstr "म्यूट या बिना आवाज़: %1"
+
+msgid "All apps can be heard"
+msgstr "सभी ऐप सुनाई दे रहे हैं"
+
+msgid "Check now"
+msgstr "अभी जाँचें"
+
+msgid "Repair now"
+msgstr "अभी ठीक करें"
+
+msgid "Not reported: %1"
+msgstr "सूचित नहीं: %1"
+
+msgid "Apps you muted on purpose"
+msgstr "ऐप्स जिन्हें आपने जानबूझकर म्यूट किया"
+
+msgid "Clear list"
+msgstr "सूची साफ़ करें"
+
+msgid "Built-in"
+msgstr "अंतर्निहित"
+
+msgid "Notify"
+msgstr "सूचित करें"
+
+msgid "Repair automatically"
+msgstr "अपने-आप ठीक करें"
+
+msgid "Off"
+msgstr "बंद"
+
+msgid "Colour collection"
+msgstr "रंग संग्रह"
+
+msgid "One click recolours the visualizer at once – save your own palettes in the gradient editor."
+msgstr "एक क्लिक से विज़ुअलाइज़र का रंग तुरंत बदल जाता है – अपने पैलेट ग्रेडिएंट संपादक में सहेजें।"
+
+msgid "No palettes of your own yet. Put colours together in the gradient editor below and click “Save”."
+msgstr "अभी कोई अपना पैलेट नहीं है। नीचे ग्रेडिएंट संपादक में रंग मिलाएँ और “सहेजें” पर क्लिक करें।"
+
+msgid "Gradient editor"
+msgstr "ग्रेडिएंट संपादक"
+
+msgid "Drag the points on the colour bar, click the bar to add a colour. The preview on the right shows the gradient or – with the button at its top right – your visualizer."
+msgstr "रंग पट्टी पर बिंदुओं को खींचें, रंग जोड़ने के लिए पट्टी पर क्लिक करें। दाईं ओर का पूर्वावलोकन ग्रेडिएंट दिखाता है या – ऊपर दाएँ बटन से – आपका विज़ुअलाइज़र।"
+
+msgid "Colour flow"
+msgstr "रंग प्रवाह"
+
+msgid "The palette slowly moves through the visualizer – like the macOS colour waves"
+msgstr "पैलेट धीरे-धीरे विज़ुअलाइज़र में बहता है – macOS की रंग लहरों की तरह"
+
+msgid "Speed"
+msgstr "गति"
+
+msgid "All"
+msgstr "सभी"
+
+msgid "Mine"
+msgstr "मेरे"
+
+msgid "Keyboard shortcut"
+msgstr "कीबोर्ड शॉर्टकट"
+
+msgid "A global shortcut for free positioning – it works everywhere, even when a window is in front."
+msgstr "स्वतंत्र स्थान निर्धारण के लिए एक वैश्विक शॉर्टकट – यह हर जगह काम करता है, तब भी जब कोई विंडो सामने हो।"
+
+msgid "Move freely / lock / unlock"
+msgstr "स्वतंत्र रूप से खिसकाएँ / लॉक / अनलॉक"
+
+msgid "Current: %1. Click the field and press the new combination."
+msgstr "वर्तमान: %1। फ़ील्ड पर क्लिक करें और नया संयोजन दबाएँ।"
+
+msgid "Change it via right click → Configure → Keyboard Shortcuts"
+msgstr "राइट क्लिक → कॉन्फ़िगर करें → कीबोर्ड शॉर्टकट से बदलें"
+
+msgid "How free positioning works"
+msgstr "स्वतंत्र स्थान निर्धारण कैसे काम करता है"
+
+msgid "Unlock"
+msgstr "अनलॉक करें"
+
+msgid "Press %1 (or choose “Position” → “Free”, or the lock on the pop-up card). A blue frame appears around the visualizer."
+msgstr "%1 दबाएँ (या “स्थान” → “स्वतंत्र” चुनें, या पॉप-अप कार्ड पर ताला)। विज़ुअलाइज़र के चारों ओर एक नीला फ़्रेम दिखाई देता है।"
+
+msgid "Move & resize"
+msgstr "खिसकाएँ और आकार बदलें"
+
+msgid "Drag the frame with the mouse. The handles on every edge and corner change the size, the mouse wheel zooms, arrow keys move by 1 px (with Shift 10 px), + and − scale. It snaps to the centre of the screen."
+msgstr "फ़्रेम को माउस से खींचें। हर किनारे और कोने के हैंडल आकार बदलते हैं, माउस व्हील ज़ूम करता है, तीर कुंजियाँ 1 px (Shift के साथ 10 px) खिसकाती हैं, + और − आकार बदलते हैं। यह स्क्रीन के बीच में चिपक जाता है।"
+
+msgid "Lock"
+msgstr "लॉक करें"
+
+msgid "%1 again, Enter, Esc, a double click or the “Lock” button. Afterwards the visualizer lies behind all windows again and lets clicks through to the desktop."
+msgstr "फिर से %1, Enter, Esc, डबल क्लिक या “लॉक करें” बटन। उसके बाद विज़ुअलाइज़र फिर से सभी विंडो के पीछे रहता है और क्लिक डेस्कटॉप तक जाने देता है।"
+
+msgid "Unlock again"
+msgstr "फिर से अनलॉक करें"
+
+msgid "Any time with the same shortcut – the widget itself stays where it is."
+msgstr "कभी भी उसी शॉर्टकट से – विजेट खुद अपनी जगह पर रहता है।"
+
+msgid "Mouse & menus"
+msgstr "माउस और मेनू"
+
+msgid "Click on the orb"
+msgstr "गोले पर क्लिक"
+
+msgid "Pauses or resumes audio and video (see “Orb & playback”)"
+msgstr "ऑडियो और वीडियो को रोकता या फिर से चलाता है (“गोला और प्लेबैक” देखें)"
+
+msgid "Click"
+msgstr "क्लिक"
+
+msgid "Right click on the visualizer"
+msgstr "विज़ुअलाइज़र पर राइट क्लिक"
+
+msgid "Opens the pop-up card – or, with the card switched off, the menu"
+msgstr "पॉप-अप कार्ड खोलता है – या, कार्ड बंद होने पर, मेनू"
+
+msgid "Right click"
+msgstr "राइट क्लिक"
+
+msgid "Quick settings"
+msgstr "त्वरित सेटिंग्स"
+
+msgid "“Configure SeaQ SoundWave…” shows the most important options and the button to this editor"
+msgstr "“SeaQ SoundWave कॉन्फ़िगर करें…” सबसे ज़रूरी विकल्प और इस संपादक का बटन दिखाता है"
+
+msgid "Close the editor"
+msgstr "संपादक बंद करें"
+
+msgid "This page adapts itself: you only see the settings that the style “%1” really uses. Every style remembers its own values."
+msgstr "यह पेज खुद ढल जाता है: आपको सिर्फ़ वे सेटिंग्स दिखती हैं जिनका शैली “%1” सचमुच उपयोग करती है। हर शैली अपने मान खुद याद रखती है।"
+
+msgid "Defaults"
+msgstr "डिफ़ॉल्ट"
+
+msgid "No options of its own"
+msgstr "कोई अपने विकल्प नहीं"
+
+msgid "“%1” has no additional shape settings."
+msgstr "“%1” में कोई अतिरिक्त आकृति सेटिंग नहीं है।"
+
+msgid "Set colours and colour flow on the “Colours” page, opacity further down."
+msgstr "रंग और रंग प्रवाह “रंग” पेज पर सेट करें, अपारदर्शिता नीचे।"
+
+msgid "For all styles"
+msgstr "सभी शैलियों के लिए"
+
+msgid "Opacity"
+msgstr "अपारदर्शिता"
+
+msgid "How softly the motion follows the music"
+msgstr "हलचल संगीत का कितनी कोमलता से पीछा करती है"
+
+msgid "Background plate"
+msgstr "पृष्ठभूमि प्लेट"
+
+msgid "Square at the bottom so that “%1” sits flush – rounded at the top"
+msgstr "नीचे सीधी ताकि “%1” ठीक से टिके – ऊपर गोल"
+
+msgid "Rounded all around, because “%1” floats freely in the middle"
+msgstr "चारों ओर गोल, क्योंकि “%1” बीच में स्वतंत्र रूप से तैरता है"
+
+msgid "Corner radius of the plate"
+msgstr "प्लेट के कोनों की त्रिज्या"
+
+msgid "“%1” has no orb"
+msgstr "“%1” में गोला नहीं है"
+
+msgid "The orb exists for the line, light and round styles. Pick one of them:"
+msgstr "गोला रेखा, प्रकाश और गोल शैलियों में होता है। इनमें से एक चुनें:"
+
+msgid "Orb – for all styles"
+msgstr "गोला – सभी शैलियों के लिए"
+
+msgid "On/off, look and play/pause apply to every style at once. For round styles the orb is the circle in the middle – its size follows the inner radius."
+msgstr "चालू/बंद, रूप और प्ले/पॉज़ सभी शैलियों पर एक साथ लागू होते हैं। गोल शैलियों में गोला बीच का वृत्त है – इसका आकार भीतरी त्रिज्या के अनुसार होता है।"
+
+msgid "On/off, look and play/pause apply to every style at once – only the size is set for each style."
+msgstr "चालू/बंद, रूप और प्ले/पॉज़ सभी शैलियों पर एक साथ लागू होते हैं – केवल आकार हर शैली के लिए अलग से सेट होता है।"
+
+msgid "Clicking the orb"
+msgstr "गोले पर क्लिक"
+
+msgid "Reset orb"
+msgstr "गोला रीसेट करें"
+
+msgid "Action"
+msgstr "क्रिया"
+
+msgid "Pauses audio and video of every player that is playing (browser with YouTube/Udemy, VLC, Spotify, Elisa, LizardTune…) – a second click resumes them."
+msgstr "चल रहे सभी प्लेयरों (YouTube/Udemy वाला ब्राउज़र, VLC, Spotify, Elisa, LizardTune…) का ऑडियो और वीडियो रोकता है – दूसरा क्लिक उन्हें फिर से चलाता है।"
+
+msgid "No player found"
+msgstr "कोई प्लेयर नहीं मिला"
+
+msgid "Playing right now"
+msgstr "अभी चल रहा है"
+
+msgid "Paused"
+msgstr "रुका हुआ"
+
+msgid "Stopped"
+msgstr "बंद"
+
+msgid "Start music or a video so the orb has something to control."
+msgstr "संगीत या वीडियो चलाएँ ताकि गोले के पास नियंत्रित करने को कुछ हो।"
+
+msgid "Pause now"
+msgstr "अभी रोकें"
+
+msgid "Pause / resume"
+msgstr "रोकें / फिर से चलाएँ"
+
+msgid "Nothing"
+msgstr "कुछ नहीं"
+
+msgid "The widget is not on the desktop right now (e.g. in a panel). Panel, fixed and free placement only work for widgets on the desktop – put SeaQ SoundWave on the desktop for that."
+msgstr "विजेट अभी डेस्कटॉप पर नहीं है (जैसे किसी पैनल में)। पैनल, निश्चित और स्वतंत्र स्थान सिर्फ़ डेस्कटॉप वाले विजेट के लिए काम करते हैं – इसके लिए SeaQ SoundWave को डेस्कटॉप पर रखें।"
+
+msgid "Where should the visualizer appear?"
+msgstr "विज़ुअलाइज़र कहाँ दिखाई दे?"
+
+msgid "Outside the widget the visualizer floats on the desktop behind all windows – the widget itself becomes invisible (in the desktop’s edit mode you see a small icon)."
+msgstr "विजेट के बाहर विज़ुअलाइज़र सभी विंडो के पीछे डेस्कटॉप पर तैरता है – विजेट खुद अदृश्य हो जाता है (डेस्कटॉप के संपादन मोड में आपको एक छोटा आइकन दिखता है)।"
+
+msgid "Classic, inside the widget frame, sized like any widget"
+msgstr "क्लासिक, विजेट फ़्रेम के अंदर, किसी भी विजेट जितना आकार"
+
+msgid "Centred at a panel at the top, bottom, left or right"
+msgstr "ऊपर, नीचे, बाएँ या दाएँ पैनल पर बीच में"
+
+msgid "At one of nine points of the screen"
+msgstr "स्क्रीन के नौ बिंदुओं में से किसी एक पर"
+
+msgid "Free"
+msgstr "स्वतंत्र"
+
+msgid "Drag it with the mouse, lock it with a shortcut"
+msgstr "माउस से खींचें, शॉर्टकट से लॉक करें"
+
+msgid "Found: panel at the bottom."
+msgstr "मिला: नीचे पैनल।"
+
+msgid "Found: panel at the top."
+msgstr "मिला: ऊपर पैनल।"
+
+msgid "Found: panel on the left."
+msgstr "मिला: बाएँ पैनल।"
+
+msgid "Found: panel on the right."
+msgstr "मिला: दाएँ पैनल।"
+
+msgid "Round styles sit centred above the panel."
+msgstr "गोल शैलियाँ पैनल के ऊपर बीच में रहती हैं।"
+
+msgid "The base of the visualizer always points to the panel."
+msgstr "विज़ुअलाइज़र का आधार हमेशा पैनल की ओर होता है।"
+
+msgid "There is no panel on this edge – until there is one, the visualizer sits at the bottom of the screen."
+msgstr "इस किनारे पर कोई पैनल नहीं है – तब तक विज़ुअलाइज़र स्क्रीन के नीचे रहता है।"
+
+msgid "Edge"
+msgstr "किनारा"
+
+msgid "Height"
+msgstr "ऊँचाई"
+
+msgid "How far the visualizer rises from the panel"
+msgstr "विज़ुअलाइज़र पैनल से कितना ऊपर उठता है"
+
+msgid "Gap to the panel"
+msgstr "पैनल से दूरी"
+
+msgid "Small gap between panel and visualizer"
+msgstr "पैनल और विज़ुअलाइज़र के बीच छोटा अंतर"
+
+msgid "Offset along the panel"
+msgstr "पैनल के साथ खिसकाव"
+
+msgid "0 = exactly centred"
+msgstr "0 = ठीक बीच में"
+
+msgid "Centre"
+msgstr "बीच में"
+
+msgid "Length"
+msgstr "लंबाई"
+
+msgid "Fixed length"
+msgstr "निश्चित लंबाई"
+
+msgid "Stop before the panel corners"
+msgstr "पैनल के कोनों से पहले रुकें"
+
+msgid "So the visualizer does not reach into the rounding of a floating panel"
+msgstr "ताकि विज़ुअलाइज़र तैरते पैनल की गोलाई में न जाए"
+
+msgid "Rounded ends"
+msgstr "गोल सिरे"
+
+msgid "Soft curve at the ends above a floating panel (0 = straight edge)"
+msgstr "तैरते पैनल के ऊपर सिरों पर कोमल वक्र (0 = सीधा किनारा)"
+
+msgid "Flare at the base"
+msgstr "आधार पर फैलाव"
+
+msgid "Choose an anchor point. Left and right in the middle turn strip styles sideways."
+msgstr "एक एंकर बिंदु चुनें। बीच में बाएँ और दाएँ पट्टी वाली शैलियों को किनारे की ओर घुमा देते हैं।"
+
+msgid "Anchor point"
+msgstr "एंकर बिंदु"
+
+msgid "Top left"
+msgstr "ऊपर बाएँ"
+
+msgid "Top centre"
+msgstr "ऊपर बीच"
+
+msgid "Top right"
+msgstr "ऊपर दाएँ"
+
+msgid "Left centre"
+msgstr "बाएँ बीच"
+
+msgid "Screen centre"
+msgstr "स्क्रीन का केंद्र"
+
+msgid "Right centre"
+msgstr "दाएँ बीच"
+
+msgid "Bottom left"
+msgstr "नीचे बाएँ"
+
+msgid "Bottom centre"
+msgstr "नीचे बीच"
+
+msgid "Bottom right"
+msgstr "नीचे दाएँ"
+
+msgid "Horizontal margin"
+msgstr "क्षैतिज हाशिया"
+
+msgid "Vertical margin"
+msgstr "ऊर्ध्वाधर हाशिया"
+
+msgid "Share of the screen width (or height)"
+msgstr "स्क्रीन की चौड़ाई (या ऊँचाई) का हिस्सा"
+
+msgid "Size"
+msgstr "आकार"
+
+msgid "Free positioning"
+msgstr "स्वतंत्र स्थान निर्धारण"
+
+msgid "Moving is active"
+msgstr "खिसकाना सक्रिय है"
+
+msgid "Position is locked"
+msgstr "स्थान लॉक है"
+
+msgid "Drag the blue frame on the desktop. Lock with %1, Enter or a double click."
+msgstr "डेस्कटॉप पर नीले फ़्रेम को खींचें। %1, Enter या डबल क्लिक से लॉक करें।"
+
+msgid "Unlock with %1 – or here:"
+msgstr "%1 से अनलॉक करें – या यहाँ:"
+
+msgid "Move now"
+msgstr "अभी खिसकाएँ"
+
+msgid "Orientation"
+msgstr "दिशा"
+
+msgid "On which side the “base” of the visualizer lies"
+msgstr "विज़ुअलाइज़र का “आधार” किस ओर है"
+
+msgid "Width"
+msgstr "चौड़ाई"
+
+msgid "Quick placement"
+msgstr "त्वरित स्थान निर्धारण"
+
+msgid "The visualizer fills the widget frame."
+msgstr "विज़ुअलाइज़र विजेट फ़्रेम को भर देता है।"
+
+msgid "Change size and place like any desktop widget (edit mode). A background plate is on the “Style options” page."
+msgstr "आकार और स्थान किसी भी डेस्कटॉप विजेट की तरह बदलें (संपादन मोड)। पृष्ठभूमि प्लेट “शैली विकल्प” पेज पर है।"
+
+msgid "Reset position values"
+msgstr "स्थान मान रीसेट करें"
+
+msgid "Show pop-up card"
+msgstr "पॉप-अप कार्ड दिखाएँ"
+
+msgid "A right click on the visualizer (not on the orb) opens a small card with preview, pause, lock and settings. A click on an empty spot closes it."
+msgstr "विज़ुअलाइज़र पर राइट क्लिक (गोले पर नहीं) पूर्वावलोकन, रोकें, ताला और सेटिंग्स वाला एक छोटा कार्ड खोलता है। खाली जगह पर क्लिक करने से वह बंद हो जाता है।"
+
+msgid "Off: a right click opens the widget’s menu (settings editor, move freely, pause, configure)."
+msgstr "बंद: राइट क्लिक विजेट का मेनू खोलता है (सेटिंग्स संपादक, स्वतंत्र रूप से खिसकाएँ, रोकें, कॉन्फ़िगर करें)।"
+
+msgid "Bottom"
+msgstr "नीचे"
+
+msgid "Top"
+msgstr "ऊपर"
+
+msgid "Left"
+msgstr "बाएँ"
+
+msgid "Right"
+msgstr "दाएँ"
+
+msgid "Like the panel"
+msgstr "पैनल जैसा"
+
+msgid "Whole edge"
+msgstr "पूरा किनारा"
+
+msgid "Adjust options"
+msgstr "विकल्प समायोजित करें"
+
+msgid "SeaQ SoundWave – Settings"
+msgstr "SeaQ SoundWave – सेटिंग्स"
+
+msgid "Search"
+msgstr "खोजें"
+
+msgid "Audio engine stopped"
+msgstr "ऑडियो इंजन बंद"
+
+msgid "Music detected"
+msgstr "संगीत मिला"
+
+msgid "Waiting for sound…"
+msgstr "आवाज़ की प्रतीक्षा…"
+
+msgid "playing"
+msgstr "चल रहा है"
+
+msgid "paused"
+msgstr "रुका हुआ"
+
+msgid "Style"
+msgstr "शैली"
+
+msgid "Choose how your music looks"
+msgstr "चुनें कि आपका संगीत कैसा दिखे"
+
+msgid "Style options"
+msgstr "शैली विकल्प"
+
+msgid "Adapts to the selected style"
+msgstr "चुनी गई शैली के अनुसार बदलता है"
+
+msgid "Colours"
+msgstr "रंग"
+
+msgid "Colour collection and gradient editor"
+msgstr "रंग संग्रह और ग्रेडिएंट संपादक"
+
+msgid "In the widget, at the panel, fixed or free"
+msgstr "विजेट के अंदर, पैनल पर, निश्चित या स्वतंत्र"
+
+msgid "Behaviour"
+msgstr "व्यवहार"
+
+msgid "Orb & playback"
+msgstr "गोला और प्लेबैक"
+
+msgid "The orb in the middle – a click pauses"
+msgstr "बीच का गोला – एक क्लिक से रुकता है"
+
+msgid "Audio"
+msgstr "ऑडियो"
+
+msgid "Source, sensitivity and frame rate"
+msgstr "स्रोत, संवेदनशीलता और फ़्रेम दर"
+
+msgid "System"
+msgstr "सिस्टम"
+
+msgid "Controls & shortcuts"
+msgstr "नियंत्रण और शॉर्टकट"
+
+msgid "Keyboard shortcuts and mouse gestures"
+msgstr "कीबोर्ड शॉर्टकट और माउस इशारे"
+
+msgid "Full screen"
+msgstr "पूर्ण स्क्रीन"
+
+msgid "Orb"
+msgstr "गोला"
+
+msgid "macOS Rainbow"
+msgstr "macOS इंद्रधनुष"
+
+msgid "Chameleon"
+msgstr "गिरगिट"
+
+msgid "Apple Music"
+msgstr "Apple Music"
+
+msgid "Sonoma"
+msgstr "Sonoma"
+
+msgid "Sequoia"
+msgstr "Sequoia"
+
+msgid "Peach Evening"
+msgstr "आड़ू शाम"
+
+msgid "Sunset"
+msgstr "सूर्यास्त"
+
+msgid "Ocean"
+msgstr "महासागर"
+
+msgid "Aurora"
+msgstr "ध्रुवीय ज्योति"
+
+msgid "Light Strings"
+msgstr "प्रकाश के धागे"
+
+msgid "Forest"
+msgstr "जंगल"
+
+msgid "Fire"
+msgstr "आग"
+
+msgid "Glacier"
+msgstr "हिमनद"
+
+msgid "Neon"
+msgstr "नियॉन"
+
+msgid "Cyberpunk"
+msgstr "साइबरपंक"
+
+msgid "Vaporwave"
+msgstr "वेपरवेव"
+
+msgid "Synthwave"
+msgstr "सिंथवेव"
+
+msgid "Laser"
+msgstr "लेज़र"
+
+msgid "Cotton Candy"
+msgstr "बुढ़िया के बाल"
+
+msgid "Pastel"
+msgstr "पेस्टल"
+
+msgid "Tropical"
+msgstr "उष्णकटिबंधीय"
+
+msgid "Mint"
+msgstr "पुदीना"
+
+msgid "Gold"
+msgstr "सोना"
+
+msgid "Silver"
+msgstr "चाँदी"
+
+msgid "Rose Gold"
+msgstr "रोज़ गोल्ड"
+
+msgid "Classic Blue"
+msgstr "क्लासिक नीला"
+
+msgid "Nature"
+msgstr "प्रकृति"
+
+msgid "Precious"
+msgstr "बहुमूल्य"
+
+msgid "Glass"
+msgstr "काँच"
+
+msgid "Record"
+msgstr "रिकॉर्ड"
+
+msgid "From palette"
+msgstr "पैलेट से"
+
+msgid "Own colour"
+msgstr "अपना रंग"
+
+msgid "Always"
+msgstr "हमेशा"
+
+msgid "On hover"
+msgstr "माउस ले जाने पर"
+
+msgid "Never"
+msgstr "कभी नहीं"
+
+msgid "Classic"
+msgstr "क्लासिक"
+
+msgid "The proven spectrum shapes"
+msgstr "आज़माए हुए स्पेक्ट्रम आकार"
+
+msgid "Colourful, in the style of macOS"
+msgstr "रंग-बिरंगा, macOS की शैली में"
+
+msgid "Lines & Light"
+msgstr "रेखाएँ और प्रकाश"
+
+msgid "Light strings and beams – also full screen"
+msgstr "प्रकाश के धागे और किरणें – पूर्ण स्क्रीन पर भी"
+
+msgid "Round"
+msgstr "गोल"
+
+msgid "Circular, with a playback orb in the middle"
+msgstr "वृत्ताकार, बीच में प्लेबैक गोले के साथ"
+
+msgid "Spacing"
+msgstr "अंतर"
+
+msgid "Fill width automatically"
+msgstr "चौड़ाई अपने-आप भरें"
+
+msgid "Fixed bar width"
+msgstr "निश्चित बार चौड़ाई"
+
+msgid "Corner radius"
+msgstr "कोनों की त्रिज्या"
+
+msgid "Number of elements"
+msgstr "तत्वों की संख्या"
+
+msgid "How many bars, columns or rays are drawn"
+msgstr "कितने बार, कॉलम या किरणें बनाई जाएँ"
+
+msgid "Lines per side"
+msgstr "हर ओर की रेखाएँ"
+
+msgid "Line width"
+msgstr "रेखा की मोटाई"
+
+msgid "Glow"
+msgstr "चमक"
+
+msgid "Amplitude"
+msgstr "आयाम"
+
+msgid "Motion speed"
+msgstr "गति की रफ़्तार"
+
+msgid "Fade out at the edges"
+msgstr "किनारों पर धुंधला करें"
+
+msgid "Spread"
+msgstr "फैलाव"
+
+msgid "Turns"
+msgstr "घुमाव"
+
+msgid "Rungs between the strands"
+msgstr "धागों के बीच की सीढ़ियाँ"
+
+msgid "Waviness"
+msgstr "लहरियापन"
+
+msgid "Light in the middle"
+msgstr "बीच में रोशनी"
+
+msgid "A bright light where the lines meet – it breathes with the music"
+msgstr "जहाँ रेखाएँ मिलती हैं वहाँ एक तेज़ रोशनी – यह संगीत के साथ साँस लेती है"
+
+msgid "Light blending"
+msgstr "प्रकाश मिश्रण"
+
+msgid "Overlaps shine brighter (additive)"
+msgstr "ओवरलैप अधिक चमकते हैं (योगात्मक)"
+
+msgid "Orb in the middle"
+msgstr "बीच में गोला"
+
+msgid "Orb size"
+msgstr "गोले का आकार"
+
+msgid "Orb style"
+msgstr "गोले की शैली"
+
+msgid "Record spins"
+msgstr "रिकॉर्ड घूमता है"
+
+msgid "Turns like on a turntable while music plays and stops on pause"
+msgstr "संगीत चलने पर टर्नटेबल की तरह घूमता है और पॉज़ पर रुक जाता है"
+
+msgid "Tone arm"
+msgstr "टोन आर्म"
+
+msgid "Swings onto the record when playing and away on pause"
+msgstr "चलाने पर रिकॉर्ड पर आ जाता है और पॉज़ पर हट जाता है"
+
+msgid "Cover on the label"
+msgstr "लेबल पर कवर"
+
+msgid "Shows the cover of the current song or video in the middle of the record"
+msgstr "रिकॉर्ड के बीच में मौजूदा गाने या वीडियो का कवर दिखाता है"
+
+msgid "Orb pulses with the bass"
+msgstr "गोला बास के साथ धड़कता है"
+
+msgid "Orb colour"
+msgstr "गोले का रंग"
+
+msgid "Colour of the orb"
+msgstr "गोले का रंग"
+
+msgid "Play/pause on click"
+msgstr "क्लिक पर प्ले/पॉज़"
+
+msgid "Clicking the orb pauses or resumes audio and video"
+msgstr "गोले पर क्लिक ऑडियो और वीडियो को रोकता या फिर से चलाता है"
+
+msgid "Show play/pause symbol"
+msgstr "प्ले/पॉज़ चिह्न दिखाएँ"
+
+msgid "Inner radius"
+msgstr "भीतरी त्रिज्या"
+
+msgid "Ray length"
+msgstr "किरण की लंबाई"
+
+msgid "Negative = counter-clockwise"
+msgstr "ऋणात्मक = वामावर्त"
+
+msgid "Rings"
+msgstr "वलय"
+
+msgid "LED rows"
+msgstr "LED पंक्तियाँ"
+
+msgid "Peak caps"
+msgstr "शिखर चिह्न"
+
+msgid "Fall speed"
+msgstr "गिरने की गति"
+
+msgid "Reflection"
+msgstr "प्रतिबिंब"
+
+msgid "Reflection strength"
+msgstr "प्रतिबिंब की तीव्रता"
+
+msgid "Lit windows"
+msgstr "जगमगाती खिड़कियाँ"
+
+msgid "Hint inactive elements"
+msgstr "निष्क्रिय तत्व हल्के दिखाएँ"
+
+msgid "Symmetry axes"
+msgstr "समरूपता अक्ष"
+
+msgid "Pulse rings"
+msgstr "स्पंदन वलय"
+
+msgid "Layers"
+msgstr "परतें"
+
+msgid "Shape"
+msgstr "आकृति"
+
+msgid "Motion"
+msgstr "गति"
+
+msgid "Light & glow"
+msgstr "प्रकाश और चमक"
+
+msgid "Bars"
+msgstr "बार"
+
+msgid "Classic spectrum bars"
+msgstr "क्लासिक स्पेक्ट्रम बार"
+
+msgid "Mirror axis"
+msgstr "दर्पण अक्ष"
+
+msgid "Bars mirrored around the centre line"
+msgstr "मध्य रेखा के चारों ओर प्रतिबिंबित बार"
+
+msgid "Wave"
+msgstr "लहर"
+
+msgid "A soft, filled curve"
+msgstr "एक कोमल, भरा हुआ वक्र"
+
+msgid "Dots"
+msgstr "बिंदु"
+
+msgid "Floating dots"
+msgstr "तैरते बिंदु"
+
+msgid "Particles"
+msgstr "कण"
+
+msgid "Floating capsules"
+msgstr "तैरते कैप्सूल"
+
+msgid "Colour waves"
+msgstr "रंग लहरें"
+
+msgid "Flowing macOS colours (the original)"
+msgstr "बहते macOS रंग (मूल)"
+
+msgid "LED matrix"
+msgstr "LED मैट्रिक्स"
+
+msgid "Glowing dots in rows and columns"
+msgstr "पंक्तियों और स्तंभों में चमकते बिंदु"
+
+msgid "Skyline"
+msgstr "स्काईलाइन"
+
+msgid "A city that grows with the music"
+msgstr "संगीत के साथ बढ़ता शहर"
+
+msgid "Rainbow bars"
+msgstr "इंद्रधनुष बार"
+
+msgid "Rounded bars with peaks and reflection"
+msgstr "शिखर और प्रतिबिंब वाले गोल बार"
+
+msgid "Double helix"
+msgstr "दोहरी कुंडली"
+
+msgid "Two glowing strands winding around each other"
+msgstr "एक-दूसरे के चारों ओर लिपटे दो चमकते धागे"
+
+msgid "Laser fan"
+msgstr "लेज़र पंखा"
+
+msgid "Beams of light meeting in the middle"
+msgstr "बीच में मिलती प्रकाश किरणें"
+
+msgid "Light strings"
+msgstr "प्रकाश के धागे"
+
+msgid "Fine strings bundled into a point of light"
+msgstr "एक प्रकाश बिंदु में बँधे महीन धागे"
+
+msgid "Colour streams"
+msgstr "रंग धाराएँ"
+
+msgid "Coloured lines flowing into a small orb"
+msgstr "एक छोटे गोले में बहती रंगीन रेखाएँ"
+
+msgid "Silk waves"
+msgstr "रेशमी लहरें"
+
+msgid "Layered, swinging bands of light"
+msgstr "परतदार, झूलती प्रकाश पट्टियाँ"
+
+msgid "Ring spectrum"
+msgstr "वलय स्पेक्ट्रम"
+
+msgid "Rays all around the orb"
+msgstr "गोले के चारों ओर किरणें"
+
+msgid "Segment ring"
+msgstr "खंड वलय"
+
+msgid "Concentric glowing segments"
+msgstr "संकेंद्रित चमकते खंड"
+
+msgid "Rings that travel outwards with the bass"
+msgstr "बास के साथ बाहर फैलते वलय"
+
+msgid "Liquid orb"
+msgstr "तरल गोला"
+
+msgid "Soft shapes flowing around the orb"
+msgstr "गोले के चारों ओर बहती कोमल आकृतियाँ"
+
+msgid "Kaleidoscope"
+msgstr "बहुरूपदर्शक"
+
+msgid "A fractal-like bloom of light petals"
+msgstr "प्रकाश की पंखुड़ियों से बना फ्रैक्टल जैसा फूल"
+

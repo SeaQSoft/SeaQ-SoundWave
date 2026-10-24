@@ -1,0 +1,1233 @@
+# 简体中文 translation of SeaQ SoundWave.
+# Copyright (C) 2026 SeaQ
+# This file is distributed under the same license as the SeaQ SoundWave package.
+msgid ""
+msgstr ""
+"Project-Id-Version: seaq-soundwave 2.5.0\n"
+"Report-Msgid-Bugs-To: https://github.com/SeaQSoft/SeaQ-SoundWave/issues\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "At the panel"
+msgstr "贴靠面板"
+
+msgid "Fixed position"
+msgstr "固定位置"
+
+msgid "Placed freely"
+msgstr "自由放置"
+
+msgid "In the widget"
+msgstr "在小部件内"
+
+msgid "Moving active"
+msgstr "正在移动"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Resume"
+msgstr "继续"
+
+msgid "Lock position (%1)"
+msgstr "锁定位置（%1）"
+
+msgid "Move freely (%1)"
+msgstr "自由移动（%1）"
+
+msgid "Settings editor"
+msgstr "设置编辑器"
+
+msgid "Fixed position on the screen"
+msgstr "屏幕上的固定位置"
+
+msgid "Freely movable"
+msgstr "可自由移动"
+
+msgid "Quick settings · everything else in the settings editor"
+msgstr "快速设置 · 其他所有选项请在设置编辑器中调整"
+
+msgid "Open settings editor…"
+msgstr "打开设置编辑器…"
+
+msgid "Style:"
+msgstr "样式："
+
+msgid "Colour palette:"
+msgstr "调色板："
+
+msgid "Custom colours"
+msgstr "自定义颜色"
+
+msgid "Let the colours flow"
+msgstr "让颜色流动"
+
+msgid "Placement:"
+msgstr "放置方式："
+
+msgid "Move freely, lock and unlock again: shortcut %1 (change it on the “Keyboard Shortcuts” page or in the settings editor)."
+msgstr "自由移动、锁定和解锁：快捷键 %1（可在“键盘快捷键”页面或设置编辑器中更改）。"
+
+msgid "Sensitivity:"
+msgstr "灵敏度："
+
+msgid "Clicking the orb:"
+msgstr "点击圆球："
+
+msgid "Pause / resume audio and video"
+msgstr "暂停 / 继续音频和视频"
+
+msgid "Do nothing"
+msgstr "不执行任何操作"
+
+msgid "no shortcut"
+msgstr "无快捷键"
+
+msgid "Free positioning only works while the widget sits on the desktop."
+msgstr "只有当小部件位于桌面上时才能自由放置。"
+
+msgid "Repair"
+msgstr "修复"
+
+msgid "Don't report again"
+msgstr "不再提醒"
+
+msgid "Sound of %1 is muted"
+msgstr "%1 的声音已被静音"
+
+msgid "The system remembered this app as muted or at 0 %. Click “Repair” to give it its sound back."
+msgstr "系统将此应用记住为静音或 0 %。点击“修复”即可恢复声音。"
+
+msgid "The settings editor could not be loaded."
+msgstr "无法加载设置编辑器。"
+
+msgid "Lock position"
+msgstr "锁定位置"
+
+msgid "Move freely"
+msgstr "自由移动"
+
+msgid "Pause playback"
+msgstr "暂停播放"
+
+msgid "Resume playback"
+msgstr "继续播放"
+
+msgid "No audio capture tool found.\nPlease install “pulseaudio-utils” or “pipewire-utils” (or “cava”) and add the widget again."
+msgstr "未找到音频采集工具。\n请安装“pulseaudio-utils”或“pipewire-utils”（或“cava”），然后重新添加小部件。"
+
+msgid "The audio engine could not be started."
+msgstr "无法启动音频引擎。"
+
+msgid "Drag = move · Edges and corners = resize · Wheel = zoom · Arrow keys = 1 px (⇧ 10 px)"
+msgstr "拖动 = 移动 · 边缘和角 = 调整大小 · 滚轮 = 缩放 · 方向键 = 1 像素（⇧ 10 像素）"
+
+msgid "Lock (%1 / Enter)"
+msgstr "锁定（%1 / 回车）"
+
+msgid "Configure SeaQ SoundWave…"
+msgstr "配置 SeaQ SoundWave…"
+
+msgid "Choose a colour"
+msgstr "选择颜色"
+
+msgid "Copied to the clipboard"
+msgstr "已复制到剪贴板"
+
+msgid "My palette %1"
+msgstr "我的调色板 %1"
+
+msgid "“%1” saved"
+msgstr "已保存“%1”"
+
+msgid "Colour"
+msgstr "颜色"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Rotation"
+msgstr "旋转"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Auto: every visualizer lays out the colours itself (e.g. per line, all around or from bottom to top)."
+msgstr "自动：每个可视化效果会自行安排颜色（例如按线条、环绕或从下到上）。"
+
+msgid "The gradient covers the whole visualizer – rotation and type apply as set above."
+msgstr "渐变覆盖整个可视化效果——旋转和类型按上方设置生效。"
+
+msgid "Random"
+msgstr "随机"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Name of the palette"
+msgstr "调色板名称"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Preview with the current visualizer"
+msgstr "使用当前可视化效果预览"
+
+msgid "Gradient"
+msgstr "渐变"
+
+msgid "Auto"
+msgstr "自动"
+
+msgid "Linear"
+msgstr "线性"
+
+msgid "Radial"
+msgstr "径向"
+
+msgid "Conic"
+msgstr "圆锥"
+
+msgid "Copy CSS"
+msgstr "复制 CSS"
+
+msgid "Copy hex values"
+msgstr "复制十六进制值"
+
+msgid "Reverse colours"
+msgstr "反转颜色"
+
+msgid "Spread evenly"
+msgstr "均匀分布"
+
+msgid "Live"
+msgstr "实时"
+
+msgid "Demo · nothing is playing right now"
+msgstr "演示 · 当前没有播放内容"
+
+msgid "Version %1 · by %2"
+msgstr "版本 %1 · 作者 %2"
+
+msgid "Support SeaQ SoundWave"
+msgstr "支持 SeaQ SoundWave"
+
+msgid "If you like the widget, you can support its development – thank you!"
+msgstr "如果你喜欢这个小部件，可以支持它的开发——谢谢！"
+
+msgid "Donate with PayPal"
+msgstr "通过 PayPal 捐赠"
+
+msgid "Buy me a coffee"
+msgstr "请我喝杯咖啡"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Audio visualizer for KDE Plasma 6"
+msgstr "适用于 KDE Plasma 6 的音频可视化器"
+
+msgid "19 styles in four groups, colour collection with gradient editor, orb with play/pause, panel attachment, fixed or free position on the desktop."
+msgstr "四组共 19 种样式、带渐变编辑器的颜色集、可播放/暂停的圆球、贴靠面板、桌面上的固定或自由位置。"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "License"
+msgstr "许可证"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Logo in the taskbar"
+msgstr "任务栏中的图标"
+
+msgid "Shows the SeaQ SoundWave logo instead of the Plasma logo while a settings window is open. Adds a hidden desktop file and a KWin window rule – switching it off removes both again."
+msgstr "在设置窗口打开时显示 SeaQ SoundWave 图标而不是 Plasma 图标。会添加一个隐藏的桌面文件和一条 KWin 窗口规则——关闭后两者都会被移除。"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Everything to factory settings"
+msgstr "全部恢复出厂设置"
+
+msgid "Style, style options, colours, position, orb, audio and editor – everything like right after installing. Your own palettes are kept."
+msgstr "样式、样式选项、颜色、位置、圆球、音频和编辑器——全部恢复到刚安装时的状态。你自己的调色板会被保留。"
+
+msgid "Yes, reset everything"
+msgstr "是，全部重置"
+
+msgid "Factory settings"
+msgstr "出厂设置"
+
+msgid "Reset the options of all styles"
+msgstr "重置所有样式的选项"
+
+msgid "Sets the shape settings of every style back to the defaults"
+msgstr "将每种样式的形状设置恢复为默认值"
+
+msgid "Really?"
+msgstr "确定吗？"
+
+msgid "Reset colours"
+msgstr "重置颜色"
+
+msgid "macOS rainbow, colour flow on"
+msgstr "macOS 彩虹，颜色流动开启"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Light"
+msgstr "浅色"
+
+msgid "Dark"
+msgstr "深色"
+
+msgid "Analysis"
+msgstr "分析"
+
+msgid "Frequency bands"
+msgstr "频段"
+
+msgid "Detail of the spectrum"
+msgstr "频谱的精细程度"
+
+msgid "Sensitivity"
+msgstr "灵敏度"
+
+msgid "Frame rate"
+msgstr "帧率"
+
+msgid "Fewer frames per second save power"
+msgstr "更低的帧率可以省电"
+
+msgid "Smoothing"
+msgstr "平滑"
+
+msgid "Audio source"
+msgstr "音频源"
+
+msgid "Audio engine"
+msgstr "音频引擎"
+
+msgid "Automatic uses cava when it is installed – otherwise the built-in analysis (needs only parec or pw-record)."
+msgstr "“自动”会在已安装 cava 时使用它，否则使用内置分析（只需要 parec 或 pw-record）。"
+
+msgid "Input method (cava only)"
+msgstr "输入方式（仅限 cava）"
+
+msgid "Source"
+msgstr "音频源"
+
+msgid "“auto” shows whatever is playing. Find other sources with “pactl list short sources”."
+msgstr "“auto”显示当前正在播放的内容。使用“pactl list short sources”查找其他音频源。"
+
+msgid "Audio protection"
+msgstr "声音保护"
+
+msgid "SoundWave keeps its own recording stream out of the audio memory. If an app ends up muted or at 0 % anyway (as remembered by the system), it can be repaired here."
+msgstr "SoundWave 会让自己的录音流不进入音频记忆。如果某个应用仍被系统记住为静音或 0 %，可以在这里修复。"
+
+msgid "Repairing only unmutes and only raises a volume that is at 0 % (to the normal 100 %). Cleaning the remembered settings briefly restarts the audio service."
+msgstr "修复只会取消静音，并且只会提高处于 0 % 的音量（到正常的 100 %）。清理已记住的设置会短暂重启音频服务。"
+
+msgid "When a muted app is found"
+msgstr "发现被静音的应用时"
+
+msgid "Muted or silent: %1"
+msgstr "静音或无声：%1"
+
+msgid "All apps can be heard"
+msgstr "所有应用都能听到"
+
+msgid "Check now"
+msgstr "立即检查"
+
+msgid "Repair now"
+msgstr "立即修复"
+
+msgid "Not reported: %1"
+msgstr "不提醒：%1"
+
+msgid "Apps you muted on purpose"
+msgstr "你有意静音的应用"
+
+msgid "Clear list"
+msgstr "清空列表"
+
+msgid "Built-in"
+msgstr "内置"
+
+msgid "Notify"
+msgstr "通知"
+
+msgid "Repair automatically"
+msgstr "自动修复"
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "Colour collection"
+msgstr "颜色集"
+
+msgid "One click recolours the visualizer at once – save your own palettes in the gradient editor."
+msgstr "单击即可立即为可视化效果换色——在渐变编辑器中保存你自己的调色板。"
+
+msgid "No palettes of your own yet. Put colours together in the gradient editor below and click “Save”."
+msgstr "还没有自定义调色板。在下方的渐变编辑器中组合颜色，然后点击“保存”。"
+
+msgid "Gradient editor"
+msgstr "渐变编辑器"
+
+msgid "Drag the points on the colour bar, click the bar to add a colour. The preview on the right shows the gradient or – with the button at its top right – your visualizer."
+msgstr "拖动颜色条上的点，点击颜色条可添加颜色。右侧预览显示渐变，或者——通过右上角的按钮——显示你的可视化效果。"
+
+msgid "Colour flow"
+msgstr "颜色流动"
+
+msgid "The palette slowly moves through the visualizer – like the macOS colour waves"
+msgstr "调色板会缓慢地流过可视化效果——就像 macOS 的彩色波浪"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Mine"
+msgstr "我的"
+
+msgid "Keyboard shortcut"
+msgstr "键盘快捷键"
+
+msgid "A global shortcut for free positioning – it works everywhere, even when a window is in front."
+msgstr "用于自由放置的全局快捷键——在任何地方都有效，即使有窗口在前台。"
+
+msgid "Move freely / lock / unlock"
+msgstr "自由移动 / 锁定 / 解锁"
+
+msgid "Current: %1. Click the field and press the new combination."
+msgstr "当前：%1。点击此字段并按下新的组合键。"
+
+msgid "Change it via right click → Configure → Keyboard Shortcuts"
+msgstr "通过右键 → 配置 → 键盘快捷键进行更改"
+
+msgid "How free positioning works"
+msgstr "自由放置的使用方法"
+
+msgid "Unlock"
+msgstr "解锁"
+
+msgid "Press %1 (or choose “Position” → “Free”, or the lock on the pop-up card). A blue frame appears around the visualizer."
+msgstr "按下 %1（或选择“位置”→“自由”，或点击弹出卡片上的锁）。可视化效果周围会出现一个蓝色框。"
+
+msgid "Move & resize"
+msgstr "移动和调整大小"
+
+msgid "Drag the frame with the mouse. The handles on every edge and corner change the size, the mouse wheel zooms, arrow keys move by 1 px (with Shift 10 px), + and − scale. It snaps to the centre of the screen."
+msgstr "用鼠标拖动框。每条边和每个角上的手柄可调整大小，鼠标滚轮可缩放，方向键每次移动 1 像素（按住 Shift 为 10 像素），+ 和 − 可缩放。它会吸附到屏幕中心。"
+
+msgid "Lock"
+msgstr "锁定"
+
+msgid "%1 again, Enter, Esc, a double click or the “Lock” button. Afterwards the visualizer lies behind all windows again and lets clicks through to the desktop."
+msgstr "再次按 %1、回车、Esc、双击或点击“锁定”按钮。之后可视化效果会重新位于所有窗口之后，并让点击穿透到桌面。"
+
+msgid "Unlock again"
+msgstr "重新解锁"
+
+msgid "Any time with the same shortcut – the widget itself stays where it is."
+msgstr "随时使用同一个快捷键——小部件本身保持原位。"
+
+msgid "Mouse & menus"
+msgstr "鼠标和菜单"
+
+msgid "Click on the orb"
+msgstr "点击圆球"
+
+msgid "Pauses or resumes audio and video (see “Orb & playback”)"
+msgstr "暂停或继续音频和视频（参见“圆球与播放”）"
+
+msgid "Click"
+msgstr "单击"
+
+msgid "Right click on the visualizer"
+msgstr "右键点击可视化效果"
+
+msgid "Opens the pop-up card – or, with the card switched off, the menu"
+msgstr "打开弹出卡片——如果卡片已关闭，则打开菜单"
+
+msgid "Right click"
+msgstr "右键"
+
+msgid "Quick settings"
+msgstr "快速设置"
+
+msgid "“Configure SeaQ SoundWave…” shows the most important options and the button to this editor"
+msgstr "“配置 SeaQ SoundWave…”会显示最重要的选项以及打开此编辑器的按钮"
+
+msgid "Close the editor"
+msgstr "关闭编辑器"
+
+msgid "This page adapts itself: you only see the settings that the style “%1” really uses. Every style remembers its own values."
+msgstr "此页面会自动适应：你只会看到样式“%1”实际使用的设置。每种样式都会记住自己的值。"
+
+msgid "Defaults"
+msgstr "默认值"
+
+msgid "No options of its own"
+msgstr "没有专属选项"
+
+msgid "“%1” has no additional shape settings."
+msgstr "“%1”没有额外的形状设置。"
+
+msgid "Set colours and colour flow on the “Colours” page, opacity further down."
+msgstr "颜色和颜色流动在“颜色”页面设置，不透明度在下方设置。"
+
+msgid "For all styles"
+msgstr "适用于所有样式"
+
+msgid "Opacity"
+msgstr "不透明度"
+
+msgid "How softly the motion follows the music"
+msgstr "动作跟随音乐的柔和程度"
+
+msgid "Background plate"
+msgstr "背景板"
+
+msgid "Square at the bottom so that “%1” sits flush – rounded at the top"
+msgstr "底部为直角，使“%1”能平整贴合——顶部为圆角"
+
+msgid "Rounded all around, because “%1” floats freely in the middle"
+msgstr "四周均为圆角，因为“%1”自由悬浮在中间"
+
+msgid "Corner radius of the plate"
+msgstr "背景板圆角半径"
+
+msgid "“%1” has no orb"
+msgstr "“%1”没有圆球"
+
+msgid "The orb exists for the line, light and round styles. Pick one of them:"
+msgstr "线条、光效和圆形样式才有圆球。请选择其中一种："
+
+msgid "Orb – for all styles"
+msgstr "圆球 – 适用于所有样式"
+
+msgid "On/off, look and play/pause apply to every style at once. For round styles the orb is the circle in the middle – its size follows the inner radius."
+msgstr "开关、外观和播放/暂停同时适用于所有样式。圆形样式中圆球就是中间的圆 – 其大小跟随内半径。"
+
+msgid "On/off, look and play/pause apply to every style at once – only the size is set for each style."
+msgstr "开关、外观和播放/暂停同时适用于所有样式 – 只有大小按样式单独设置。"
+
+msgid "Clicking the orb"
+msgstr "点击圆球"
+
+msgid "Reset orb"
+msgstr "重置圆球"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Pauses audio and video of every player that is playing (browser with YouTube/Udemy, VLC, Spotify, Elisa, LizardTune…) – a second click resumes them."
+msgstr "暂停所有正在播放的播放器的音频和视频（带 YouTube/Udemy 的浏览器、VLC、Spotify、Elisa、LizardTune…）——再次点击即可继续。"
+
+msgid "No player found"
+msgstr "未找到播放器"
+
+msgid "Playing right now"
+msgstr "正在播放"
+
+msgid "Paused"
+msgstr "已暂停"
+
+msgid "Stopped"
+msgstr "已停止"
+
+msgid "Start music or a video so the orb has something to control."
+msgstr "请播放音乐或视频，让圆球有可以控制的内容。"
+
+msgid "Pause now"
+msgstr "立即暂停"
+
+msgid "Pause / resume"
+msgstr "暂停 / 继续"
+
+msgid "Nothing"
+msgstr "无"
+
+msgid "The widget is not on the desktop right now (e.g. in a panel). Panel, fixed and free placement only work for widgets on the desktop – put SeaQ SoundWave on the desktop for that."
+msgstr "小部件目前不在桌面上（例如在面板中）。贴靠面板、固定和自由放置只适用于桌面上的小部件——请将 SeaQ SoundWave 放到桌面上。"
+
+msgid "Where should the visualizer appear?"
+msgstr "可视化效果应该出现在哪里？"
+
+msgid "Outside the widget the visualizer floats on the desktop behind all windows – the widget itself becomes invisible (in the desktop’s edit mode you see a small icon)."
+msgstr "在小部件之外，可视化效果会悬浮在桌面上、位于所有窗口之后——小部件本身会变为不可见（在桌面的编辑模式下可以看到一个小图标）。"
+
+msgid "Classic, inside the widget frame, sized like any widget"
+msgstr "经典方式，在小部件框内，大小与普通小部件相同"
+
+msgid "Centred at a panel at the top, bottom, left or right"
+msgstr "居中贴靠在顶部、底部、左侧或右侧的面板上"
+
+msgid "At one of nine points of the screen"
+msgstr "位于屏幕九个点之一"
+
+msgid "Free"
+msgstr "自由"
+
+msgid "Drag it with the mouse, lock it with a shortcut"
+msgstr "用鼠标拖动，用快捷键锁定"
+
+msgid "Found: panel at the bottom."
+msgstr "已找到：底部面板。"
+
+msgid "Found: panel at the top."
+msgstr "已找到：顶部面板。"
+
+msgid "Found: panel on the left."
+msgstr "已找到：左侧面板。"
+
+msgid "Found: panel on the right."
+msgstr "已找到：右侧面板。"
+
+msgid "Round styles sit centred above the panel."
+msgstr "圆形样式会居中位于面板上方。"
+
+msgid "The base of the visualizer always points to the panel."
+msgstr "可视化效果的底边始终朝向面板。"
+
+msgid "There is no panel on this edge – until there is one, the visualizer sits at the bottom of the screen."
+msgstr "此边缘没有面板——在此之前，可视化效果位于屏幕底部。"
+
+msgid "Edge"
+msgstr "边缘"
+
+msgid "Height"
+msgstr "高度"
+
+msgid "How far the visualizer rises from the panel"
+msgstr "可视化效果从面板向外伸出的高度"
+
+msgid "Gap to the panel"
+msgstr "与面板的间距"
+
+msgid "Small gap between panel and visualizer"
+msgstr "面板与可视化效果之间的小间隙"
+
+msgid "Offset along the panel"
+msgstr "沿面板偏移"
+
+msgid "0 = exactly centred"
+msgstr "0 = 正好居中"
+
+msgid "Centre"
+msgstr "居中"
+
+msgid "Length"
+msgstr "长度"
+
+msgid "Fixed length"
+msgstr "固定长度"
+
+msgid "Stop before the panel corners"
+msgstr "在面板圆角之前停止"
+
+msgid "So the visualizer does not reach into the rounding of a floating panel"
+msgstr "避免可视化效果伸入浮动面板的圆角"
+
+msgid "Rounded ends"
+msgstr "圆形末端"
+
+msgid "Soft curve at the ends above a floating panel (0 = straight edge)"
+msgstr "浮动面板上方末端的柔和弧线（0 = 直边）"
+
+msgid "Flare at the base"
+msgstr "底部外扩"
+
+msgid "Choose an anchor point. Left and right in the middle turn strip styles sideways."
+msgstr "选择一个锚点。左侧中间和右侧中间会将条带样式旋转到侧面。"
+
+msgid "Anchor point"
+msgstr "锚点"
+
+msgid "Top left"
+msgstr "左上"
+
+msgid "Top centre"
+msgstr "顶部居中"
+
+msgid "Top right"
+msgstr "右上"
+
+msgid "Left centre"
+msgstr "左侧居中"
+
+msgid "Screen centre"
+msgstr "屏幕中央"
+
+msgid "Right centre"
+msgstr "右侧居中"
+
+msgid "Bottom left"
+msgstr "左下"
+
+msgid "Bottom centre"
+msgstr "底部居中"
+
+msgid "Bottom right"
+msgstr "右下"
+
+msgid "Horizontal margin"
+msgstr "水平边距"
+
+msgid "Vertical margin"
+msgstr "垂直边距"
+
+msgid "Share of the screen width (or height)"
+msgstr "占屏幕宽度（或高度）的比例"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Free positioning"
+msgstr "自由放置"
+
+msgid "Moving is active"
+msgstr "正在移动"
+
+msgid "Position is locked"
+msgstr "位置已锁定"
+
+msgid "Drag the blue frame on the desktop. Lock with %1, Enter or a double click."
+msgstr "在桌面上拖动蓝色框。使用 %1、回车或双击锁定。"
+
+msgid "Unlock with %1 – or here:"
+msgstr "使用 %1 解锁——或在这里："
+
+msgid "Move now"
+msgstr "立即移动"
+
+msgid "Orientation"
+msgstr "方向"
+
+msgid "On which side the “base” of the visualizer lies"
+msgstr "可视化效果“底边”所在的一侧"
+
+msgid "Width"
+msgstr "宽度"
+
+msgid "Quick placement"
+msgstr "快速放置"
+
+msgid "The visualizer fills the widget frame."
+msgstr "可视化效果会填满小部件框。"
+
+msgid "Change size and place like any desktop widget (edit mode). A background plate is on the “Style options” page."
+msgstr "像其他桌面小部件一样更改大小和位置（编辑模式）。背景板在“样式选项”页面中。"
+
+msgid "Reset position values"
+msgstr "重置位置值"
+
+msgid "Show pop-up card"
+msgstr "显示弹出卡片"
+
+msgid "A right click on the visualizer (not on the orb) opens a small card with preview, pause, lock and settings. A click on an empty spot closes it."
+msgstr "右键点击可视化效果（不是圆球）会打开一张带预览、暂停、锁定和设置的小卡片。点击空白处即可关闭。"
+
+msgid "Off: a right click opens the widget’s menu (settings editor, move freely, pause, configure)."
+msgstr "关闭：右键点击会打开小部件的菜单（设置编辑器、自由移动、暂停、配置）。"
+
+msgid "Bottom"
+msgstr "底部"
+
+msgid "Top"
+msgstr "顶部"
+
+msgid "Left"
+msgstr "左侧"
+
+msgid "Right"
+msgstr "右侧"
+
+msgid "Like the panel"
+msgstr "与面板相同"
+
+msgid "Whole edge"
+msgstr "整个边缘"
+
+msgid "Adjust options"
+msgstr "调整选项"
+
+msgid "SeaQ SoundWave – Settings"
+msgstr "SeaQ SoundWave – 设置"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Audio engine stopped"
+msgstr "音频引擎已停止"
+
+msgid "Music detected"
+msgstr "检测到音乐"
+
+msgid "Waiting for sound…"
+msgstr "正在等待声音…"
+
+msgid "playing"
+msgstr "正在播放"
+
+msgid "paused"
+msgstr "已暂停"
+
+msgid "Style"
+msgstr "样式"
+
+msgid "Choose how your music looks"
+msgstr "选择你的音乐的外观"
+
+msgid "Style options"
+msgstr "样式选项"
+
+msgid "Adapts to the selected style"
+msgstr "随所选样式而变化"
+
+msgid "Colours"
+msgstr "颜色"
+
+msgid "Colour collection and gradient editor"
+msgstr "颜色集和渐变编辑器"
+
+msgid "In the widget, at the panel, fixed or free"
+msgstr "在小部件内、贴靠面板、固定或自由"
+
+msgid "Behaviour"
+msgstr "行为"
+
+msgid "Orb & playback"
+msgstr "圆球与播放"
+
+msgid "The orb in the middle – a click pauses"
+msgstr "中间的圆球——单击即可暂停"
+
+msgid "Audio"
+msgstr "音频"
+
+msgid "Source, sensitivity and frame rate"
+msgstr "音频源、灵敏度和帧率"
+
+msgid "System"
+msgstr "系统"
+
+msgid "Controls & shortcuts"
+msgstr "控制与快捷键"
+
+msgid "Keyboard shortcuts and mouse gestures"
+msgstr "键盘快捷键和鼠标手势"
+
+msgid "Full screen"
+msgstr "全屏"
+
+msgid "Orb"
+msgstr "圆球"
+
+msgid "macOS Rainbow"
+msgstr "macOS 彩虹"
+
+msgid "Chameleon"
+msgstr "变色龙"
+
+msgid "Apple Music"
+msgstr "Apple Music"
+
+msgid "Sonoma"
+msgstr "Sonoma"
+
+msgid "Sequoia"
+msgstr "Sequoia"
+
+msgid "Peach Evening"
+msgstr "蜜桃黄昏"
+
+msgid "Sunset"
+msgstr "日落"
+
+msgid "Ocean"
+msgstr "海洋"
+
+msgid "Aurora"
+msgstr "极光"
+
+msgid "Light Strings"
+msgstr "光丝"
+
+msgid "Forest"
+msgstr "森林"
+
+msgid "Fire"
+msgstr "火焰"
+
+msgid "Glacier"
+msgstr "冰川"
+
+msgid "Neon"
+msgstr "霓虹"
+
+msgid "Cyberpunk"
+msgstr "赛博朋克"
+
+msgid "Vaporwave"
+msgstr "蒸汽波"
+
+msgid "Synthwave"
+msgstr "合成波"
+
+msgid "Laser"
+msgstr "激光"
+
+msgid "Cotton Candy"
+msgstr "棉花糖"
+
+msgid "Pastel"
+msgstr "粉彩"
+
+msgid "Tropical"
+msgstr "热带"
+
+msgid "Mint"
+msgstr "薄荷"
+
+msgid "Gold"
+msgstr "金色"
+
+msgid "Silver"
+msgstr "银色"
+
+msgid "Rose Gold"
+msgstr "玫瑰金"
+
+msgid "Classic Blue"
+msgstr "经典蓝"
+
+msgid "Nature"
+msgstr "自然"
+
+msgid "Precious"
+msgstr "贵金属"
+
+msgid "Glass"
+msgstr "玻璃"
+
+msgid "Record"
+msgstr "黑胶唱片"
+
+msgid "From palette"
+msgstr "来自调色板"
+
+msgid "Own colour"
+msgstr "自定义颜色"
+
+msgid "Always"
+msgstr "始终"
+
+msgid "On hover"
+msgstr "悬停时"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "Classic"
+msgstr "经典"
+
+msgid "The proven spectrum shapes"
+msgstr "久经考验的频谱形状"
+
+msgid "Colourful, in the style of macOS"
+msgstr "色彩缤纷的 macOS 风格"
+
+msgid "Lines & Light"
+msgstr "线条与光效"
+
+msgid "Light strings and beams – also full screen"
+msgstr "光丝和光束——也可全屏显示"
+
+msgid "Round"
+msgstr "圆形"
+
+msgid "Circular, with a playback orb in the middle"
+msgstr "圆形，中间带有播放圆球"
+
+msgid "Spacing"
+msgstr "间距"
+
+msgid "Fill width automatically"
+msgstr "自动填满宽度"
+
+msgid "Fixed bar width"
+msgstr "固定柱宽"
+
+msgid "Corner radius"
+msgstr "圆角半径"
+
+msgid "Number of elements"
+msgstr "元素数量"
+
+msgid "How many bars, columns or rays are drawn"
+msgstr "绘制多少根柱、列或光线"
+
+msgid "Lines per side"
+msgstr "每侧线条数"
+
+msgid "Line width"
+msgstr "线宽"
+
+msgid "Glow"
+msgstr "发光"
+
+msgid "Amplitude"
+msgstr "振幅"
+
+msgid "Motion speed"
+msgstr "运动速度"
+
+msgid "Fade out at the edges"
+msgstr "边缘淡出"
+
+msgid "Spread"
+msgstr "展开"
+
+msgid "Turns"
+msgstr "圈数"
+
+msgid "Rungs between the strands"
+msgstr "链之间的横档"
+
+msgid "Waviness"
+msgstr "波动程度"
+
+msgid "Light in the middle"
+msgstr "中心光芒"
+
+msgid "A bright light where the lines meet – it breathes with the music"
+msgstr "线条交汇处的明亮光芒——随音乐呼吸"
+
+msgid "Light blending"
+msgstr "光混合"
+
+msgid "Overlaps shine brighter (additive)"
+msgstr "重叠处更亮（叠加）"
+
+msgid "Orb in the middle"
+msgstr "中间的圆球"
+
+msgid "Orb size"
+msgstr "圆球大小"
+
+msgid "Orb style"
+msgstr "圆球样式"
+
+msgid "Record spins"
+msgstr "唱片旋转"
+
+msgid "Turns like on a turntable while music plays and stops on pause"
+msgstr "播放音乐时像唱机一样旋转，暂停时停止"
+
+msgid "Tone arm"
+msgstr "唱臂"
+
+msgid "Swings onto the record when playing and away on pause"
+msgstr "播放时摆到唱片上，暂停时移开"
+
+msgid "Cover on the label"
+msgstr "标签上显示封面"
+
+msgid "Shows the cover of the current song or video in the middle of the record"
+msgstr "在唱片中央显示当前歌曲或视频的封面"
+
+msgid "Orb pulses with the bass"
+msgstr "圆球随低音跳动"
+
+msgid "Orb colour"
+msgstr "圆球颜色"
+
+msgid "Colour of the orb"
+msgstr "圆球的颜色"
+
+msgid "Play/pause on click"
+msgstr "点击播放/暂停"
+
+msgid "Clicking the orb pauses or resumes audio and video"
+msgstr "点击圆球可暂停或继续音频和视频"
+
+msgid "Show play/pause symbol"
+msgstr "显示播放/暂停符号"
+
+msgid "Inner radius"
+msgstr "内半径"
+
+msgid "Ray length"
+msgstr "光线长度"
+
+msgid "Negative = counter-clockwise"
+msgstr "负值 = 逆时针"
+
+msgid "Rings"
+msgstr "环"
+
+msgid "LED rows"
+msgstr "LED 行数"
+
+msgid "Peak caps"
+msgstr "峰值标记"
+
+msgid "Fall speed"
+msgstr "下落速度"
+
+msgid "Reflection"
+msgstr "倒影"
+
+msgid "Reflection strength"
+msgstr "倒影强度"
+
+msgid "Lit windows"
+msgstr "亮灯的窗户"
+
+msgid "Hint inactive elements"
+msgstr "显示未激活的元素"
+
+msgid "Symmetry axes"
+msgstr "对称轴"
+
+msgid "Pulse rings"
+msgstr "脉冲环"
+
+msgid "Layers"
+msgstr "层数"
+
+msgid "Shape"
+msgstr "形状"
+
+msgid "Motion"
+msgstr "运动"
+
+msgid "Light & glow"
+msgstr "光效与发光"
+
+msgid "Bars"
+msgstr "柱状"
+
+msgid "Classic spectrum bars"
+msgstr "经典频谱柱"
+
+msgid "Mirror axis"
+msgstr "镜像轴"
+
+msgid "Bars mirrored around the centre line"
+msgstr "围绕中线镜像的柱"
+
+msgid "Wave"
+msgstr "波浪"
+
+msgid "A soft, filled curve"
+msgstr "柔和的填充曲线"
+
+msgid "Dots"
+msgstr "圆点"
+
+msgid "Floating dots"
+msgstr "悬浮的圆点"
+
+msgid "Particles"
+msgstr "粒子"
+
+msgid "Floating capsules"
+msgstr "悬浮的胶囊"
+
+msgid "Colour waves"
+msgstr "彩色波浪"
+
+msgid "Flowing macOS colours (the original)"
+msgstr "流动的 macOS 色彩（原版）"
+
+msgid "LED matrix"
+msgstr "LED 矩阵"
+
+msgid "Glowing dots in rows and columns"
+msgstr "成行成列的发光点"
+
+msgid "Skyline"
+msgstr "天际线"
+
+msgid "A city that grows with the music"
+msgstr "随音乐生长的城市"
+
+msgid "Rainbow bars"
+msgstr "彩虹柱"
+
+msgid "Rounded bars with peaks and reflection"
+msgstr "带峰值和倒影的圆角柱"
+
+msgid "Double helix"
+msgstr "双螺旋"
+
+msgid "Two glowing strands winding around each other"
+msgstr "两条相互缠绕的发光链"
+
+msgid "Laser fan"
+msgstr "激光扇"
+
+msgid "Beams of light meeting in the middle"
+msgstr "在中间汇聚的光束"
+
+msgid "Light strings"
+msgstr "光丝"
+
+msgid "Fine strings bundled into a point of light"
+msgstr "汇聚成一个光点的细丝"
+
+msgid "Colour streams"
+msgstr "彩色流线"
+
+msgid "Coloured lines flowing into a small orb"
+msgstr "流入小圆球的彩色线条"
+
+msgid "Silk waves"
+msgstr "丝绸波浪"
+
+msgid "Layered, swinging bands of light"
+msgstr "层叠摆动的光带"
+
+msgid "Ring spectrum"
+msgstr "环形频谱"
+
+msgid "Rays all around the orb"
+msgstr "围绕圆球的光线"
+
+msgid "Segment ring"
+msgstr "分段环"
+
+msgid "Concentric glowing segments"
+msgstr "同心发光分段"
+
+msgid "Rings that travel outwards with the bass"
+msgstr "随低音向外扩散的环"
+
+msgid "Liquid orb"
+msgstr "液态球"
+
+msgid "Soft shapes flowing around the orb"
+msgstr "围绕圆球流动的柔和形状"
+
+msgid "Kaleidoscope"
+msgstr "万花筒"
+
+msgid "A fractal-like bloom of light petals"
+msgstr "由光之花瓣组成的分形花朵"
+

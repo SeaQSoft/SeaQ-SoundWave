@@ -1,0 +1,1233 @@
+# Deutsch translation of SeaQ SoundWave.
+# Copyright (C) 2026 SeaQ
+# This file is distributed under the same license as the SeaQ SoundWave package.
+msgid ""
+msgstr ""
+"Project-Id-Version: seaq-soundwave 2.5.0\n"
+"Report-Msgid-Bugs-To: https://github.com/SeaQSoft/SeaQ-SoundWave/issues\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "At the panel"
+msgstr "An der Taskleiste"
+
+msgid "Fixed position"
+msgstr "Feste Position"
+
+msgid "Placed freely"
+msgstr "Frei platziert"
+
+msgid "In the widget"
+msgstr "Im Widget"
+
+msgid "Moving active"
+msgstr "Verschieben aktiv"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Resume"
+msgstr "Fortsetzen"
+
+msgid "Lock position (%1)"
+msgstr "Position feststellen (%1)"
+
+msgid "Move freely (%1)"
+msgstr "Frei positionieren (%1)"
+
+msgid "Settings editor"
+msgstr "Einstellungseditor"
+
+msgid "Fixed position on the screen"
+msgstr "Feste Position auf dem Bildschirm"
+
+msgid "Freely movable"
+msgstr "Frei verschiebbar"
+
+msgid "Quick settings · everything else in the settings editor"
+msgstr "Schnelleinstellungen · alles Weitere im Einstellungseditor"
+
+msgid "Open settings editor…"
+msgstr "Einstellungseditor öffnen …"
+
+msgid "Style:"
+msgstr "Stil:"
+
+msgid "Colour palette:"
+msgstr "Farbpalette:"
+
+msgid "Custom colours"
+msgstr "Eigene Farben"
+
+msgid "Let the colours flow"
+msgstr "Farben fließen lassen"
+
+msgid "Placement:"
+msgstr "Platzierung:"
+
+msgid "Move freely, lock and unlock again: shortcut %1 (change it on the “Keyboard Shortcuts” page or in the settings editor)."
+msgstr "Frei positionieren, feststellen und wieder lösen: Tastenkürzel %1 (änderbar im Reiter „Tastaturkürzel“ oder im Einstellungseditor)."
+
+msgid "Sensitivity:"
+msgstr "Empfindlichkeit:"
+
+msgid "Clicking the orb:"
+msgstr "Klick auf die Kugel:"
+
+msgid "Pause / resume audio and video"
+msgstr "Ton und Video pausieren / fortsetzen"
+
+msgid "Do nothing"
+msgstr "Nichts tun"
+
+msgid "no shortcut"
+msgstr "kein Kürzel"
+
+msgid "Free positioning only works while the widget sits on the desktop."
+msgstr "Frei positionieren geht nur, wenn das Widget auf dem Desktop liegt."
+
+msgid "Repair"
+msgstr "Reparieren"
+
+msgid "Don't report again"
+msgstr "Nicht mehr melden"
+
+msgid "Sound of %1 is muted"
+msgstr "Ton von %1 ist stumm"
+
+msgid "The system remembered this app as muted or at 0 %. Click “Repair” to give it its sound back."
+msgstr "Das System hat diese App als stumm oder auf 0 % gespeichert. Klicke auf „Reparieren“, um den Ton zurückzuholen."
+
+msgid "The settings editor could not be loaded."
+msgstr "Der Einstellungseditor konnte nicht geladen werden."
+
+msgid "Lock position"
+msgstr "Position feststellen"
+
+msgid "Move freely"
+msgstr "Frei positionieren"
+
+msgid "Pause playback"
+msgstr "Wiedergabe pausieren"
+
+msgid "Resume playback"
+msgstr "Wiedergabe fortsetzen"
+
+msgid "No audio capture tool found.\nPlease install “pulseaudio-utils” or “pipewire-utils” (or “cava”) and add the widget again."
+msgstr "Kein Audio-Aufnahmewerkzeug gefunden.\nBitte „pulseaudio-utils“ oder „pipewire-utils“ (oder „cava“) installieren und das Widget neu hinzufügen."
+
+msgid "The audio engine could not be started."
+msgstr "Die Audio-Engine konnte nicht gestartet werden."
+
+msgid "Drag = move · Edges and corners = resize · Wheel = zoom · Arrow keys = 1 px (⇧ 10 px)"
+msgstr "Ziehen = verschieben · Kanten und Ecken = Größe · Mausrad = zoomen · Pfeiltasten = 1 px (⇧ 10 px)"
+
+msgid "Lock (%1 / Enter)"
+msgstr "Feststellen (%1 / Enter)"
+
+msgid "Configure SeaQ SoundWave…"
+msgstr "SeaQ SoundWave einrichten …"
+
+msgid "Choose a colour"
+msgstr "Farbe wählen"
+
+msgid "Copied to the clipboard"
+msgstr "In die Zwischenablage kopiert"
+
+msgid "My palette %1"
+msgstr "Meine Palette %1"
+
+msgid "“%1” saved"
+msgstr "„%1“ gespeichert"
+
+msgid "Colour"
+msgstr "Farbe"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Rotation"
+msgstr "Rotation"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Auto: every visualizer lays out the colours itself (e.g. per line, all around or from bottom to top)."
+msgstr "Auto: Jeder Visualizer legt die Farben selbst passend an (z. B. pro Linie, rundherum oder von unten nach oben)."
+
+msgid "The gradient covers the whole visualizer – rotation and type apply as set above."
+msgstr "Der Verlauf liegt über dem ganzen Visualizer – Rotation und Typ gelten wie oben eingestellt."
+
+msgid "Random"
+msgstr "Zufällig"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Name of the palette"
+msgstr "Name der Palette"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Preview with the current visualizer"
+msgstr "Vorschau mit dem aktuellen Visualizer"
+
+msgid "Gradient"
+msgstr "Verlauf"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Linear"
+msgstr "Linear"
+
+msgid "Radial"
+msgstr "Radial"
+
+msgid "Conic"
+msgstr "Konisch"
+
+msgid "Copy CSS"
+msgstr "CSS kopieren"
+
+msgid "Copy hex values"
+msgstr "Hex-Werte kopieren"
+
+msgid "Reverse colours"
+msgstr "Farben umkehren"
+
+msgid "Spread evenly"
+msgstr "Gleichmäßig verteilen"
+
+msgid "Live"
+msgstr "Live"
+
+msgid "Demo · nothing is playing right now"
+msgstr "Demo · gerade keine Wiedergabe"
+
+msgid "Version %1 · by %2"
+msgstr "Version %1 · von %2"
+
+msgid "Support SeaQ SoundWave"
+msgstr "SeaQ SoundWave unterstützen"
+
+msgid "If you like the widget, you can support its development – thank you!"
+msgstr "Wenn dir das Widget gefällt, kannst du die Entwicklung unterstützen – danke!"
+
+msgid "Donate with PayPal"
+msgstr "Mit PayPal spenden"
+
+msgid "Buy me a coffee"
+msgstr "Spendier mir einen Kaffee"
+
+msgid "About"
+msgstr "Über"
+
+msgid "Audio visualizer for KDE Plasma 6"
+msgstr "Audio-Visualizer für KDE Plasma 6"
+
+msgid "19 styles in four groups, colour collection with gradient editor, orb with play/pause, panel attachment, fixed or free position on the desktop."
+msgstr "19 Stile in vier Gruppen, Farbkollektion mit Verlaufseditor, Kugel mit Play/Pause, Anheften an die Taskleiste, feste oder freie Position auf dem Desktop."
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "Appearance"
+msgstr "Erscheinungsbild"
+
+msgid "Logo in the taskbar"
+msgstr "Logo in der Taskleiste"
+
+msgid "Shows the SeaQ SoundWave logo instead of the Plasma logo while a settings window is open. Adds a hidden desktop file and a KWin window rule – switching it off removes both again."
+msgstr "Zeigt das SeaQ-SoundWave-Logo statt des Plasma-Logos, solange ein Einstellungsfenster offen ist. Legt eine versteckte Desktop-Datei und eine KWin-Fensterregel an – beim Ausschalten wird beides wieder entfernt."
+
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+msgid "Everything to factory settings"
+msgstr "Alles auf Werkseinstellungen"
+
+msgid "Style, style options, colours, position, orb, audio and editor – everything like right after installing. Your own palettes are kept."
+msgstr "Stil, Stil-Optionen, Farben, Position, Kugel, Audio und Editor – alles wie nach der Installation. Deine eigenen Paletten bleiben erhalten."
+
+msgid "Yes, reset everything"
+msgstr "Ja, alles zurücksetzen"
+
+msgid "Factory settings"
+msgstr "Werkseinstellungen"
+
+msgid "Reset the options of all styles"
+msgstr "Optionen aller Stile zurücksetzen"
+
+msgid "Sets the shape settings of every style back to the defaults"
+msgstr "Setzt die Formeinstellungen jedes Stils auf die Standardwerte"
+
+msgid "Really?"
+msgstr "Wirklich?"
+
+msgid "Reset colours"
+msgstr "Farben zurücksetzen"
+
+msgid "macOS rainbow, colour flow on"
+msgstr "macOS-Regenbogen, Farbfluss an"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Light"
+msgstr "Hell"
+
+msgid "Dark"
+msgstr "Dunkel"
+
+msgid "Analysis"
+msgstr "Analyse"
+
+msgid "Frequency bands"
+msgstr "Frequenzbänder"
+
+msgid "Detail of the spectrum"
+msgstr "Feinheit des Spektrums"
+
+msgid "Sensitivity"
+msgstr "Empfindlichkeit"
+
+msgid "Frame rate"
+msgstr "Bildrate"
+
+msgid "Fewer frames per second save power"
+msgstr "Weniger Bilder pro Sekunde sparen Strom"
+
+msgid "Smoothing"
+msgstr "Glättung"
+
+msgid "Audio source"
+msgstr "Audioquelle"
+
+msgid "Audio engine"
+msgstr "Audio-Engine"
+
+msgid "Automatic uses cava when it is installed – otherwise the built-in analysis (needs only parec or pw-record)."
+msgstr "Automatisch nimmt cava, wenn es installiert ist – sonst die eingebaute Analyse (braucht nur parec oder pw-record)."
+
+msgid "Input method (cava only)"
+msgstr "Eingangsmethode (nur cava)"
+
+msgid "Source"
+msgstr "Quelle"
+
+msgid "“auto” shows whatever is playing. Find other sources with “pactl list short sources”."
+msgstr "„auto“ zeigt, was gerade abgespielt wird. Weitere Quellen findest du mit „pactl list short sources“."
+
+msgid "Audio protection"
+msgstr "Ton-Schutz"
+
+msgid "SoundWave keeps its own recording stream out of the audio memory. If an app ends up muted or at 0 % anyway (as remembered by the system), it can be repaired here."
+msgstr "SoundWave hält seinen eigenen Aufnahme-Strom aus dem Audio-Gedächtnis heraus. Ist eine App trotzdem stumm oder auf 0 % gespeichert, kannst du sie hier reparieren."
+
+msgid "Repairing only unmutes and only raises a volume that is at 0 % (to the normal 100 %). Cleaning the remembered settings briefly restarts the audio service."
+msgstr "Die Reparatur hebt nur die Stummschaltung auf und hebt nur eine Lautstärke von 0 % an (auf normale 100 %). Das Bereinigen der gespeicherten Einstellungen startet den Audiodienst kurz neu."
+
+msgid "When a muted app is found"
+msgstr "Wenn eine stumme App gefunden wird"
+
+msgid "Muted or silent: %1"
+msgstr "Stumm oder lautlos: %1"
+
+msgid "All apps can be heard"
+msgstr "Alle Apps sind hörbar"
+
+msgid "Check now"
+msgstr "Jetzt prüfen"
+
+msgid "Repair now"
+msgstr "Jetzt reparieren"
+
+msgid "Not reported: %1"
+msgstr "Nicht gemeldet: %1"
+
+msgid "Apps you muted on purpose"
+msgstr "Apps, die du absichtlich stummgeschaltet hast"
+
+msgid "Clear list"
+msgstr "Liste leeren"
+
+msgid "Built-in"
+msgstr "Eingebaut"
+
+msgid "Notify"
+msgstr "Benachrichtigen"
+
+msgid "Repair automatically"
+msgstr "Automatisch reparieren"
+
+msgid "Off"
+msgstr "Aus"
+
+msgid "Colour collection"
+msgstr "Farbkollektion"
+
+msgid "One click recolours the visualizer at once – save your own palettes in the gradient editor."
+msgstr "Ein Klick färbt den Visualizer sofort ein – eigene Paletten speicherst du im Verlaufseditor."
+
+msgid "No palettes of your own yet. Put colours together in the gradient editor below and click “Save”."
+msgstr "Noch keine eigenen Paletten. Stelle unten im Verlaufseditor Farben zusammen und klicke auf „Speichern“."
+
+msgid "Gradient editor"
+msgstr "Verlaufseditor"
+
+msgid "Drag the points on the colour bar, click the bar to add a colour. The preview on the right shows the gradient or – with the button at its top right – your visualizer."
+msgstr "Punkte auf dem Farbbalken ziehen, auf den Balken klicken, um eine Farbe hinzuzufügen. Die Vorschau rechts zeigt den Verlauf oder – per Knopf oben rechts – deinen Visualizer."
+
+msgid "Colour flow"
+msgstr "Farbfluss"
+
+msgid "The palette slowly moves through the visualizer – like the macOS colour waves"
+msgstr "Die Palette wandert langsam durch den Visualizer – wie bei den macOS-Farbwellen"
+
+msgid "Speed"
+msgstr "Geschwindigkeit"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Mine"
+msgstr "Eigene"
+
+msgid "Keyboard shortcut"
+msgstr "Tastenkürzel"
+
+msgid "A global shortcut for free positioning – it works everywhere, even when a window is in front."
+msgstr "Ein globales Kürzel für das freie Positionieren – es funktioniert überall, auch wenn ein Fenster im Vordergrund ist."
+
+msgid "Move freely / lock / unlock"
+msgstr "Frei positionieren / feststellen / lösen"
+
+msgid "Current: %1. Click the field and press the new combination."
+msgstr "Aktuell: %1. Klicke auf das Feld und drücke die neue Kombination."
+
+msgid "Change it via right click → Configure → Keyboard Shortcuts"
+msgstr "Ändern über Rechtsklick → Einrichten → Tastaturkürzel"
+
+msgid "How free positioning works"
+msgstr "So funktioniert das freie Positionieren"
+
+msgid "Unlock"
+msgstr "Lösen"
+
+msgid "Press %1 (or choose “Position” → “Free”, or the lock on the pop-up card). A blue frame appears around the visualizer."
+msgstr "Drücke %1 (oder wähle „Position“ → „Frei“ bzw. das Schloss auf der Popup-Karte). Um den Visualizer erscheint ein blauer Rahmen."
+
+msgid "Move & resize"
+msgstr "Verschieben & Größe ändern"
+
+msgid "Drag the frame with the mouse. The handles on every edge and corner change the size, the mouse wheel zooms, arrow keys move by 1 px (with Shift 10 px), + and − scale. It snaps to the centre of the screen."
+msgstr "Rahmen mit der Maus ziehen. Die Griffe an allen Kanten und Ecken ändern die Größe, das Mausrad zoomt, Pfeiltasten verschieben um 1 px (mit Umschalt 10 px), + und − skalieren. In der Bildschirmmitte rastet er ein."
+
+msgid "Lock"
+msgstr "Feststellen"
+
+msgid "%1 again, Enter, Esc, a double click or the “Lock” button. Afterwards the visualizer lies behind all windows again and lets clicks through to the desktop."
+msgstr "Erneut %1, Enter, Esc, Doppelklick oder der Knopf „Feststellen“. Danach liegt der Visualizer wieder hinter allen Fenstern und lässt Klicks auf den Desktop durch."
+
+msgid "Unlock again"
+msgstr "Wieder lösen"
+
+msgid "Any time with the same shortcut – the widget itself stays where it is."
+msgstr "Jederzeit mit demselben Kürzel – das Widget selbst bleibt dabei, wo es ist."
+
+msgid "Mouse & menus"
+msgstr "Maus & Menüs"
+
+msgid "Click on the orb"
+msgstr "Klick auf die Kugel"
+
+msgid "Pauses or resumes audio and video (see “Orb & playback”)"
+msgstr "Pausiert bzw. setzt Ton und Video fort (siehe „Kugel & Wiedergabe“)"
+
+msgid "Click"
+msgstr "Klick"
+
+msgid "Right click on the visualizer"
+msgstr "Rechtsklick auf den Visualizer"
+
+msgid "Opens the pop-up card – or, with the card switched off, the menu"
+msgstr "Öffnet die Popup-Karte – oder, wenn sie ausgeschaltet ist, das Menü"
+
+msgid "Right click"
+msgstr "Rechtsklick"
+
+msgid "Quick settings"
+msgstr "Schnelleinstellungen"
+
+msgid "“Configure SeaQ SoundWave…” shows the most important options and the button to this editor"
+msgstr "„SeaQ SoundWave einrichten …“ zeigt die wichtigsten Optionen und den Knopf zu diesem Editor"
+
+msgid "Close the editor"
+msgstr "Editor schließen"
+
+msgid "This page adapts itself: you only see the settings that the style “%1” really uses. Every style remembers its own values."
+msgstr "Diese Seite passt sich an: Du siehst nur die Einstellungen, die der Stil „%1“ wirklich nutzt. Jeder Stil merkt sich seine Werte selbst."
+
+msgid "Defaults"
+msgstr "Standardwerte"
+
+msgid "No options of its own"
+msgstr "Keine eigenen Optionen"
+
+msgid "“%1” has no additional shape settings."
+msgstr "„%1“ hat keine zusätzlichen Formeinstellungen."
+
+msgid "Set colours and colour flow on the “Colours” page, opacity further down."
+msgstr "Farben und Farbfluss stellst du unter „Farben“ ein, die Deckkraft weiter unten."
+
+msgid "For all styles"
+msgstr "Für alle Stile"
+
+msgid "Opacity"
+msgstr "Deckkraft"
+
+msgid "How softly the motion follows the music"
+msgstr "Wie weich die Bewegung der Musik folgt"
+
+msgid "Background plate"
+msgstr "Hintergrundfläche"
+
+msgid "Square at the bottom so that “%1” sits flush – rounded at the top"
+msgstr "Unten eckig, damit „%1“ bündig aufliegt – oben abgerundet"
+
+msgid "Rounded all around, because “%1” floats freely in the middle"
+msgstr "Rundum abgerundet, weil „%1“ frei in der Mitte schwebt"
+
+msgid "Corner radius of the plate"
+msgstr "Eckenradius der Fläche"
+
+msgid "“%1” has no orb"
+msgstr "„%1“ hat keine Kugel"
+
+msgid "The orb exists for the line, light and round styles. Pick one of them:"
+msgstr "Die Kugel gibt es bei den Linien-, Licht- und runden Stilen. Wähle einen davon:"
+
+msgid "Orb – for all styles"
+msgstr "Kugel – für alle Stile"
+
+msgid "On/off, look and play/pause apply to every style at once. For round styles the orb is the circle in the middle – its size follows the inner radius."
+msgstr "An/Aus, Aussehen und Play/Pause gelten für alle Stile gleichzeitig. Bei runden Stilen ist die Kugel der Kreis in der Mitte – ihre Größe folgt dem Innenradius."
+
+msgid "On/off, look and play/pause apply to every style at once – only the size is set for each style."
+msgstr "An/Aus, Aussehen und Play/Pause gelten für alle Stile gleichzeitig – nur die Größe wird pro Stil eingestellt."
+
+msgid "Clicking the orb"
+msgstr "Klick auf die Kugel"
+
+msgid "Reset orb"
+msgstr "Kugel zurücksetzen"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Pauses audio and video of every player that is playing (browser with YouTube/Udemy, VLC, Spotify, Elisa, LizardTune…) – a second click resumes them."
+msgstr "Pausiert Ton und Video aller Player, die gerade spielen (Browser mit YouTube/Udemy, VLC, Spotify, Elisa, LizardTune …) – ein zweiter Klick setzt sie fort."
+
+msgid "No player found"
+msgstr "Kein Player gefunden"
+
+msgid "Playing right now"
+msgstr "Spielt gerade"
+
+msgid "Paused"
+msgstr "Pausiert"
+
+msgid "Stopped"
+msgstr "Gestoppt"
+
+msgid "Start music or a video so the orb has something to control."
+msgstr "Starte Musik oder ein Video, damit die Kugel etwas steuern kann."
+
+msgid "Pause now"
+msgstr "Jetzt pausieren"
+
+msgid "Pause / resume"
+msgstr "Pause / Fortsetzen"
+
+msgid "Nothing"
+msgstr "Nichts"
+
+msgid "The widget is not on the desktop right now (e.g. in a panel). Panel, fixed and free placement only work for widgets on the desktop – put SeaQ SoundWave on the desktop for that."
+msgstr "Das Widget liegt gerade nicht auf dem Desktop (z. B. in einer Leiste). Taskleiste, feste und freie Position gibt es nur für Widgets auf dem Desktop – lege SeaQ SoundWave dafür auf den Desktop."
+
+msgid "Where should the visualizer appear?"
+msgstr "Wo soll der Visualizer erscheinen?"
+
+msgid "Outside the widget the visualizer floats on the desktop behind all windows – the widget itself becomes invisible (in the desktop’s edit mode you see a small icon)."
+msgstr "Außerhalb des Widgets schwebt der Visualizer auf dem Desktop hinter allen Fenstern – das Widget selbst wird unsichtbar (im Bearbeitungsmodus des Desktops siehst du ein kleines Symbol)."
+
+msgid "Classic, inside the widget frame, sized like any widget"
+msgstr "Klassisch im Widget-Rahmen, Größe wie jedes Widget"
+
+msgid "Centred at a panel at the top, bottom, left or right"
+msgstr "Zentriert an einer Taskleiste oben, unten, links oder rechts"
+
+msgid "At one of nine points of the screen"
+msgstr "An einem von neun Punkten des Bildschirms"
+
+msgid "Free"
+msgstr "Frei"
+
+msgid "Drag it with the mouse, lock it with a shortcut"
+msgstr "Mit der Maus hinziehen, per Kürzel feststellen"
+
+msgid "Found: panel at the bottom."
+msgstr "Gefunden: Taskleiste unten."
+
+msgid "Found: panel at the top."
+msgstr "Gefunden: Taskleiste oben."
+
+msgid "Found: panel on the left."
+msgstr "Gefunden: Taskleiste links."
+
+msgid "Found: panel on the right."
+msgstr "Gefunden: Taskleiste rechts."
+
+msgid "Round styles sit centred above the panel."
+msgstr "Runde Stile sitzen mittig über der Leiste."
+
+msgid "The base of the visualizer always points to the panel."
+msgstr "Der Fuß des Visualizers zeigt immer zur Leiste."
+
+msgid "There is no panel on this edge – until there is one, the visualizer sits at the bottom of the screen."
+msgstr "An dieser Kante gibt es keine Taskleiste – bis dahin sitzt der Visualizer unten am Bildschirm."
+
+msgid "Edge"
+msgstr "Kante"
+
+msgid "Height"
+msgstr "Höhe"
+
+msgid "How far the visualizer rises from the panel"
+msgstr "Wie weit der Visualizer von der Leiste aufragt"
+
+msgid "Gap to the panel"
+msgstr "Abstand zur Taskleiste"
+
+msgid "Small gap between panel and visualizer"
+msgstr "Kleiner Spalt zwischen Leiste und Visualizer"
+
+msgid "Offset along the panel"
+msgstr "Verschiebung entlang der Leiste"
+
+msgid "0 = exactly centred"
+msgstr "0 = genau mittig"
+
+msgid "Centre"
+msgstr "Mittig"
+
+msgid "Length"
+msgstr "Länge"
+
+msgid "Fixed length"
+msgstr "Feste Länge"
+
+msgid "Stop before the panel corners"
+msgstr "Vor den Leistenecken stoppen"
+
+msgid "So the visualizer does not reach into the rounding of a floating panel"
+msgstr "Damit der Visualizer nicht in die Rundung einer schwebenden Leiste ragt"
+
+msgid "Rounded ends"
+msgstr "Runde Enden"
+
+msgid "Soft curve at the ends above a floating panel (0 = straight edge)"
+msgstr "Weicher Bogen an den Enden über einer schwebenden Leiste (0 = gerade Kante)"
+
+msgid "Flare at the base"
+msgstr "Ausbuchtung am Fuß"
+
+msgid "Choose an anchor point. Left and right in the middle turn strip styles sideways."
+msgstr "Wähle einen Ankerpunkt. Links und rechts in der Mitte drehen Streifen-Stile zur Seite."
+
+msgid "Anchor point"
+msgstr "Ankerpunkt"
+
+msgid "Top left"
+msgstr "Oben links"
+
+msgid "Top centre"
+msgstr "Oben mittig"
+
+msgid "Top right"
+msgstr "Oben rechts"
+
+msgid "Left centre"
+msgstr "Links mittig"
+
+msgid "Screen centre"
+msgstr "Bildschirmmitte"
+
+msgid "Right centre"
+msgstr "Rechts mittig"
+
+msgid "Bottom left"
+msgstr "Unten links"
+
+msgid "Bottom centre"
+msgstr "Unten mittig"
+
+msgid "Bottom right"
+msgstr "Unten rechts"
+
+msgid "Horizontal margin"
+msgstr "Abstand waagerecht"
+
+msgid "Vertical margin"
+msgstr "Abstand senkrecht"
+
+msgid "Share of the screen width (or height)"
+msgstr "Anteil der Bildschirmbreite (bzw. -höhe)"
+
+msgid "Size"
+msgstr "Größe"
+
+msgid "Free positioning"
+msgstr "Frei positionieren"
+
+msgid "Moving is active"
+msgstr "Verschieben ist aktiv"
+
+msgid "Position is locked"
+msgstr "Position ist festgestellt"
+
+msgid "Drag the blue frame on the desktop. Lock with %1, Enter or a double click."
+msgstr "Ziehe den blauen Rahmen auf dem Desktop. Feststellen mit %1, Enter oder Doppelklick."
+
+msgid "Unlock with %1 – or here:"
+msgstr "Lösen mit %1 – oder hier:"
+
+msgid "Move now"
+msgstr "Jetzt verschieben"
+
+msgid "Orientation"
+msgstr "Ausrichtung"
+
+msgid "On which side the “base” of the visualizer lies"
+msgstr "Auf welcher Seite der „Fuß“ des Visualizers liegt"
+
+msgid "Width"
+msgstr "Breite"
+
+msgid "Quick placement"
+msgstr "Schnell platzieren"
+
+msgid "The visualizer fills the widget frame."
+msgstr "Der Visualizer füllt den Widget-Rahmen."
+
+msgid "Change size and place like any desktop widget (edit mode). A background plate is on the “Style options” page."
+msgstr "Größe und Lage änderst du wie bei jedem Desktop-Widget (Bearbeitungsmodus). Eine Hintergrundfläche findest du unter „Stil-Optionen“."
+
+msgid "Reset position values"
+msgstr "Positionswerte zurücksetzen"
+
+msgid "Show pop-up card"
+msgstr "Popup-Karte anzeigen"
+
+msgid "A right click on the visualizer (not on the orb) opens a small card with preview, pause, lock and settings. A click on an empty spot closes it."
+msgstr "Rechtsklick auf den Visualizer (nicht auf die Kugel) öffnet eine kleine Karte mit Vorschau, Pause, Schloss und Einstellungen. Ein Klick auf eine leere Fläche schließt sie."
+
+msgid "Off: a right click opens the widget’s menu (settings editor, move freely, pause, configure)."
+msgstr "Aus: Rechtsklick öffnet das Menü des Widgets (Einstellungseditor, frei positionieren, Pause, Einrichten)."
+
+msgid "Bottom"
+msgstr "Unten"
+
+msgid "Top"
+msgstr "Oben"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Like the panel"
+msgstr "Wie die Leiste"
+
+msgid "Whole edge"
+msgstr "Ganze Kante"
+
+msgid "Adjust options"
+msgstr "Optionen anpassen"
+
+msgid "SeaQ SoundWave – Settings"
+msgstr "SeaQ SoundWave – Einstellungen"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "Audio engine stopped"
+msgstr "Audio-Engine gestoppt"
+
+msgid "Music detected"
+msgstr "Musik erkannt"
+
+msgid "Waiting for sound…"
+msgstr "Warte auf Ton …"
+
+msgid "playing"
+msgstr "spielt"
+
+msgid "paused"
+msgstr "pausiert"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Choose how your music looks"
+msgstr "Wähle, wie deine Musik aussieht"
+
+msgid "Style options"
+msgstr "Stil-Optionen"
+
+msgid "Adapts to the selected style"
+msgstr "Passt sich an den gewählten Stil an"
+
+msgid "Colours"
+msgstr "Farben"
+
+msgid "Colour collection and gradient editor"
+msgstr "Farbkollektion und Verlaufseditor"
+
+msgid "In the widget, at the panel, fixed or free"
+msgstr "Im Widget, an der Taskleiste, fest oder frei"
+
+msgid "Behaviour"
+msgstr "Verhalten"
+
+msgid "Orb & playback"
+msgstr "Kugel & Wiedergabe"
+
+msgid "The orb in the middle – a click pauses"
+msgstr "Die Kugel in der Mitte – ein Klick pausiert"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Source, sensitivity and frame rate"
+msgstr "Quelle, Empfindlichkeit und Bildrate"
+
+msgid "System"
+msgstr "System"
+
+msgid "Controls & shortcuts"
+msgstr "Bedienung & Kürzel"
+
+msgid "Keyboard shortcuts and mouse gestures"
+msgstr "Tastenkürzel und Mausgesten"
+
+msgid "Full screen"
+msgstr "Vollbild"
+
+msgid "Orb"
+msgstr "Kugel"
+
+msgid "macOS Rainbow"
+msgstr "macOS-Regenbogen"
+
+msgid "Chameleon"
+msgstr "Chamäleon"
+
+msgid "Apple Music"
+msgstr "Apple Music"
+
+msgid "Sonoma"
+msgstr "Sonoma"
+
+msgid "Sequoia"
+msgstr "Sequoia"
+
+msgid "Peach Evening"
+msgstr "Pfirsich-Abend"
+
+msgid "Sunset"
+msgstr "Sonnenuntergang"
+
+msgid "Ocean"
+msgstr "Ozean"
+
+msgid "Aurora"
+msgstr "Polarlicht"
+
+msgid "Light Strings"
+msgstr "Lichtfäden"
+
+msgid "Forest"
+msgstr "Wald"
+
+msgid "Fire"
+msgstr "Feuer"
+
+msgid "Glacier"
+msgstr "Gletscher"
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Cyberpunk"
+msgstr "Cyberpunk"
+
+msgid "Vaporwave"
+msgstr "Vaporwave"
+
+msgid "Synthwave"
+msgstr "Synthwave"
+
+msgid "Laser"
+msgstr "Laser"
+
+msgid "Cotton Candy"
+msgstr "Zuckerwatte"
+
+msgid "Pastel"
+msgstr "Pastell"
+
+msgid "Tropical"
+msgstr "Tropisch"
+
+msgid "Mint"
+msgstr "Minze"
+
+msgid "Gold"
+msgstr "Gold"
+
+msgid "Silver"
+msgstr "Silber"
+
+msgid "Rose Gold"
+msgstr "Roségold"
+
+msgid "Classic Blue"
+msgstr "Klassisch Blau"
+
+msgid "Nature"
+msgstr "Natur"
+
+msgid "Precious"
+msgstr "Edel"
+
+msgid "Glass"
+msgstr "Glas"
+
+msgid "Record"
+msgstr "Schallplatte"
+
+msgid "From palette"
+msgstr "Aus der Palette"
+
+msgid "Own colour"
+msgstr "Eigene Farbe"
+
+msgid "Always"
+msgstr "Immer"
+
+msgid "On hover"
+msgstr "Beim Überfahren"
+
+msgid "Never"
+msgstr "Nie"
+
+msgid "Classic"
+msgstr "Klassisch"
+
+msgid "The proven spectrum shapes"
+msgstr "Die bewährten Spektrum-Formen"
+
+msgid "Colourful, in the style of macOS"
+msgstr "Farbenfroh im Stil von macOS"
+
+msgid "Lines & Light"
+msgstr "Linien & Licht"
+
+msgid "Light strings and beams – also full screen"
+msgstr "Lichtfäden und Strahlen – auch bildschirmfüllend"
+
+msgid "Round"
+msgstr "Rund"
+
+msgid "Circular, with a playback orb in the middle"
+msgstr "Kreisförmig, mit Wiedergabe-Kugel in der Mitte"
+
+msgid "Spacing"
+msgstr "Abstand"
+
+msgid "Fill width automatically"
+msgstr "Breite automatisch füllen"
+
+msgid "Fixed bar width"
+msgstr "Feste Balkenbreite"
+
+msgid "Corner radius"
+msgstr "Eckenradius"
+
+msgid "Number of elements"
+msgstr "Anzahl Elemente"
+
+msgid "How many bars, columns or rays are drawn"
+msgstr "Wie viele Balken, Spalten oder Strahlen gezeichnet werden"
+
+msgid "Lines per side"
+msgstr "Linien pro Seite"
+
+msgid "Line width"
+msgstr "Linienstärke"
+
+msgid "Glow"
+msgstr "Leuchten"
+
+msgid "Amplitude"
+msgstr "Ausschlag"
+
+msgid "Motion speed"
+msgstr "Bewegungstempo"
+
+msgid "Fade out at the edges"
+msgstr "An den Rändern ausblenden"
+
+msgid "Spread"
+msgstr "Auffächerung"
+
+msgid "Turns"
+msgstr "Windungen"
+
+msgid "Rungs between the strands"
+msgstr "Sprossen zwischen den Strängen"
+
+msgid "Waviness"
+msgstr "Welligkeit"
+
+msgid "Light in the middle"
+msgstr "Licht in der Mitte"
+
+msgid "A bright light where the lines meet – it breathes with the music"
+msgstr "Ein helles Licht, wo sich die Linien treffen – es atmet mit der Musik"
+
+msgid "Light blending"
+msgstr "Lichtmischung"
+
+msgid "Overlaps shine brighter (additive)"
+msgstr "Überlagerungen strahlen heller (additiv)"
+
+msgid "Orb in the middle"
+msgstr "Kugel in der Mitte"
+
+msgid "Orb size"
+msgstr "Kugelgröße"
+
+msgid "Orb style"
+msgstr "Kugel-Stil"
+
+msgid "Record spins"
+msgstr "Schallplatte dreht sich"
+
+msgid "Turns like on a turntable while music plays and stops on pause"
+msgstr "Dreht sich wie auf einem Plattenspieler, solange Musik läuft, und hält bei Pause an"
+
+msgid "Tone arm"
+msgstr "Tonarm"
+
+msgid "Swings onto the record when playing and away on pause"
+msgstr "Schwenkt beim Abspielen auf die Platte und bei Pause wieder weg"
+
+msgid "Cover on the label"
+msgstr "Cover auf dem Etikett"
+
+msgid "Shows the cover of the current song or video in the middle of the record"
+msgstr "Zeigt das Cover des aktuellen Songs oder Videos in der Mitte der Platte"
+
+msgid "Orb pulses with the bass"
+msgstr "Kugel pulsiert mit dem Bass"
+
+msgid "Orb colour"
+msgstr "Kugelfarbe"
+
+msgid "Colour of the orb"
+msgstr "Farbe der Kugel"
+
+msgid "Play/pause on click"
+msgstr "Play/Pause per Klick"
+
+msgid "Clicking the orb pauses or resumes audio and video"
+msgstr "Ein Klick auf die Kugel pausiert Ton und Video bzw. setzt fort"
+
+msgid "Show play/pause symbol"
+msgstr "Play/Pause-Symbol anzeigen"
+
+msgid "Inner radius"
+msgstr "Innenradius"
+
+msgid "Ray length"
+msgstr "Strahlenlänge"
+
+msgid "Negative = counter-clockwise"
+msgstr "Negativ = gegen den Uhrzeigersinn"
+
+msgid "Rings"
+msgstr "Ringe"
+
+msgid "LED rows"
+msgstr "LED-Zeilen"
+
+msgid "Peak caps"
+msgstr "Spitzenmarken"
+
+msgid "Fall speed"
+msgstr "Fallgeschwindigkeit"
+
+msgid "Reflection"
+msgstr "Spiegelung"
+
+msgid "Reflection strength"
+msgstr "Stärke der Spiegelung"
+
+msgid "Lit windows"
+msgstr "Beleuchtete Fenster"
+
+msgid "Hint inactive elements"
+msgstr "Inaktive Elemente andeuten"
+
+msgid "Symmetry axes"
+msgstr "Symmetrie-Achsen"
+
+msgid "Pulse rings"
+msgstr "Pulsringe"
+
+msgid "Layers"
+msgstr "Ebenen"
+
+msgid "Shape"
+msgstr "Form"
+
+msgid "Motion"
+msgstr "Bewegung"
+
+msgid "Light & glow"
+msgstr "Licht & Leuchten"
+
+msgid "Bars"
+msgstr "Balken"
+
+msgid "Classic spectrum bars"
+msgstr "Klassische Spektrum-Balken"
+
+msgid "Mirror axis"
+msgstr "Spiegelachse"
+
+msgid "Bars mirrored around the centre line"
+msgstr "Balken gespiegelt um die Mittellinie"
+
+msgid "Wave"
+msgstr "Welle"
+
+msgid "A soft, filled curve"
+msgstr "Weiche, gefüllte Kurve"
+
+msgid "Dots"
+msgstr "Punkte"
+
+msgid "Floating dots"
+msgstr "Schwebende Punkte"
+
+msgid "Particles"
+msgstr "Partikel"
+
+msgid "Floating capsules"
+msgstr "Schwebende Kapseln"
+
+msgid "Colour waves"
+msgstr "Farbwellen"
+
+msgid "Flowing macOS colours (the original)"
+msgstr "Fließende macOS-Farben (das Original)"
+
+msgid "LED matrix"
+msgstr "LED-Matrix"
+
+msgid "Glowing dots in rows and columns"
+msgstr "Leuchtpunkte in Zeilen und Spalten"
+
+msgid "Skyline"
+msgstr "Skyline"
+
+msgid "A city that grows with the music"
+msgstr "Eine Stadt, die zur Musik wächst"
+
+msgid "Rainbow bars"
+msgstr "Regenbogen-Balken"
+
+msgid "Rounded bars with peaks and reflection"
+msgstr "Runde Balken mit Spitzen und Spiegelung"
+
+msgid "Double helix"
+msgstr "Doppelhelix"
+
+msgid "Two glowing strands winding around each other"
+msgstr "Zwei leuchtende Stränge, die sich umeinander winden"
+
+msgid "Laser fan"
+msgstr "Laserfächer"
+
+msgid "Beams of light meeting in the middle"
+msgstr "Lichtstrahlen, die in der Mitte zusammenlaufen"
+
+msgid "Light strings"
+msgstr "Lichtfäden"
+
+msgid "Fine strings bundled into a point of light"
+msgstr "Feine Fäden, die zu einem Lichtpunkt gebündelt werden"
+
+msgid "Colour streams"
+msgstr "Farbströme"
+
+msgid "Coloured lines flowing into a small orb"
+msgstr "Farbige Linien fließen in eine kleine Kugel"
+
+msgid "Silk waves"
+msgstr "Seidenwellen"
+
+msgid "Layered, swinging bands of light"
+msgstr "Überlagerte, schwingende Lichtbänder"
+
+msgid "Ring spectrum"
+msgstr "Ring-Spektrum"
+
+msgid "Rays all around the orb"
+msgstr "Strahlen rund um die Kugel"
+
+msgid "Segment ring"
+msgstr "Segment-Ring"
+
+msgid "Concentric glowing segments"
+msgstr "Konzentrische Leuchtsegmente"
+
+msgid "Rings that travel outwards with the bass"
+msgstr "Ringe, die mit dem Bass nach außen laufen"
+
+msgid "Liquid orb"
+msgstr "Flüssig-Orb"
+
+msgid "Soft shapes flowing around the orb"
+msgstr "Weiche Formen, die um die Kugel fließen"
+
+msgid "Kaleidoscope"
+msgstr "Kaleidoskop"
+
+msgid "A fractal-like bloom of light petals"
+msgstr "Fraktal-artige Blüte aus Lichtblättern"
+

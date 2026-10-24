@@ -1,0 +1,1233 @@
+# Nederlands translation of SeaQ SoundWave.
+# Copyright (C) 2026 SeaQ
+# This file is distributed under the same license as the SeaQ SoundWave package.
+msgid ""
+msgstr ""
+"Project-Id-Version: seaq-soundwave 2.5.0\n"
+"Report-Msgid-Bugs-To: https://github.com/SeaQSoft/SeaQ-SoundWave/issues\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "At the panel"
+msgstr "Aan het paneel"
+
+msgid "Fixed position"
+msgstr "Vaste positie"
+
+msgid "Placed freely"
+msgstr "Vrij geplaatst"
+
+msgid "In the widget"
+msgstr "In de widget"
+
+msgid "Moving active"
+msgstr "Verplaatsen actief"
+
+msgid "Pause"
+msgstr "Pauzeren"
+
+msgid "Resume"
+msgstr "Hervatten"
+
+msgid "Lock position (%1)"
+msgstr "Positie vastzetten (%1)"
+
+msgid "Move freely (%1)"
+msgstr "Vrij verplaatsen (%1)"
+
+msgid "Settings editor"
+msgstr "Instellingeneditor"
+
+msgid "Fixed position on the screen"
+msgstr "Vaste positie op het scherm"
+
+msgid "Freely movable"
+msgstr "Vrij verplaatsbaar"
+
+msgid "Quick settings · everything else in the settings editor"
+msgstr "Snelle instellingen · al het andere in de instellingeneditor"
+
+msgid "Open settings editor…"
+msgstr "Instellingeneditor openen…"
+
+msgid "Style:"
+msgstr "Stijl:"
+
+msgid "Colour palette:"
+msgstr "Kleurenpalet:"
+
+msgid "Custom colours"
+msgstr "Eigen kleuren"
+
+msgid "Let the colours flow"
+msgstr "Kleuren laten stromen"
+
+msgid "Placement:"
+msgstr "Plaatsing:"
+
+msgid "Move freely, lock and unlock again: shortcut %1 (change it on the “Keyboard Shortcuts” page or in the settings editor)."
+msgstr "Vrij verplaatsen, vastzetten en weer losmaken: sneltoets %1 (te wijzigen op het tabblad „Sneltoetsen” of in de instellingeneditor)."
+
+msgid "Sensitivity:"
+msgstr "Gevoeligheid:"
+
+msgid "Clicking the orb:"
+msgstr "Klik op de bol:"
+
+msgid "Pause / resume audio and video"
+msgstr "Geluid en video pauzeren / hervatten"
+
+msgid "Do nothing"
+msgstr "Niets doen"
+
+msgid "no shortcut"
+msgstr "geen sneltoets"
+
+msgid "Free positioning only works while the widget sits on the desktop."
+msgstr "Vrij plaatsen werkt alleen als de widget op het bureaublad staat."
+
+msgid "Repair"
+msgstr "Herstellen"
+
+msgid "Don't report again"
+msgstr "Niet meer melden"
+
+msgid "Sound of %1 is muted"
+msgstr "Geluid van %1 is gedempt"
+
+msgid "The system remembered this app as muted or at 0 %. Click “Repair” to give it its sound back."
+msgstr "Het systeem heeft deze app als gedempt of op 0 % onthouden. Klik op „Herstellen” om het geluid terug te krijgen."
+
+msgid "The settings editor could not be loaded."
+msgstr "De instellingeneditor kon niet worden geladen."
+
+msgid "Lock position"
+msgstr "Positie vastzetten"
+
+msgid "Move freely"
+msgstr "Vrij verplaatsen"
+
+msgid "Pause playback"
+msgstr "Afspelen pauzeren"
+
+msgid "Resume playback"
+msgstr "Afspelen hervatten"
+
+msgid "No audio capture tool found.\nPlease install “pulseaudio-utils” or “pipewire-utils” (or “cava”) and add the widget again."
+msgstr "Geen hulpmiddel voor audio-opname gevonden.\nInstalleer „pulseaudio-utils” of „pipewire-utils” (of „cava”) en voeg de widget opnieuw toe."
+
+msgid "The audio engine could not be started."
+msgstr "De audio-engine kon niet worden gestart."
+
+msgid "Drag = move · Edges and corners = resize · Wheel = zoom · Arrow keys = 1 px (⇧ 10 px)"
+msgstr "Slepen = verplaatsen · Randen en hoeken = grootte · Muiswiel = zoomen · Pijltjestoetsen = 1 px (⇧ 10 px)"
+
+msgid "Lock (%1 / Enter)"
+msgstr "Vastzetten (%1 / Enter)"
+
+msgid "Configure SeaQ SoundWave…"
+msgstr "SeaQ SoundWave instellen…"
+
+msgid "Choose a colour"
+msgstr "Kies een kleur"
+
+msgid "Copied to the clipboard"
+msgstr "Naar het klembord gekopieerd"
+
+msgid "My palette %1"
+msgstr "Mijn palet %1"
+
+msgid "“%1” saved"
+msgstr "„%1” opgeslagen"
+
+msgid "Colour"
+msgstr "Kleur"
+
+msgid "Remove"
+msgstr "Verwijderen"
+
+msgid "Position"
+msgstr "Positie"
+
+msgid "Rotation"
+msgstr "Rotatie"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Auto: every visualizer lays out the colours itself (e.g. per line, all around or from bottom to top)."
+msgstr "Auto: elke visualizer legt de kleuren zelf passend aan (bijv. per lijn, rondom of van onder naar boven)."
+
+msgid "The gradient covers the whole visualizer – rotation and type apply as set above."
+msgstr "Het verloop ligt over de hele visualizer – rotatie en type gelden zoals hierboven ingesteld."
+
+msgid "Random"
+msgstr "Willekeurig"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Name of the palette"
+msgstr "Naam van het palet"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Preview with the current visualizer"
+msgstr "Voorbeeld met de huidige visualizer"
+
+msgid "Gradient"
+msgstr "Verloop"
+
+msgid "Auto"
+msgstr "Auto"
+
+msgid "Linear"
+msgstr "Lineair"
+
+msgid "Radial"
+msgstr "Radiaal"
+
+msgid "Conic"
+msgstr "Conisch"
+
+msgid "Copy CSS"
+msgstr "CSS kopiëren"
+
+msgid "Copy hex values"
+msgstr "Hex-waarden kopiëren"
+
+msgid "Reverse colours"
+msgstr "Kleuren omkeren"
+
+msgid "Spread evenly"
+msgstr "Gelijkmatig verdelen"
+
+msgid "Live"
+msgstr "Live"
+
+msgid "Demo · nothing is playing right now"
+msgstr "Demo · er wordt nu niets afgespeeld"
+
+msgid "Version %1 · by %2"
+msgstr "Versie %1 · door %2"
+
+msgid "Support SeaQ SoundWave"
+msgstr "SeaQ SoundWave steunen"
+
+msgid "If you like the widget, you can support its development – thank you!"
+msgstr "Vind je de widget leuk, dan kun je de ontwikkeling steunen – dank je!"
+
+msgid "Donate with PayPal"
+msgstr "Doneren met PayPal"
+
+msgid "Buy me a coffee"
+msgstr "Trakteer me op koffie"
+
+msgid "About"
+msgstr "Over"
+
+msgid "Audio visualizer for KDE Plasma 6"
+msgstr "Audiovisualizer voor KDE Plasma 6"
+
+msgid "19 styles in four groups, colour collection with gradient editor, orb with play/pause, panel attachment, fixed or free position on the desktop."
+msgstr "19 stijlen in vier groepen, kleurencollectie met verloopeditor, bol met afspelen/pauzeren, vastmaken aan het paneel, vaste of vrije positie op het bureaublad."
+
+msgid "Author"
+msgstr "Auteur"
+
+msgid "License"
+msgstr "Licentie"
+
+msgid "Appearance"
+msgstr "Uiterlijk"
+
+msgid "Logo in the taskbar"
+msgstr "Logo in de taakbalk"
+
+msgid "Shows the SeaQ SoundWave logo instead of the Plasma logo while a settings window is open. Adds a hidden desktop file and a KWin window rule – switching it off removes both again."
+msgstr "Toont het SeaQ SoundWave-logo in plaats van het Plasma-logo zolang een instellingenvenster open is. Voegt een verborgen .desktop-bestand en een KWin-vensterregel toe – uitschakelen verwijdert beide weer."
+
+msgid "Reset"
+msgstr "Herstellen"
+
+msgid "Everything to factory settings"
+msgstr "Alles naar fabrieksinstellingen"
+
+msgid "Style, style options, colours, position, orb, audio and editor – everything like right after installing. Your own palettes are kept."
+msgstr "Stijl, stijlopties, kleuren, positie, bol, audio en editor – alles zoals direct na de installatie. Je eigen paletten blijven behouden."
+
+msgid "Yes, reset everything"
+msgstr "Ja, alles herstellen"
+
+msgid "Factory settings"
+msgstr "Fabrieksinstellingen"
+
+msgid "Reset the options of all styles"
+msgstr "Opties van alle stijlen herstellen"
+
+msgid "Sets the shape settings of every style back to the defaults"
+msgstr "Zet de vorminstellingen van elke stijl terug naar de standaardwaarden"
+
+msgid "Really?"
+msgstr "Echt?"
+
+msgid "Reset colours"
+msgstr "Kleuren herstellen"
+
+msgid "macOS rainbow, colour flow on"
+msgstr "macOS-regenboog, kleurstroom aan"
+
+msgid "Automatic"
+msgstr "Automatisch"
+
+msgid "Light"
+msgstr "Licht"
+
+msgid "Dark"
+msgstr "Donker"
+
+msgid "Analysis"
+msgstr "Analyse"
+
+msgid "Frequency bands"
+msgstr "Frequentiebanden"
+
+msgid "Detail of the spectrum"
+msgstr "Detail van het spectrum"
+
+msgid "Sensitivity"
+msgstr "Gevoeligheid"
+
+msgid "Frame rate"
+msgstr "Beeldsnelheid"
+
+msgid "Fewer frames per second save power"
+msgstr "Minder beelden per seconde besparen stroom"
+
+msgid "Smoothing"
+msgstr "Afvlakking"
+
+msgid "Audio source"
+msgstr "Audiobron"
+
+msgid "Audio engine"
+msgstr "Audio-engine"
+
+msgid "Automatic uses cava when it is installed – otherwise the built-in analysis (needs only parec or pw-record)."
+msgstr "Automatisch gebruikt cava als het geïnstalleerd is – anders de ingebouwde analyse (heeft alleen parec of pw-record nodig)."
+
+msgid "Input method (cava only)"
+msgstr "Invoermethode (alleen cava)"
+
+msgid "Source"
+msgstr "Bron"
+
+msgid "“auto” shows whatever is playing. Find other sources with “pactl list short sources”."
+msgstr "„auto” toont wat er nu wordt afgespeeld. Andere bronnen vind je met „pactl list short sources”."
+
+msgid "Audio protection"
+msgstr "Geluidsbescherming"
+
+msgid "SoundWave keeps its own recording stream out of the audio memory. If an app ends up muted or at 0 % anyway (as remembered by the system), it can be repaired here."
+msgstr "SoundWave houdt zijn eigen opnamestroom buiten het audiogeheugen. Staat een app toch gedempt of op 0 % opgeslagen, dan kun je die hier herstellen."
+
+msgid "Repairing only unmutes and only raises a volume that is at 0 % (to the normal 100 %). Cleaning the remembered settings briefly restarts the audio service."
+msgstr "Herstellen heft alleen het dempen op en verhoogt alleen een volume dat op 0 % staat (naar de normale 100 %). Het opschonen van de onthouden instellingen herstart de audiodienst even."
+
+msgid "When a muted app is found"
+msgstr "Als een gedempte app wordt gevonden"
+
+msgid "Muted or silent: %1"
+msgstr "Gedempt of stil: %1"
+
+msgid "All apps can be heard"
+msgstr "Alle apps zijn hoorbaar"
+
+msgid "Check now"
+msgstr "Nu controleren"
+
+msgid "Repair now"
+msgstr "Nu herstellen"
+
+msgid "Not reported: %1"
+msgstr "Niet gemeld: %1"
+
+msgid "Apps you muted on purpose"
+msgstr "Apps die je bewust hebt gedempt"
+
+msgid "Clear list"
+msgstr "Lijst wissen"
+
+msgid "Built-in"
+msgstr "Ingebouwd"
+
+msgid "Notify"
+msgstr "Melden"
+
+msgid "Repair automatically"
+msgstr "Automatisch herstellen"
+
+msgid "Off"
+msgstr "Uit"
+
+msgid "Colour collection"
+msgstr "Kleurencollectie"
+
+msgid "One click recolours the visualizer at once – save your own palettes in the gradient editor."
+msgstr "Eén klik kleurt de visualizer meteen opnieuw – eigen paletten sla je op in de verloopeditor."
+
+msgid "No palettes of your own yet. Put colours together in the gradient editor below and click “Save”."
+msgstr "Nog geen eigen paletten. Stel hieronder in de verloopeditor kleuren samen en klik op „Opslaan”."
+
+msgid "Gradient editor"
+msgstr "Verloopeditor"
+
+msgid "Drag the points on the colour bar, click the bar to add a colour. The preview on the right shows the gradient or – with the button at its top right – your visualizer."
+msgstr "Sleep de punten op de kleurbalk, klik op de balk om een kleur toe te voegen. Het voorbeeld rechts toont het verloop of – met de knop rechtsboven – je visualizer."
+
+msgid "Colour flow"
+msgstr "Kleurstroom"
+
+msgid "The palette slowly moves through the visualizer – like the macOS colour waves"
+msgstr "Het palet beweegt langzaam door de visualizer – zoals bij de macOS-kleurgolven"
+
+msgid "Speed"
+msgstr "Snelheid"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Mine"
+msgstr "Eigen"
+
+msgid "Keyboard shortcut"
+msgstr "Sneltoets"
+
+msgid "A global shortcut for free positioning – it works everywhere, even when a window is in front."
+msgstr "Een globale sneltoets voor vrij plaatsen – hij werkt overal, ook als er een venster op de voorgrond staat."
+
+msgid "Move freely / lock / unlock"
+msgstr "Vrij verplaatsen / vastzetten / losmaken"
+
+msgid "Current: %1. Click the field and press the new combination."
+msgstr "Huidig: %1. Klik op het veld en druk op de nieuwe combinatie."
+
+msgid "Change it via right click → Configure → Keyboard Shortcuts"
+msgstr "Wijzigen via rechtsklik → Instellen → Sneltoetsen"
+
+msgid "How free positioning works"
+msgstr "Zo werkt vrij plaatsen"
+
+msgid "Unlock"
+msgstr "Losmaken"
+
+msgid "Press %1 (or choose “Position” → “Free”, or the lock on the pop-up card). A blue frame appears around the visualizer."
+msgstr "Druk op %1 (of kies „Positie” → „Vrij”, of het slot op de pop-upkaart). Rond de visualizer verschijnt een blauw kader."
+
+msgid "Move & resize"
+msgstr "Verplaatsen en grootte wijzigen"
+
+msgid "Drag the frame with the mouse. The handles on every edge and corner change the size, the mouse wheel zooms, arrow keys move by 1 px (with Shift 10 px), + and − scale. It snaps to the centre of the screen."
+msgstr "Sleep het kader met de muis. De grepen op elke rand en hoek wijzigen de grootte, het muiswiel zoomt, pijltjestoetsen verplaatsen 1 px (met Shift 10 px), + en − schalen. In het midden van het scherm klikt hij vast."
+
+msgid "Lock"
+msgstr "Vastzetten"
+
+msgid "%1 again, Enter, Esc, a double click or the “Lock” button. Afterwards the visualizer lies behind all windows again and lets clicks through to the desktop."
+msgstr "Opnieuw %1, Enter, Esc, een dubbelklik of de knop „Vastzetten”. Daarna ligt de visualizer weer achter alle vensters en laat klikken door naar het bureaublad."
+
+msgid "Unlock again"
+msgstr "Weer losmaken"
+
+msgid "Any time with the same shortcut – the widget itself stays where it is."
+msgstr "Altijd met dezelfde sneltoets – de widget zelf blijft waar hij is."
+
+msgid "Mouse & menus"
+msgstr "Muis en menu’s"
+
+msgid "Click on the orb"
+msgstr "Klik op de bol"
+
+msgid "Pauses or resumes audio and video (see “Orb & playback”)"
+msgstr "Pauzeert of hervat geluid en video (zie „Bol en afspelen”)"
+
+msgid "Click"
+msgstr "Klik"
+
+msgid "Right click on the visualizer"
+msgstr "Rechtsklik op de visualizer"
+
+msgid "Opens the pop-up card – or, with the card switched off, the menu"
+msgstr "Opent de pop-upkaart – of, als die uit staat, het menu"
+
+msgid "Right click"
+msgstr "Rechtsklik"
+
+msgid "Quick settings"
+msgstr "Snelle instellingen"
+
+msgid "“Configure SeaQ SoundWave…” shows the most important options and the button to this editor"
+msgstr "„SeaQ SoundWave instellen…” toont de belangrijkste opties en de knop naar deze editor"
+
+msgid "Close the editor"
+msgstr "Editor sluiten"
+
+msgid "This page adapts itself: you only see the settings that the style “%1” really uses. Every style remembers its own values."
+msgstr "Deze pagina past zich aan: je ziet alleen de instellingen die de stijl „%1” echt gebruikt. Elke stijl onthoudt zijn eigen waarden."
+
+msgid "Defaults"
+msgstr "Standaardwaarden"
+
+msgid "No options of its own"
+msgstr "Geen eigen opties"
+
+msgid "“%1” has no additional shape settings."
+msgstr "„%1” heeft geen extra vorminstellingen."
+
+msgid "Set colours and colour flow on the “Colours” page, opacity further down."
+msgstr "Kleuren en kleurstroom stel je in op de pagina „Kleuren”, de dekking verderop."
+
+msgid "For all styles"
+msgstr "Voor alle stijlen"
+
+msgid "Opacity"
+msgstr "Dekking"
+
+msgid "How softly the motion follows the music"
+msgstr "Hoe zacht de beweging de muziek volgt"
+
+msgid "Background plate"
+msgstr "Achtergrondvlak"
+
+msgid "Square at the bottom so that “%1” sits flush – rounded at the top"
+msgstr "Onderaan recht zodat „%1” mooi aansluit – bovenaan afgerond"
+
+msgid "Rounded all around, because “%1” floats freely in the middle"
+msgstr "Rondom afgerond, omdat „%1” vrij in het midden zweeft"
+
+msgid "Corner radius of the plate"
+msgstr "Hoekradius van het vlak"
+
+msgid "“%1” has no orb"
+msgstr "„%1” heeft geen bol"
+
+msgid "The orb exists for the line, light and round styles. Pick one of them:"
+msgstr "De bol bestaat bij de lijn-, licht- en ronde stijlen. Kies er een:"
+
+msgid "Orb – for all styles"
+msgstr "Bol – voor alle stijlen"
+
+msgid "On/off, look and play/pause apply to every style at once. For round styles the orb is the circle in the middle – its size follows the inner radius."
+msgstr "Aan/uit, uiterlijk en afspelen/pauzeren gelden voor alle stijlen tegelijk. Bij ronde stijlen is de bol de cirkel in het midden – de grootte volgt de binnenstraal."
+
+msgid "On/off, look and play/pause apply to every style at once – only the size is set for each style."
+msgstr "Aan/uit, uiterlijk en afspelen/pauzeren gelden voor alle stijlen tegelijk – alleen de grootte stel je per stijl in."
+
+msgid "Clicking the orb"
+msgstr "Klik op de bol"
+
+msgid "Reset orb"
+msgstr "Bol herstellen"
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Pauses audio and video of every player that is playing (browser with YouTube/Udemy, VLC, Spotify, Elisa, LizardTune…) – a second click resumes them."
+msgstr "Pauzeert geluid en video van alle spelers die nu afspelen (browser met YouTube/Udemy, VLC, Spotify, Elisa, LizardTune…) – een tweede klik hervat ze."
+
+msgid "No player found"
+msgstr "Geen speler gevonden"
+
+msgid "Playing right now"
+msgstr "Speelt nu af"
+
+msgid "Paused"
+msgstr "Gepauzeerd"
+
+msgid "Stopped"
+msgstr "Gestopt"
+
+msgid "Start music or a video so the orb has something to control."
+msgstr "Start muziek of een video, zodat de bol iets te bedienen heeft."
+
+msgid "Pause now"
+msgstr "Nu pauzeren"
+
+msgid "Pause / resume"
+msgstr "Pauzeren / hervatten"
+
+msgid "Nothing"
+msgstr "Niets"
+
+msgid "The widget is not on the desktop right now (e.g. in a panel). Panel, fixed and free placement only work for widgets on the desktop – put SeaQ SoundWave on the desktop for that."
+msgstr "De widget staat nu niet op het bureaublad (bijv. in een paneel). Paneel-, vaste en vrije plaatsing werken alleen voor widgets op het bureaublad – zet SeaQ SoundWave daarvoor op het bureaublad."
+
+msgid "Where should the visualizer appear?"
+msgstr "Waar moet de visualizer verschijnen?"
+
+msgid "Outside the widget the visualizer floats on the desktop behind all windows – the widget itself becomes invisible (in the desktop’s edit mode you see a small icon)."
+msgstr "Buiten de widget zweeft de visualizer op het bureaublad achter alle vensters – de widget zelf wordt onzichtbaar (in de bewerkmodus van het bureaublad zie je een klein pictogram)."
+
+msgid "Classic, inside the widget frame, sized like any widget"
+msgstr "Klassiek in het widgetkader, met de grootte van elke widget"
+
+msgid "Centred at a panel at the top, bottom, left or right"
+msgstr "Gecentreerd aan een paneel boven, onder, links of rechts"
+
+msgid "At one of nine points of the screen"
+msgstr "Op een van de negen punten van het scherm"
+
+msgid "Free"
+msgstr "Vrij"
+
+msgid "Drag it with the mouse, lock it with a shortcut"
+msgstr "Met de muis verslepen, met een sneltoets vastzetten"
+
+msgid "Found: panel at the bottom."
+msgstr "Gevonden: paneel onderaan."
+
+msgid "Found: panel at the top."
+msgstr "Gevonden: paneel bovenaan."
+
+msgid "Found: panel on the left."
+msgstr "Gevonden: paneel links."
+
+msgid "Found: panel on the right."
+msgstr "Gevonden: paneel rechts."
+
+msgid "Round styles sit centred above the panel."
+msgstr "Ronde stijlen staan gecentreerd boven het paneel."
+
+msgid "The base of the visualizer always points to the panel."
+msgstr "De voet van de visualizer wijst altijd naar het paneel."
+
+msgid "There is no panel on this edge – until there is one, the visualizer sits at the bottom of the screen."
+msgstr "Aan deze rand is geen paneel – tot die tijd staat de visualizer onderaan het scherm."
+
+msgid "Edge"
+msgstr "Rand"
+
+msgid "Height"
+msgstr "Hoogte"
+
+msgid "How far the visualizer rises from the panel"
+msgstr "Hoe ver de visualizer boven het paneel uitsteekt"
+
+msgid "Gap to the panel"
+msgstr "Afstand tot het paneel"
+
+msgid "Small gap between panel and visualizer"
+msgstr "Kleine opening tussen paneel en visualizer"
+
+msgid "Offset along the panel"
+msgstr "Verschuiving langs het paneel"
+
+msgid "0 = exactly centred"
+msgstr "0 = precies in het midden"
+
+msgid "Centre"
+msgstr "Centreren"
+
+msgid "Length"
+msgstr "Lengte"
+
+msgid "Fixed length"
+msgstr "Vaste lengte"
+
+msgid "Stop before the panel corners"
+msgstr "Stoppen vóór de paneelhoeken"
+
+msgid "So the visualizer does not reach into the rounding of a floating panel"
+msgstr "Zodat de visualizer niet in de afronding van een zwevend paneel steekt"
+
+msgid "Rounded ends"
+msgstr "Ronde uiteinden"
+
+msgid "Soft curve at the ends above a floating panel (0 = straight edge)"
+msgstr "Zachte boog aan de uiteinden boven een zwevend paneel (0 = rechte rand)"
+
+msgid "Flare at the base"
+msgstr "Uitwaaiering aan de voet"
+
+msgid "Choose an anchor point. Left and right in the middle turn strip styles sideways."
+msgstr "Kies een ankerpunt. Links en rechts in het midden draaien strookstijlen opzij."
+
+msgid "Anchor point"
+msgstr "Ankerpunt"
+
+msgid "Top left"
+msgstr "Linksboven"
+
+msgid "Top centre"
+msgstr "Midden boven"
+
+msgid "Top right"
+msgstr "Rechtsboven"
+
+msgid "Left centre"
+msgstr "Links midden"
+
+msgid "Screen centre"
+msgstr "Midden van het scherm"
+
+msgid "Right centre"
+msgstr "Rechts midden"
+
+msgid "Bottom left"
+msgstr "Linksonder"
+
+msgid "Bottom centre"
+msgstr "Midden onder"
+
+msgid "Bottom right"
+msgstr "Rechtsonder"
+
+msgid "Horizontal margin"
+msgstr "Horizontale marge"
+
+msgid "Vertical margin"
+msgstr "Verticale marge"
+
+msgid "Share of the screen width (or height)"
+msgstr "Aandeel van de schermbreedte (of -hoogte)"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "Free positioning"
+msgstr "Vrij plaatsen"
+
+msgid "Moving is active"
+msgstr "Verplaatsen is actief"
+
+msgid "Position is locked"
+msgstr "Positie is vastgezet"
+
+msgid "Drag the blue frame on the desktop. Lock with %1, Enter or a double click."
+msgstr "Sleep het blauwe kader op het bureaublad. Vastzetten met %1, Enter of een dubbelklik."
+
+msgid "Unlock with %1 – or here:"
+msgstr "Losmaken met %1 – of hier:"
+
+msgid "Move now"
+msgstr "Nu verplaatsen"
+
+msgid "Orientation"
+msgstr "Oriëntatie"
+
+msgid "On which side the “base” of the visualizer lies"
+msgstr "Aan welke kant de „voet” van de visualizer ligt"
+
+msgid "Width"
+msgstr "Breedte"
+
+msgid "Quick placement"
+msgstr "Snel plaatsen"
+
+msgid "The visualizer fills the widget frame."
+msgstr "De visualizer vult het widgetkader."
+
+msgid "Change size and place like any desktop widget (edit mode). A background plate is on the “Style options” page."
+msgstr "Grootte en plaats wijzig je zoals bij elke bureaubladwidget (bewerkmodus). Een achtergrondvlak vind je op de pagina „Stijlopties”."
+
+msgid "Reset position values"
+msgstr "Positiewaarden herstellen"
+
+msgid "Show pop-up card"
+msgstr "Pop-upkaart tonen"
+
+msgid "A right click on the visualizer (not on the orb) opens a small card with preview, pause, lock and settings. A click on an empty spot closes it."
+msgstr "Een rechtsklik op de visualizer (niet op de bol) opent een kleine kaart met voorbeeld, pauze, slot en instellingen. Een klik op een lege plek sluit haar."
+
+msgid "Off: a right click opens the widget’s menu (settings editor, move freely, pause, configure)."
+msgstr "Uit: een rechtsklik opent het menu van de widget (instellingeneditor, vrij verplaatsen, pauzeren, instellen)."
+
+msgid "Bottom"
+msgstr "Onder"
+
+msgid "Top"
+msgstr "Boven"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Like the panel"
+msgstr "Zoals het paneel"
+
+msgid "Whole edge"
+msgstr "Hele rand"
+
+msgid "Adjust options"
+msgstr "Opties aanpassen"
+
+msgid "SeaQ SoundWave – Settings"
+msgstr "SeaQ SoundWave – Instellingen"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Audio engine stopped"
+msgstr "Audio-engine gestopt"
+
+msgid "Music detected"
+msgstr "Muziek herkend"
+
+msgid "Waiting for sound…"
+msgstr "Wachten op geluid…"
+
+msgid "playing"
+msgstr "speelt af"
+
+msgid "paused"
+msgstr "gepauzeerd"
+
+msgid "Style"
+msgstr "Stijl"
+
+msgid "Choose how your music looks"
+msgstr "Kies hoe je muziek eruitziet"
+
+msgid "Style options"
+msgstr "Stijlopties"
+
+msgid "Adapts to the selected style"
+msgstr "Past zich aan de gekozen stijl aan"
+
+msgid "Colours"
+msgstr "Kleuren"
+
+msgid "Colour collection and gradient editor"
+msgstr "Kleurencollectie en verloopeditor"
+
+msgid "In the widget, at the panel, fixed or free"
+msgstr "In de widget, aan het paneel, vast of vrij"
+
+msgid "Behaviour"
+msgstr "Gedrag"
+
+msgid "Orb & playback"
+msgstr "Bol en afspelen"
+
+msgid "The orb in the middle – a click pauses"
+msgstr "De bol in het midden – een klik pauzeert"
+
+msgid "Audio"
+msgstr "Audio"
+
+msgid "Source, sensitivity and frame rate"
+msgstr "Bron, gevoeligheid en beeldsnelheid"
+
+msgid "System"
+msgstr "Systeem"
+
+msgid "Controls & shortcuts"
+msgstr "Bediening en sneltoetsen"
+
+msgid "Keyboard shortcuts and mouse gestures"
+msgstr "Sneltoetsen en muisgebaren"
+
+msgid "Full screen"
+msgstr "Volledig scherm"
+
+msgid "Orb"
+msgstr "Bol"
+
+msgid "macOS Rainbow"
+msgstr "macOS-regenboog"
+
+msgid "Chameleon"
+msgstr "Kameleon"
+
+msgid "Apple Music"
+msgstr "Apple Music"
+
+msgid "Sonoma"
+msgstr "Sonoma"
+
+msgid "Sequoia"
+msgstr "Sequoia"
+
+msgid "Peach Evening"
+msgstr "Perzikavond"
+
+msgid "Sunset"
+msgstr "Zonsondergang"
+
+msgid "Ocean"
+msgstr "Oceaan"
+
+msgid "Aurora"
+msgstr "Poollicht"
+
+msgid "Light Strings"
+msgstr "Lichtdraden"
+
+msgid "Forest"
+msgstr "Bos"
+
+msgid "Fire"
+msgstr "Vuur"
+
+msgid "Glacier"
+msgstr "Gletsjer"
+
+msgid "Neon"
+msgstr "Neon"
+
+msgid "Cyberpunk"
+msgstr "Cyberpunk"
+
+msgid "Vaporwave"
+msgstr "Vaporwave"
+
+msgid "Synthwave"
+msgstr "Synthwave"
+
+msgid "Laser"
+msgstr "Laser"
+
+msgid "Cotton Candy"
+msgstr "Suikerspin"
+
+msgid "Pastel"
+msgstr "Pastel"
+
+msgid "Tropical"
+msgstr "Tropisch"
+
+msgid "Mint"
+msgstr "Munt"
+
+msgid "Gold"
+msgstr "Goud"
+
+msgid "Silver"
+msgstr "Zilver"
+
+msgid "Rose Gold"
+msgstr "Roségoud"
+
+msgid "Classic Blue"
+msgstr "Klassiek blauw"
+
+msgid "Nature"
+msgstr "Natuur"
+
+msgid "Precious"
+msgstr "Edel"
+
+msgid "Glass"
+msgstr "Glas"
+
+msgid "Record"
+msgstr "Plaat"
+
+msgid "From palette"
+msgstr "Uit het palet"
+
+msgid "Own colour"
+msgstr "Eigen kleur"
+
+msgid "Always"
+msgstr "Altijd"
+
+msgid "On hover"
+msgstr "Bij aanwijzen"
+
+msgid "Never"
+msgstr "Nooit"
+
+msgid "Classic"
+msgstr "Klassiek"
+
+msgid "The proven spectrum shapes"
+msgstr "De beproefde spectrumvormen"
+
+msgid "Colourful, in the style of macOS"
+msgstr "Kleurrijk, in de stijl van macOS"
+
+msgid "Lines & Light"
+msgstr "Lijnen en licht"
+
+msgid "Light strings and beams – also full screen"
+msgstr "Lichtdraden en stralen – ook schermvullend"
+
+msgid "Round"
+msgstr "Rond"
+
+msgid "Circular, with a playback orb in the middle"
+msgstr "Cirkelvormig, met een afspeelbol in het midden"
+
+msgid "Spacing"
+msgstr "Tussenruimte"
+
+msgid "Fill width automatically"
+msgstr "Breedte automatisch vullen"
+
+msgid "Fixed bar width"
+msgstr "Vaste balkbreedte"
+
+msgid "Corner radius"
+msgstr "Hoekradius"
+
+msgid "Number of elements"
+msgstr "Aantal elementen"
+
+msgid "How many bars, columns or rays are drawn"
+msgstr "Hoeveel balken, kolommen of stralen er getekend worden"
+
+msgid "Lines per side"
+msgstr "Lijnen per kant"
+
+msgid "Line width"
+msgstr "Lijndikte"
+
+msgid "Glow"
+msgstr "Gloed"
+
+msgid "Amplitude"
+msgstr "Uitslag"
+
+msgid "Motion speed"
+msgstr "Bewegingstempo"
+
+msgid "Fade out at the edges"
+msgstr "Aan de randen vervagen"
+
+msgid "Spread"
+msgstr "Uitwaaiering"
+
+msgid "Turns"
+msgstr "Windingen"
+
+msgid "Rungs between the strands"
+msgstr "Sporten tussen de strengen"
+
+msgid "Waviness"
+msgstr "Golvendheid"
+
+msgid "Light in the middle"
+msgstr "Licht in het midden"
+
+msgid "A bright light where the lines meet – it breathes with the music"
+msgstr "Een helder licht waar de lijnen samenkomen – het ademt mee met de muziek"
+
+msgid "Light blending"
+msgstr "Lichtmenging"
+
+msgid "Overlaps shine brighter (additive)"
+msgstr "Overlappingen stralen helderder (additief)"
+
+msgid "Orb in the middle"
+msgstr "Bol in het midden"
+
+msgid "Orb size"
+msgstr "Grootte van de bol"
+
+msgid "Orb style"
+msgstr "Stijl van de bol"
+
+msgid "Record spins"
+msgstr "Plaat draait"
+
+msgid "Turns like on a turntable while music plays and stops on pause"
+msgstr "Draait als op een platenspeler zolang er muziek speelt en stopt bij pauze"
+
+msgid "Tone arm"
+msgstr "Toonarm"
+
+msgid "Swings onto the record when playing and away on pause"
+msgstr "Zwenkt bij afspelen op de plaat en bij pauze weer weg"
+
+msgid "Cover on the label"
+msgstr "Hoes op het label"
+
+msgid "Shows the cover of the current song or video in the middle of the record"
+msgstr "Toont de hoes van het huidige nummer of de video in het midden van de plaat"
+
+msgid "Orb pulses with the bass"
+msgstr "Bol pulseert met de bas"
+
+msgid "Orb colour"
+msgstr "Kleur van de bol"
+
+msgid "Colour of the orb"
+msgstr "Kleur van de bol"
+
+msgid "Play/pause on click"
+msgstr "Afspelen/pauzeren bij klikken"
+
+msgid "Clicking the orb pauses or resumes audio and video"
+msgstr "Een klik op de bol pauzeert of hervat geluid en video"
+
+msgid "Show play/pause symbol"
+msgstr "Afspeel-/pauzesymbool tonen"
+
+msgid "Inner radius"
+msgstr "Binnenstraal"
+
+msgid "Ray length"
+msgstr "Straallengte"
+
+msgid "Negative = counter-clockwise"
+msgstr "Negatief = tegen de klok in"
+
+msgid "Rings"
+msgstr "Ringen"
+
+msgid "LED rows"
+msgstr "LED-rijen"
+
+msgid "Peak caps"
+msgstr "Piekmarkeringen"
+
+msgid "Fall speed"
+msgstr "Valsnelheid"
+
+msgid "Reflection"
+msgstr "Weerspiegeling"
+
+msgid "Reflection strength"
+msgstr "Sterkte van de weerspiegeling"
+
+msgid "Lit windows"
+msgstr "Verlichte ramen"
+
+msgid "Hint inactive elements"
+msgstr "Inactieve elementen aanduiden"
+
+msgid "Symmetry axes"
+msgstr "Symmetrieassen"
+
+msgid "Pulse rings"
+msgstr "Pulsringen"
+
+msgid "Layers"
+msgstr "Lagen"
+
+msgid "Shape"
+msgstr "Vorm"
+
+msgid "Motion"
+msgstr "Beweging"
+
+msgid "Light & glow"
+msgstr "Licht en gloed"
+
+msgid "Bars"
+msgstr "Balken"
+
+msgid "Classic spectrum bars"
+msgstr "Klassieke spectrumbalken"
+
+msgid "Mirror axis"
+msgstr "Spiegelas"
+
+msgid "Bars mirrored around the centre line"
+msgstr "Balken gespiegeld rond de middenlijn"
+
+msgid "Wave"
+msgstr "Golf"
+
+msgid "A soft, filled curve"
+msgstr "Een zachte, gevulde curve"
+
+msgid "Dots"
+msgstr "Stippen"
+
+msgid "Floating dots"
+msgstr "Zwevende stippen"
+
+msgid "Particles"
+msgstr "Deeltjes"
+
+msgid "Floating capsules"
+msgstr "Zwevende capsules"
+
+msgid "Colour waves"
+msgstr "Kleurgolven"
+
+msgid "Flowing macOS colours (the original)"
+msgstr "Vloeiende macOS-kleuren (het origineel)"
+
+msgid "LED matrix"
+msgstr "LED-matrix"
+
+msgid "Glowing dots in rows and columns"
+msgstr "Lichtpunten in rijen en kolommen"
+
+msgid "Skyline"
+msgstr "Skyline"
+
+msgid "A city that grows with the music"
+msgstr "Een stad die meegroeit met de muziek"
+
+msgid "Rainbow bars"
+msgstr "Regenboogbalken"
+
+msgid "Rounded bars with peaks and reflection"
+msgstr "Ronde balken met pieken en weerspiegeling"
+
+msgid "Double helix"
+msgstr "Dubbele helix"
+
+msgid "Two glowing strands winding around each other"
+msgstr "Twee gloeiende strengen die om elkaar heen draaien"
+
+msgid "Laser fan"
+msgstr "Laserwaaier"
+
+msgid "Beams of light meeting in the middle"
+msgstr "Lichtstralen die in het midden samenkomen"
+
+msgid "Light strings"
+msgstr "Lichtdraden"
+
+msgid "Fine strings bundled into a point of light"
+msgstr "Fijne draden gebundeld tot een lichtpunt"
+
+msgid "Colour streams"
+msgstr "Kleurstromen"
+
+msgid "Coloured lines flowing into a small orb"
+msgstr "Gekleurde lijnen die in een kleine bol stromen"
+
+msgid "Silk waves"
+msgstr "Zijdegolven"
+
+msgid "Layered, swinging bands of light"
+msgstr "Gelaagde, slingerende lichtbanden"
+
+msgid "Ring spectrum"
+msgstr "Ringspectrum"
+
+msgid "Rays all around the orb"
+msgstr "Stralen rondom de bol"
+
+msgid "Segment ring"
+msgstr "Segmentring"
+
+msgid "Concentric glowing segments"
+msgstr "Concentrische lichtsegmenten"
+
+msgid "Rings that travel outwards with the bass"
+msgstr "Ringen die met de bas naar buiten lopen"
+
+msgid "Liquid orb"
+msgstr "Vloeibare bol"
+
+msgid "Soft shapes flowing around the orb"
+msgstr "Zachte vormen die rond de bol stromen"
+
+msgid "Kaleidoscope"
+msgstr "Caleidoscoop"
+
+msgid "A fractal-like bloom of light petals"
+msgstr "Een fractalachtige bloei van lichtblaadjes"
+

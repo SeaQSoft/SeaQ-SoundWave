@@ -1,0 +1,30 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "SeaQ"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Audio visualizer for the desktop: 19 styles, colour collection with gradient editor, an orb that pauses audio and video, panel attachment, fixed or freely movable placement.",
+        "EnabledByDefault": true,
+        "Icon": "seaq-soundwave",
+        "Id": "com.seaq.soundwave",
+        "License": "GPL-3.0-or-later",
+        "Name": "SeaQ SoundWave",
+        "Version": "2.5.0",
+        "Description[de]": "Audio-Visualizer für den Desktop: 19 Stile, Farbkollektion mit Verlaufseditor, Kugel mit Play/Pause für Ton und Video, Anheften an die Taskleiste, feste oder frei verschiebbare Position.",
+        "Description[fr]": "Visualiseur audio pour le bureau : 19 styles, collection de couleurs avec éditeur de dégradés, sphère qui met en pause l’audio et la vidéo, ancrage au tableau de bord, position fixe ou libre.",
+        "Description[es]": "Visualizador de audio para el escritorio: 19 estilos, colección de colores con editor de degradados, esfera que pausa audio y vídeo, anclaje al panel, posición fija o libre.",
+        "Description[it]": "Visualizzatore audio per il desktop: 19 stili, collezione di colori con editor di gradienti, sfera che mette in pausa audio e video, aggancio al pannello, posizione fissa o libera.",
+        "Description[nl]": "Audiovisualizer voor het bureaublad: 19 stijlen, kleurencollectie met verloopeditor, bol die geluid en video pauzeert, vastmaken aan het paneel, vaste of vrije positie.",
+        "Description[hi]": "डेस्कटॉप के लिए ऑडियो विज़ुअलाइज़र: 19 शैलियाँ, ग्रेडिएंट संपादक के साथ रंग संग्रह, ऑडियो और वीडियो रोकने वाला गोला, पैनल से जोड़ना, निश्चित या स्वतंत्र स्थान।",
+        "Description[zh_CN]": "桌面音频可视化器：19 种样式、带渐变编辑器的颜色集、可暂停音频和视频的圆球、贴靠面板、固定或自由位置。",
+        "Description[ja]": "デスクトップ用オーディオビジュアライザー: 19 スタイル、グラデーションエディター付きカラーコレクション、音声と動画を一時停止できる球、パネルへの配置、固定または自由な位置。",
+        "Description[ko]": "바탕 화면용 오디오 비주얼라이저: 19가지 스타일, 그라데이션 편집기가 있는 색상 컬렉션, 오디오와 동영상을 일시 정지하는 구슬, 패널 붙이기, 고정 또는 자유 위치.",
+        "Website": "https://github.com/SeaQSoft/SeaQ-SoundWave",
+        "BugReportUrl": "https://github.com/SeaQSoft/SeaQ-SoundWave/issues"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

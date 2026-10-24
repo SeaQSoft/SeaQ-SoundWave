@@ -1,0 +1,49 @@
+=== KDE Store – Name ===
+SeaQ SoundWave
+
+=== Summary (one line) ===
+Audio visualizer with 19 styles, an orb or spinning record that pauses your music & videos, panel / fixed / free placement and 10 languages.
+
+=== Description (paste into the store; the store understands BBCode) ===
+[b]SeaQ SoundWave[/b] turns whatever you hear into light – right on your Plasma 6 desktop.
+
+[b]✨ Highlights[/b]
+[list]
+[*][b]19 styles in 4 groups[/b] – Classic, macOS (colour waves, LED matrix, skyline, rainbow bars), Lines & Light (double helix, laser fan, light strings, colour streams, silk waves) and Round (ring spectrum, segment ring, pulse rings, liquid orb, kaleidoscope)
+[*][b]The orb[/b] – effects flow out of a small orb in the middle. Click it to pause or resume audio [i]and[/i] video (YouTube, Udemy, VLC, Spotify …). One switch for all styles
+[*][b]NEW: the record[/b] – a vinyl record as the orb: spins with the music, a tone arm swings on and off, the cover of the current song sits on the label
+[*][b]Place it anywhere[/b] – inside the widget, attached to a panel (top, bottom, left, right; centred, 1 px gap by default), at one of nine fixed points, or completely free
+[*][b]Free positioning[/b] – Meta+Alt+V unlocks, drag and resize on every edge and corner, Meta+Alt+V locks again. The widget itself stays invisible
+[*][b]Pop-up card[/b] – right click the visualizer for preview, pause, lock and settings; click an empty spot to close it
+[*][b]Colour collection[/b] – 26 palettes plus a gradient editor for your own colours, with flowing colour animation
+[*][b]Settings editor[/b] – clean System-Settings look, every style only shows the options it really uses, reset buttons everywhere and a factory reset
+[*][b]Audio protection[/b] – never leaves other apps muted; finds muted apps and repairs them with one click
+[*][b]10 languages[/b] – English, Deutsch, Français, Español, Italiano, Nederlands, हिन्दी, 简体中文, 日本語, 한국어
+[/list]
+
+[b]🚀 How to use[/b]
+[list=1]
+[*]Install, then right click the desktop → Add Widgets… → SeaQ SoundWave
+[*]Right click the widget → Configure SeaQ SoundWave… → pick style, palette and placement
+[*]Open the settings editor for everything else
+[/list]
+
+[b]☕ Support[/b]
+PayPal: [url=https://paypal.me/SeaQSoft]paypal.me/SeaQSoft[/url] · Buy me a coffee: [url=https://buymeacoffee.com/seaq]buymeacoffee.com/seaq[/url]
+
+[b]📦 Requirements[/b]
+python3 and parec (pulseaudio-utils) or pw-record (pipewire-utils). cava is used when installed. The orb uses MPRIS via busctl (part of systemd).
+
+[b]🌍 Translations[/b]
+If the language doesn't switch after installing from the store, run the install.sh from GitHub once or restart Plasma.
+
+Source code, screenshots and issues: [url=https://github.com/SeaQSoft/SeaQ-SoundWave]github.com/SeaQSoft/SeaQ-SoundWave[/url]
+License: GPL-3.0-or-later · by SeaQ
+
+=== Changelog field ===
+2.5.0 – New orb style “Record”: a spinning vinyl with tone arm and the cover of the current song; one orb switch for all styles.
+2.4.1 – Music now really drives every effect (capture fix, stronger reaction), the orb on the desktop pauses and resumes music and video, continuous lines without orb, light in the middle for all Lines & Light styles, previews follow your orb settings, new About picture.
+2.4.0 – Security hardening of the audio helper (token + host check, safe port handling), gentler audio repair, orb colour and visible play/pause symbol, taskbar logo switch, new About page with donation buttons.
+
+=== Screenshots to upload (in this order) ===
+docs/banner.png, docs/styles.png, docs/editor-style.png, docs/editor-position.png, docs/editor-colours.png, docs/languages.png

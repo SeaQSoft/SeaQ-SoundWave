@@ -1,0 +1,1233 @@
+# 한국어 translation of SeaQ SoundWave.
+# Copyright (C) 2026 SeaQ
+# This file is distributed under the same license as the SeaQ SoundWave package.
+msgid ""
+msgstr ""
+"Project-Id-Version: seaq-soundwave 2.5.0\n"
+"Report-Msgid-Bugs-To: https://github.com/SeaQSoft/SeaQ-SoundWave/issues\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "At the panel"
+msgstr "패널에 붙이기"
+
+msgid "Fixed position"
+msgstr "고정 위치"
+
+msgid "Placed freely"
+msgstr "자유 배치됨"
+
+msgid "In the widget"
+msgstr "위젯 안"
+
+msgid "Moving active"
+msgstr "이동 중"
+
+msgid "Pause"
+msgstr "일시 정지"
+
+msgid "Resume"
+msgstr "다시 재생"
+
+msgid "Lock position (%1)"
+msgstr "위치 고정 (%1)"
+
+msgid "Move freely (%1)"
+msgstr "자유롭게 이동 (%1)"
+
+msgid "Settings editor"
+msgstr "설정 편집기"
+
+msgid "Fixed position on the screen"
+msgstr "화면의 고정 위치"
+
+msgid "Freely movable"
+msgstr "자유롭게 이동 가능"
+
+msgid "Quick settings · everything else in the settings editor"
+msgstr "빠른 설정 · 나머지는 모두 설정 편집기에서"
+
+msgid "Open settings editor…"
+msgstr "설정 편집기 열기…"
+
+msgid "Style:"
+msgstr "스타일:"
+
+msgid "Colour palette:"
+msgstr "색상 팔레트:"
+
+msgid "Custom colours"
+msgstr "사용자 색상"
+
+msgid "Let the colours flow"
+msgstr "색상 흐르게 하기"
+
+msgid "Placement:"
+msgstr "배치:"
+
+msgid "Move freely, lock and unlock again: shortcut %1 (change it on the “Keyboard Shortcuts” page or in the settings editor)."
+msgstr "자유 이동, 고정 및 고정 해제: 단축키 %1 (“키보드 단축키” 탭이나 설정 편집기에서 변경할 수 있습니다)."
+
+msgid "Sensitivity:"
+msgstr "감도:"
+
+msgid "Clicking the orb:"
+msgstr "구슬 클릭 시:"
+
+msgid "Pause / resume audio and video"
+msgstr "오디오와 동영상 일시 정지 / 다시 재생"
+
+msgid "Do nothing"
+msgstr "아무것도 안 함"
+
+msgid "no shortcut"
+msgstr "단축키 없음"
+
+msgid "Free positioning only works while the widget sits on the desktop."
+msgstr "자유 배치는 위젯이 바탕 화면에 있을 때만 사용할 수 있습니다."
+
+msgid "Repair"
+msgstr "고치기"
+
+msgid "Don't report again"
+msgstr "다시 알리지 않기"
+
+msgid "Sound of %1 is muted"
+msgstr "%1의 소리가 음소거되었습니다"
+
+msgid "The system remembered this app as muted or at 0 %. Click “Repair” to give it its sound back."
+msgstr "시스템이 이 앱을 음소거 또는 0 %로 기억했습니다. “고치기”를 눌러 소리를 되찾으세요."
+
+msgid "The settings editor could not be loaded."
+msgstr "설정 편집기를 불러올 수 없습니다."
+
+msgid "Lock position"
+msgstr "위치 고정"
+
+msgid "Move freely"
+msgstr "자유롭게 이동"
+
+msgid "Pause playback"
+msgstr "재생 일시 정지"
+
+msgid "Resume playback"
+msgstr "재생 다시 시작"
+
+msgid "No audio capture tool found.\nPlease install “pulseaudio-utils” or “pipewire-utils” (or “cava”) and add the widget again."
+msgstr "오디오 캡처 도구를 찾을 수 없습니다.\n“pulseaudio-utils” 또는 “pipewire-utils”(또는 “cava”)를 설치한 뒤 위젯을 다시 추가하세요."
+
+msgid "The audio engine could not be started."
+msgstr "오디오 엔진을 시작할 수 없습니다."
+
+msgid "Drag = move · Edges and corners = resize · Wheel = zoom · Arrow keys = 1 px (⇧ 10 px)"
+msgstr "끌기 = 이동 · 가장자리와 모서리 = 크기 조절 · 휠 = 확대/축소 · 화살표 키 = 1 px (⇧ 10 px)"
+
+msgid "Lock (%1 / Enter)"
+msgstr "고정 (%1 / Enter)"
+
+msgid "Configure SeaQ SoundWave…"
+msgstr "SeaQ SoundWave 설정…"
+
+msgid "Choose a colour"
+msgstr "색상 선택"
+
+msgid "Copied to the clipboard"
+msgstr "클립보드에 복사했습니다"
+
+msgid "My palette %1"
+msgstr "내 팔레트 %1"
+
+msgid "“%1” saved"
+msgstr "“%1” 저장됨"
+
+msgid "Colour"
+msgstr "색상"
+
+msgid "Remove"
+msgstr "제거"
+
+msgid "Position"
+msgstr "위치"
+
+msgid "Rotation"
+msgstr "회전"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "Auto: every visualizer lays out the colours itself (e.g. per line, all around or from bottom to top)."
+msgstr "자동: 각 비주얼라이저가 색상을 알아서 배치합니다(예: 선마다, 둘레를 따라, 아래에서 위로)."
+
+msgid "The gradient covers the whole visualizer – rotation and type apply as set above."
+msgstr "그라데이션이 비주얼라이저 전체를 덮습니다 – 회전과 유형은 위의 설정을 따릅니다."
+
+msgid "Random"
+msgstr "무작위"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Name of the palette"
+msgstr "팔레트 이름"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Preview with the current visualizer"
+msgstr "현재 비주얼라이저로 미리 보기"
+
+msgid "Gradient"
+msgstr "그라데이션"
+
+msgid "Auto"
+msgstr "자동"
+
+msgid "Linear"
+msgstr "선형"
+
+msgid "Radial"
+msgstr "방사형"
+
+msgid "Conic"
+msgstr "원뿔형"
+
+msgid "Copy CSS"
+msgstr "CSS 복사"
+
+msgid "Copy hex values"
+msgstr "16진수 값 복사"
+
+msgid "Reverse colours"
+msgstr "색상 뒤집기"
+
+msgid "Spread evenly"
+msgstr "고르게 분배"
+
+msgid "Live"
+msgstr "실시간"
+
+msgid "Demo · nothing is playing right now"
+msgstr "데모 · 지금은 재생 중인 것이 없습니다"
+
+msgid "Version %1 · by %2"
+msgstr "버전 %1 · 만든이 %2"
+
+msgid "Support SeaQ SoundWave"
+msgstr "SeaQ SoundWave 후원하기"
+
+msgid "If you like the widget, you can support its development – thank you!"
+msgstr "위젯이 마음에 드시면 개발을 후원해 주세요 – 감사합니다!"
+
+msgid "Donate with PayPal"
+msgstr "PayPal로 후원"
+
+msgid "Buy me a coffee"
+msgstr "커피 한 잔 사 주기"
+
+msgid "About"
+msgstr "정보"
+
+msgid "Audio visualizer for KDE Plasma 6"
+msgstr "KDE Plasma 6용 오디오 비주얼라이저"
+
+msgid "19 styles in four groups, colour collection with gradient editor, orb with play/pause, panel attachment, fixed or free position on the desktop."
+msgstr "4개 그룹의 19가지 스타일, 그라데이션 편집기가 있는 색상 컬렉션, 재생/일시 정지 구슬, 패널 붙이기, 바탕 화면의 고정 또는 자유 위치."
+
+msgid "Author"
+msgstr "만든이"
+
+msgid "License"
+msgstr "라이선스"
+
+msgid "Appearance"
+msgstr "모양"
+
+msgid "Logo in the taskbar"
+msgstr "작업 표시줄의 로고"
+
+msgid "Shows the SeaQ SoundWave logo instead of the Plasma logo while a settings window is open. Adds a hidden desktop file and a KWin window rule – switching it off removes both again."
+msgstr "설정 창이 열려 있는 동안 Plasma 로고 대신 SeaQ SoundWave 로고를 표시합니다. 숨겨진 데스크톱 파일과 KWin 창 규칙을 추가하며, 끄면 둘 다 다시 제거됩니다."
+
+msgid "Reset"
+msgstr "초기화"
+
+msgid "Everything to factory settings"
+msgstr "모두 공장 설정으로"
+
+msgid "Style, style options, colours, position, orb, audio and editor – everything like right after installing. Your own palettes are kept."
+msgstr "스타일, 스타일 옵션, 색상, 위치, 구슬, 오디오, 편집기 – 모두 설치 직후 상태로 돌아갑니다. 직접 만든 팔레트는 유지됩니다."
+
+msgid "Yes, reset everything"
+msgstr "예, 모두 초기화"
+
+msgid "Factory settings"
+msgstr "공장 설정"
+
+msgid "Reset the options of all styles"
+msgstr "모든 스타일의 옵션 초기화"
+
+msgid "Sets the shape settings of every style back to the defaults"
+msgstr "각 스타일의 모양 설정을 기본값으로 되돌립니다"
+
+msgid "Really?"
+msgstr "정말요?"
+
+msgid "Reset colours"
+msgstr "색상 초기화"
+
+msgid "macOS rainbow, colour flow on"
+msgstr "macOS 무지개, 색상 흐름 켜짐"
+
+msgid "Automatic"
+msgstr "자동"
+
+msgid "Light"
+msgstr "밝게"
+
+msgid "Dark"
+msgstr "어둡게"
+
+msgid "Analysis"
+msgstr "분석"
+
+msgid "Frequency bands"
+msgstr "주파수 대역"
+
+msgid "Detail of the spectrum"
+msgstr "스펙트럼의 세밀함"
+
+msgid "Sensitivity"
+msgstr "감도"
+
+msgid "Frame rate"
+msgstr "프레임 속도"
+
+msgid "Fewer frames per second save power"
+msgstr "초당 프레임을 줄이면 전력이 절약됩니다"
+
+msgid "Smoothing"
+msgstr "부드럽게"
+
+msgid "Audio source"
+msgstr "오디오 소스"
+
+msgid "Audio engine"
+msgstr "오디오 엔진"
+
+msgid "Automatic uses cava when it is installed – otherwise the built-in analysis (needs only parec or pw-record)."
+msgstr "자동은 cava가 설치되어 있으면 cava를, 아니면 내장 분석을 사용합니다(parec 또는 pw-record만 필요)."
+
+msgid "Input method (cava only)"
+msgstr "입력 방식 (cava 전용)"
+
+msgid "Source"
+msgstr "소스"
+
+msgid "“auto” shows whatever is playing. Find other sources with “pactl list short sources”."
+msgstr "“auto”는 지금 재생 중인 것을 보여 줍니다. 다른 소스는 “pactl list short sources”로 찾을 수 있습니다."
+
+msgid "Audio protection"
+msgstr "소리 보호"
+
+msgid "SoundWave keeps its own recording stream out of the audio memory. If an app ends up muted or at 0 % anyway (as remembered by the system), it can be repaired here."
+msgstr "SoundWave는 자체 녹음 스트림을 오디오 기억에 남기지 않습니다. 그래도 어떤 앱이 음소거나 0 %로 기억되었다면 여기서 고칠 수 있습니다."
+
+msgid "Repairing only unmutes and only raises a volume that is at 0 % (to the normal 100 %). Cleaning the remembered settings briefly restarts the audio service."
+msgstr "고치기는 음소거만 해제하고 0 %인 볼륨만 올립니다(기본값 100 %로). 기억된 설정을 정리하면 오디오 서비스가 잠깐 다시 시작됩니다."
+
+msgid "When a muted app is found"
+msgstr "음소거된 앱을 찾았을 때"
+
+msgid "Muted or silent: %1"
+msgstr "음소거 또는 무음: %1"
+
+msgid "All apps can be heard"
+msgstr "모든 앱의 소리가 들립니다"
+
+msgid "Check now"
+msgstr "지금 확인"
+
+msgid "Repair now"
+msgstr "지금 고치기"
+
+msgid "Not reported: %1"
+msgstr "알리지 않음: %1"
+
+msgid "Apps you muted on purpose"
+msgstr "일부러 음소거한 앱"
+
+msgid "Clear list"
+msgstr "목록 비우기"
+
+msgid "Built-in"
+msgstr "내장"
+
+msgid "Notify"
+msgstr "알림"
+
+msgid "Repair automatically"
+msgstr "자동으로 고치기"
+
+msgid "Off"
+msgstr "끔"
+
+msgid "Colour collection"
+msgstr "색상 컬렉션"
+
+msgid "One click recolours the visualizer at once – save your own palettes in the gradient editor."
+msgstr "클릭 한 번으로 비주얼라이저 색이 바로 바뀝니다 – 나만의 팔레트는 그라데이션 편집기에서 저장하세요."
+
+msgid "No palettes of your own yet. Put colours together in the gradient editor below and click “Save”."
+msgstr "아직 직접 만든 팔레트가 없습니다. 아래 그라데이션 편집기에서 색을 조합하고 “저장”을 누르세요."
+
+msgid "Gradient editor"
+msgstr "그라데이션 편집기"
+
+msgid "Drag the points on the colour bar, click the bar to add a colour. The preview on the right shows the gradient or – with the button at its top right – your visualizer."
+msgstr "색상 막대의 점을 끌고, 막대를 클릭하면 색이 추가됩니다. 오른쪽 미리 보기는 그라데이션을, 또는 오른쪽 위 버튼으로 비주얼라이저를 보여 줍니다."
+
+msgid "Colour flow"
+msgstr "색상 흐름"
+
+msgid "The palette slowly moves through the visualizer – like the macOS colour waves"
+msgstr "팔레트가 비주얼라이저를 천천히 지나갑니다 – macOS 색상 물결처럼"
+
+msgid "Speed"
+msgstr "속도"
+
+msgid "All"
+msgstr "전체"
+
+msgid "Mine"
+msgstr "내 것"
+
+msgid "Keyboard shortcut"
+msgstr "키보드 단축키"
+
+msgid "A global shortcut for free positioning – it works everywhere, even when a window is in front."
+msgstr "자유 배치를 위한 전역 단축키 – 창이 앞에 있어도 어디서나 작동합니다."
+
+msgid "Move freely / lock / unlock"
+msgstr "자유롭게 이동 / 고정 / 고정 해제"
+
+msgid "Current: %1. Click the field and press the new combination."
+msgstr "현재: %1. 입력란을 클릭하고 새 조합을 누르세요."
+
+msgid "Change it via right click → Configure → Keyboard Shortcuts"
+msgstr "오른쪽 클릭 → 설정 → 키보드 단축키에서 변경"
+
+msgid "How free positioning works"
+msgstr "자유 배치 사용법"
+
+msgid "Unlock"
+msgstr "고정 해제"
+
+msgid "Press %1 (or choose “Position” → “Free”, or the lock on the pop-up card). A blue frame appears around the visualizer."
+msgstr "%1을(를) 누르세요(또는 “위치” → “자유”, 팝업 카드의 자물쇠). 비주얼라이저 주위에 파란 테두리가 나타납니다."
+
+msgid "Move & resize"
+msgstr "이동 및 크기 조절"
+
+msgid "Drag the frame with the mouse. The handles on every edge and corner change the size, the mouse wheel zooms, arrow keys move by 1 px (with Shift 10 px), + and − scale. It snaps to the centre of the screen."
+msgstr "마우스로 테두리를 끄세요. 모든 가장자리와 모서리의 핸들로 크기를 바꾸고, 마우스 휠로 확대/축소하며, 화살표 키로 1 px(Shift는 10 px)씩 이동하고, +와 −로 크기를 조절합니다. 화면 중앙에 맞춰집니다."
+
+msgid "Lock"
+msgstr "고정"
+
+msgid "%1 again, Enter, Esc, a double click or the “Lock” button. Afterwards the visualizer lies behind all windows again and lets clicks through to the desktop."
+msgstr "다시 %1, Enter, Esc, 두 번 클릭 또는 “고정” 버튼. 그러면 비주얼라이저가 다시 모든 창 뒤에 놓이고 클릭은 바탕 화면으로 전달됩니다."
+
+msgid "Unlock again"
+msgstr "다시 고정 해제"
+
+msgid "Any time with the same shortcut – the widget itself stays where it is."
+msgstr "언제든 같은 단축키로 – 위젯 자체는 그 자리에 그대로 있습니다."
+
+msgid "Mouse & menus"
+msgstr "마우스와 메뉴"
+
+msgid "Click on the orb"
+msgstr "구슬 클릭"
+
+msgid "Pauses or resumes audio and video (see “Orb & playback”)"
+msgstr "오디오와 동영상을 일시 정지하거나 다시 재생합니다(“구슬과 재생” 참조)"
+
+msgid "Click"
+msgstr "클릭"
+
+msgid "Right click on the visualizer"
+msgstr "비주얼라이저 오른쪽 클릭"
+
+msgid "Opens the pop-up card – or, with the card switched off, the menu"
+msgstr "팝업 카드를 엽니다 – 카드를 끈 경우에는 메뉴를 엽니다"
+
+msgid "Right click"
+msgstr "오른쪽 클릭"
+
+msgid "Quick settings"
+msgstr "빠른 설정"
+
+msgid "“Configure SeaQ SoundWave…” shows the most important options and the button to this editor"
+msgstr "“SeaQ SoundWave 설정…”에서 가장 중요한 옵션과 이 편집기를 여는 버튼을 볼 수 있습니다"
+
+msgid "Close the editor"
+msgstr "편집기 닫기"
+
+msgid "This page adapts itself: you only see the settings that the style “%1” really uses. Every style remembers its own values."
+msgstr "이 페이지는 자동으로 맞춰집니다: 스타일 “%1”이(가) 실제로 쓰는 설정만 보입니다. 각 스타일은 자기 값을 기억합니다."
+
+msgid "Defaults"
+msgstr "기본값"
+
+msgid "No options of its own"
+msgstr "고유 옵션 없음"
+
+msgid "“%1” has no additional shape settings."
+msgstr "“%1”에는 추가 모양 설정이 없습니다."
+
+msgid "Set colours and colour flow on the “Colours” page, opacity further down."
+msgstr "색상과 색상 흐름은 “색상” 페이지에서, 불투명도는 아래에서 설정합니다."
+
+msgid "For all styles"
+msgstr "모든 스타일 공통"
+
+msgid "Opacity"
+msgstr "불투명도"
+
+msgid "How softly the motion follows the music"
+msgstr "움직임이 음악을 얼마나 부드럽게 따라가는지"
+
+msgid "Background plate"
+msgstr "배경 판"
+
+msgid "Square at the bottom so that “%1” sits flush – rounded at the top"
+msgstr "“%1”이(가) 딱 맞게 놓이도록 아래는 각지게 – 위는 둥글게"
+
+msgid "Rounded all around, because “%1” floats freely in the middle"
+msgstr "“%1”이(가) 가운데에 떠 있으므로 사방이 둥글게"
+
+msgid "Corner radius of the plate"
+msgstr "배경 판 모서리 반경"
+
+msgid "“%1” has no orb"
+msgstr "“%1”에는 구슬이 없습니다"
+
+msgid "The orb exists for the line, light and round styles. Pick one of them:"
+msgstr "구슬은 선, 빛, 원형 스타일에 있습니다. 하나를 고르세요:"
+
+msgid "Orb – for all styles"
+msgstr "구슬 – 모든 스타일 공통"
+
+msgid "On/off, look and play/pause apply to every style at once. For round styles the orb is the circle in the middle – its size follows the inner radius."
+msgstr "켜기/끄기, 모양, 재생/일시정지가 모든 스타일에 한꺼번에 적용됩니다. 원형 스타일에서는 구슬이 가운데 원이며 크기는 안쪽 반지름을 따릅니다."
+
+msgid "On/off, look and play/pause apply to every style at once – only the size is set for each style."
+msgstr "켜기/끄기, 모양, 재생/일시정지가 모든 스타일에 한꺼번에 적용됩니다 – 크기만 스타일별로 설정합니다."
+
+msgid "Clicking the orb"
+msgstr "구슬 클릭 시"
+
+msgid "Reset orb"
+msgstr "구슬 초기화"
+
+msgid "Action"
+msgstr "동작"
+
+msgid "Pauses audio and video of every player that is playing (browser with YouTube/Udemy, VLC, Spotify, Elisa, LizardTune…) – a second click resumes them."
+msgstr "재생 중인 모든 플레이어(YouTube/Udemy를 연 브라우저, VLC, Spotify, Elisa, LizardTune…)의 오디오와 동영상을 일시 정지합니다 – 한 번 더 클릭하면 다시 재생합니다."
+
+msgid "No player found"
+msgstr "플레이어를 찾을 수 없음"
+
+msgid "Playing right now"
+msgstr "지금 재생 중"
+
+msgid "Paused"
+msgstr "일시 정지됨"
+
+msgid "Stopped"
+msgstr "정지됨"
+
+msgid "Start music or a video so the orb has something to control."
+msgstr "구슬이 제어할 수 있도록 음악이나 동영상을 재생하세요."
+
+msgid "Pause now"
+msgstr "지금 일시 정지"
+
+msgid "Pause / resume"
+msgstr "일시 정지 / 다시 재생"
+
+msgid "Nothing"
+msgstr "없음"
+
+msgid "The widget is not on the desktop right now (e.g. in a panel). Panel, fixed and free placement only work for widgets on the desktop – put SeaQ SoundWave on the desktop for that."
+msgstr "위젯이 지금 바탕 화면에 있지 않습니다(예: 패널 안). 패널·고정·자유 배치는 바탕 화면의 위젯에서만 됩니다 – SeaQ SoundWave를 바탕 화면에 놓으세요."
+
+msgid "Where should the visualizer appear?"
+msgstr "비주얼라이저를 어디에 표시할까요?"
+
+msgid "Outside the widget the visualizer floats on the desktop behind all windows – the widget itself becomes invisible (in the desktop’s edit mode you see a small icon)."
+msgstr "위젯 밖에서는 비주얼라이저가 모든 창 뒤, 바탕 화면 위에 떠 있습니다 – 위젯 자체는 보이지 않게 됩니다(바탕 화면 편집 모드에서는 작은 아이콘이 보입니다)."
+
+msgid "Classic, inside the widget frame, sized like any widget"
+msgstr "클래식, 위젯 틀 안에 표시되며 크기는 일반 위젯과 같음"
+
+msgid "Centred at a panel at the top, bottom, left or right"
+msgstr "위, 아래, 왼쪽 또는 오른쪽 패널의 가운데에 배치"
+
+msgid "At one of nine points of the screen"
+msgstr "화면의 아홉 지점 중 하나"
+
+msgid "Free"
+msgstr "자유"
+
+msgid "Drag it with the mouse, lock it with a shortcut"
+msgstr "마우스로 끌고 단축키로 고정"
+
+msgid "Found: panel at the bottom."
+msgstr "발견: 아래 패널."
+
+msgid "Found: panel at the top."
+msgstr "발견: 위 패널."
+
+msgid "Found: panel on the left."
+msgstr "발견: 왼쪽 패널."
+
+msgid "Found: panel on the right."
+msgstr "발견: 오른쪽 패널."
+
+msgid "Round styles sit centred above the panel."
+msgstr "원형 스타일은 패널 위 가운데에 놓입니다."
+
+msgid "The base of the visualizer always points to the panel."
+msgstr "비주얼라이저의 바닥은 항상 패널을 향합니다."
+
+msgid "There is no panel on this edge – until there is one, the visualizer sits at the bottom of the screen."
+msgstr "이 가장자리에는 패널이 없습니다 – 그동안 비주얼라이저는 화면 아래쪽에 놓입니다."
+
+msgid "Edge"
+msgstr "가장자리"
+
+msgid "Height"
+msgstr "높이"
+
+msgid "How far the visualizer rises from the panel"
+msgstr "비주얼라이저가 패널에서 얼마나 솟아오르는지"
+
+msgid "Gap to the panel"
+msgstr "패널과의 간격"
+
+msgid "Small gap between panel and visualizer"
+msgstr "패널과 비주얼라이저 사이의 작은 틈"
+
+msgid "Offset along the panel"
+msgstr "패널을 따라 이동"
+
+msgid "0 = exactly centred"
+msgstr "0 = 정확히 가운데"
+
+msgid "Centre"
+msgstr "가운데로"
+
+msgid "Length"
+msgstr "길이"
+
+msgid "Fixed length"
+msgstr "고정 길이"
+
+msgid "Stop before the panel corners"
+msgstr "패널 모서리 앞에서 멈추기"
+
+msgid "So the visualizer does not reach into the rounding of a floating panel"
+msgstr "떠 있는 패널의 둥근 모서리로 비주얼라이저가 들어가지 않도록"
+
+msgid "Rounded ends"
+msgstr "둥근 끝"
+
+msgid "Soft curve at the ends above a floating panel (0 = straight edge)"
+msgstr "떠 있는 패널 위 양 끝의 부드러운 곡선(0 = 곧은 가장자리)"
+
+msgid "Flare at the base"
+msgstr "바닥 퍼짐"
+
+msgid "Choose an anchor point. Left and right in the middle turn strip styles sideways."
+msgstr "기준점을 고르세요. 왼쪽 가운데와 오른쪽 가운데는 띠 모양 스타일을 옆으로 돌립니다."
+
+msgid "Anchor point"
+msgstr "기준점"
+
+msgid "Top left"
+msgstr "왼쪽 위"
+
+msgid "Top centre"
+msgstr "위 가운데"
+
+msgid "Top right"
+msgstr "오른쪽 위"
+
+msgid "Left centre"
+msgstr "왼쪽 가운데"
+
+msgid "Screen centre"
+msgstr "화면 가운데"
+
+msgid "Right centre"
+msgstr "오른쪽 가운데"
+
+msgid "Bottom left"
+msgstr "왼쪽 아래"
+
+msgid "Bottom centre"
+msgstr "아래 가운데"
+
+msgid "Bottom right"
+msgstr "오른쪽 아래"
+
+msgid "Horizontal margin"
+msgstr "가로 여백"
+
+msgid "Vertical margin"
+msgstr "세로 여백"
+
+msgid "Share of the screen width (or height)"
+msgstr "화면 너비(또는 높이)에 대한 비율"
+
+msgid "Size"
+msgstr "크기"
+
+msgid "Free positioning"
+msgstr "자유 배치"
+
+msgid "Moving is active"
+msgstr "이동이 켜져 있습니다"
+
+msgid "Position is locked"
+msgstr "위치가 고정되어 있습니다"
+
+msgid "Drag the blue frame on the desktop. Lock with %1, Enter or a double click."
+msgstr "바탕 화면의 파란 테두리를 끄세요. %1, Enter 또는 두 번 클릭으로 고정합니다."
+
+msgid "Unlock with %1 – or here:"
+msgstr "%1(으)로 고정 해제 – 또는 여기서:"
+
+msgid "Move now"
+msgstr "지금 이동"
+
+msgid "Orientation"
+msgstr "방향"
+
+msgid "On which side the “base” of the visualizer lies"
+msgstr "비주얼라이저의 “바닥”이 어느 쪽에 있는지"
+
+msgid "Width"
+msgstr "너비"
+
+msgid "Quick placement"
+msgstr "빠른 배치"
+
+msgid "The visualizer fills the widget frame."
+msgstr "비주얼라이저가 위젯 틀을 가득 채웁니다."
+
+msgid "Change size and place like any desktop widget (edit mode). A background plate is on the “Style options” page."
+msgstr "크기와 위치는 다른 바탕 화면 위젯처럼 바꿉니다(편집 모드). 배경 판은 “스타일 옵션” 페이지에 있습니다."
+
+msgid "Reset position values"
+msgstr "위치 값 초기화"
+
+msgid "Show pop-up card"
+msgstr "팝업 카드 표시"
+
+msgid "A right click on the visualizer (not on the orb) opens a small card with preview, pause, lock and settings. A click on an empty spot closes it."
+msgstr "비주얼라이저(구슬 제외)를 오른쪽 클릭하면 미리 보기, 일시 정지, 자물쇠, 설정이 있는 작은 카드가 열립니다. 빈 곳을 클릭하면 닫힙니다."
+
+msgid "Off: a right click opens the widget’s menu (settings editor, move freely, pause, configure)."
+msgstr "끔: 오른쪽 클릭 시 위젯 메뉴(설정 편집기, 자유롭게 이동, 일시 정지, 설정)가 열립니다."
+
+msgid "Bottom"
+msgstr "아래"
+
+msgid "Top"
+msgstr "위"
+
+msgid "Left"
+msgstr "왼쪽"
+
+msgid "Right"
+msgstr "오른쪽"
+
+msgid "Like the panel"
+msgstr "패널과 같게"
+
+msgid "Whole edge"
+msgstr "가장자리 전체"
+
+msgid "Adjust options"
+msgstr "옵션 조정"
+
+msgid "SeaQ SoundWave – Settings"
+msgstr "SeaQ SoundWave – 설정"
+
+msgid "Search"
+msgstr "검색"
+
+msgid "Audio engine stopped"
+msgstr "오디오 엔진 멈춤"
+
+msgid "Music detected"
+msgstr "음악 감지됨"
+
+msgid "Waiting for sound…"
+msgstr "소리를 기다리는 중…"
+
+msgid "playing"
+msgstr "재생 중"
+
+msgid "paused"
+msgstr "일시 정지됨"
+
+msgid "Style"
+msgstr "스타일"
+
+msgid "Choose how your music looks"
+msgstr "음악이 어떻게 보일지 고르세요"
+
+msgid "Style options"
+msgstr "스타일 옵션"
+
+msgid "Adapts to the selected style"
+msgstr "선택한 스타일에 맞춰집니다"
+
+msgid "Colours"
+msgstr "색상"
+
+msgid "Colour collection and gradient editor"
+msgstr "색상 컬렉션과 그라데이션 편집기"
+
+msgid "In the widget, at the panel, fixed or free"
+msgstr "위젯 안, 패널, 고정 또는 자유"
+
+msgid "Behaviour"
+msgstr "동작"
+
+msgid "Orb & playback"
+msgstr "구슬과 재생"
+
+msgid "The orb in the middle – a click pauses"
+msgstr "가운데의 구슬 – 클릭하면 일시 정지"
+
+msgid "Audio"
+msgstr "오디오"
+
+msgid "Source, sensitivity and frame rate"
+msgstr "소스, 감도, 프레임 속도"
+
+msgid "System"
+msgstr "시스템"
+
+msgid "Controls & shortcuts"
+msgstr "조작과 단축키"
+
+msgid "Keyboard shortcuts and mouse gestures"
+msgstr "키보드 단축키와 마우스 제스처"
+
+msgid "Full screen"
+msgstr "전체 화면"
+
+msgid "Orb"
+msgstr "구슬"
+
+msgid "macOS Rainbow"
+msgstr "macOS 무지개"
+
+msgid "Chameleon"
+msgstr "카멜레온"
+
+msgid "Apple Music"
+msgstr "Apple Music"
+
+msgid "Sonoma"
+msgstr "Sonoma"
+
+msgid "Sequoia"
+msgstr "Sequoia"
+
+msgid "Peach Evening"
+msgstr "복숭아 저녁"
+
+msgid "Sunset"
+msgstr "노을"
+
+msgid "Ocean"
+msgstr "바다"
+
+msgid "Aurora"
+msgstr "오로라"
+
+msgid "Light Strings"
+msgstr "빛의 실"
+
+msgid "Forest"
+msgstr "숲"
+
+msgid "Fire"
+msgstr "불꽃"
+
+msgid "Glacier"
+msgstr "빙하"
+
+msgid "Neon"
+msgstr "네온"
+
+msgid "Cyberpunk"
+msgstr "사이버펑크"
+
+msgid "Vaporwave"
+msgstr "베이퍼웨이브"
+
+msgid "Synthwave"
+msgstr "신스웨이브"
+
+msgid "Laser"
+msgstr "레이저"
+
+msgid "Cotton Candy"
+msgstr "솜사탕"
+
+msgid "Pastel"
+msgstr "파스텔"
+
+msgid "Tropical"
+msgstr "트로피컬"
+
+msgid "Mint"
+msgstr "민트"
+
+msgid "Gold"
+msgstr "골드"
+
+msgid "Silver"
+msgstr "실버"
+
+msgid "Rose Gold"
+msgstr "로즈 골드"
+
+msgid "Classic Blue"
+msgstr "클래식 블루"
+
+msgid "Nature"
+msgstr "자연"
+
+msgid "Precious"
+msgstr "귀금속"
+
+msgid "Glass"
+msgstr "유리"
+
+msgid "Record"
+msgstr "레코드"
+
+msgid "From palette"
+msgstr "팔레트에서"
+
+msgid "Own colour"
+msgstr "사용자 색상"
+
+msgid "Always"
+msgstr "항상"
+
+msgid "On hover"
+msgstr "마우스를 올렸을 때"
+
+msgid "Never"
+msgstr "안 함"
+
+msgid "Classic"
+msgstr "클래식"
+
+msgid "The proven spectrum shapes"
+msgstr "검증된 스펙트럼 모양"
+
+msgid "Colourful, in the style of macOS"
+msgstr "화려한 macOS 스타일"
+
+msgid "Lines & Light"
+msgstr "선과 빛"
+
+msgid "Light strings and beams – also full screen"
+msgstr "빛의 실과 광선 – 전체 화면도 가능"
+
+msgid "Round"
+msgstr "원형"
+
+msgid "Circular, with a playback orb in the middle"
+msgstr "원형, 가운데에 재생 구슬"
+
+msgid "Spacing"
+msgstr "간격"
+
+msgid "Fill width automatically"
+msgstr "너비 자동 채우기"
+
+msgid "Fixed bar width"
+msgstr "고정 막대 너비"
+
+msgid "Corner radius"
+msgstr "모서리 반경"
+
+msgid "Number of elements"
+msgstr "요소 수"
+
+msgid "How many bars, columns or rays are drawn"
+msgstr "그릴 막대, 열 또는 광선의 수"
+
+msgid "Lines per side"
+msgstr "한쪽 선 수"
+
+msgid "Line width"
+msgstr "선 굵기"
+
+msgid "Glow"
+msgstr "빛 번짐"
+
+msgid "Amplitude"
+msgstr "진폭"
+
+msgid "Motion speed"
+msgstr "움직임 속도"
+
+msgid "Fade out at the edges"
+msgstr "가장자리에서 흐리게"
+
+msgid "Spread"
+msgstr "퍼짐"
+
+msgid "Turns"
+msgstr "감김 수"
+
+msgid "Rungs between the strands"
+msgstr "가닥 사이의 가로대"
+
+msgid "Waviness"
+msgstr "물결 정도"
+
+msgid "Light in the middle"
+msgstr "가운데 빛"
+
+msgid "A bright light where the lines meet – it breathes with the music"
+msgstr "선이 만나는 곳의 밝은 빛 – 음악에 맞춰 숨 쉽니다"
+
+msgid "Light blending"
+msgstr "빛 혼합"
+
+msgid "Overlaps shine brighter (additive)"
+msgstr "겹친 부분이 더 밝게 빛납니다(가산)"
+
+msgid "Orb in the middle"
+msgstr "가운데 구슬"
+
+msgid "Orb size"
+msgstr "구슬 크기"
+
+msgid "Orb style"
+msgstr "구슬 스타일"
+
+msgid "Record spins"
+msgstr "레코드 회전"
+
+msgid "Turns like on a turntable while music plays and stops on pause"
+msgstr "음악이 재생되는 동안 턴테이블처럼 돌고 일시정지하면 멈춥니다"
+
+msgid "Tone arm"
+msgstr "톤암"
+
+msgid "Swings onto the record when playing and away on pause"
+msgstr "재생할 때 레코드 위로 오고 일시정지하면 비켜납니다"
+
+msgid "Cover on the label"
+msgstr "라벨에 커버"
+
+msgid "Shows the cover of the current song or video in the middle of the record"
+msgstr "레코드 가운데에 현재 노래나 동영상의 커버를 표시합니다"
+
+msgid "Orb pulses with the bass"
+msgstr "구슬이 저음에 맞춰 고동침"
+
+msgid "Orb colour"
+msgstr "구슬 색상"
+
+msgid "Colour of the orb"
+msgstr "구슬의 색상"
+
+msgid "Play/pause on click"
+msgstr "클릭하면 재생/일시 정지"
+
+msgid "Clicking the orb pauses or resumes audio and video"
+msgstr "구슬을 클릭하면 오디오와 동영상을 일시 정지하거나 다시 재생합니다"
+
+msgid "Show play/pause symbol"
+msgstr "재생/일시 정지 기호 표시"
+
+msgid "Inner radius"
+msgstr "안쪽 반경"
+
+msgid "Ray length"
+msgstr "광선 길이"
+
+msgid "Negative = counter-clockwise"
+msgstr "음수 = 시계 반대 방향"
+
+msgid "Rings"
+msgstr "고리"
+
+msgid "LED rows"
+msgstr "LED 줄 수"
+
+msgid "Peak caps"
+msgstr "최고점 표시"
+
+msgid "Fall speed"
+msgstr "떨어지는 속도"
+
+msgid "Reflection"
+msgstr "반사"
+
+msgid "Reflection strength"
+msgstr "반사 강도"
+
+msgid "Lit windows"
+msgstr "불 켜진 창"
+
+msgid "Hint inactive elements"
+msgstr "비활성 요소 희미하게 표시"
+
+msgid "Symmetry axes"
+msgstr "대칭 축"
+
+msgid "Pulse rings"
+msgstr "펄스 고리"
+
+msgid "Layers"
+msgstr "레이어"
+
+msgid "Shape"
+msgstr "모양"
+
+msgid "Motion"
+msgstr "움직임"
+
+msgid "Light & glow"
+msgstr "빛과 빛 번짐"
+
+msgid "Bars"
+msgstr "막대"
+
+msgid "Classic spectrum bars"
+msgstr "클래식 스펙트럼 막대"
+
+msgid "Mirror axis"
+msgstr "거울 축"
+
+msgid "Bars mirrored around the centre line"
+msgstr "가운데 선을 기준으로 대칭인 막대"
+
+msgid "Wave"
+msgstr "물결"
+
+msgid "A soft, filled curve"
+msgstr "부드럽게 채워진 곡선"
+
+msgid "Dots"
+msgstr "점"
+
+msgid "Floating dots"
+msgstr "떠다니는 점"
+
+msgid "Particles"
+msgstr "입자"
+
+msgid "Floating capsules"
+msgstr "떠다니는 캡슐"
+
+msgid "Colour waves"
+msgstr "색상 물결"
+
+msgid "Flowing macOS colours (the original)"
+msgstr "흐르는 macOS 색상(원조)"
+
+msgid "LED matrix"
+msgstr "LED 매트릭스"
+
+msgid "Glowing dots in rows and columns"
+msgstr "줄과 열로 늘어선 빛나는 점"
+
+msgid "Skyline"
+msgstr "스카이라인"
+
+msgid "A city that grows with the music"
+msgstr "음악과 함께 자라는 도시"
+
+msgid "Rainbow bars"
+msgstr "무지개 막대"
+
+msgid "Rounded bars with peaks and reflection"
+msgstr "최고점과 반사가 있는 둥근 막대"
+
+msgid "Double helix"
+msgstr "이중 나선"
+
+msgid "Two glowing strands winding around each other"
+msgstr "서로 감기는 두 개의 빛나는 가닥"
+
+msgid "Laser fan"
+msgstr "레이저 부채"
+
+msgid "Beams of light meeting in the middle"
+msgstr "가운데에서 만나는 빛줄기"
+
+msgid "Light strings"
+msgstr "빛의 실"
+
+msgid "Fine strings bundled into a point of light"
+msgstr "하나의 빛점으로 모이는 가는 실"
+
+msgid "Colour streams"
+msgstr "색상 줄기"
+
+msgid "Coloured lines flowing into a small orb"
+msgstr "작은 구슬로 흘러드는 색색의 선"
+
+msgid "Silk waves"
+msgstr "비단 물결"
+
+msgid "Layered, swinging bands of light"
+msgstr "겹겹이 흔들리는 빛의 띠"
+
+msgid "Ring spectrum"
+msgstr "고리 스펙트럼"
+
+msgid "Rays all around the orb"
+msgstr "구슬 둘레의 광선"
+
+msgid "Segment ring"
+msgstr "세그먼트 고리"
+
+msgid "Concentric glowing segments"
+msgstr "동심원으로 빛나는 세그먼트"
+
+msgid "Rings that travel outwards with the bass"
+msgstr "저음에 맞춰 바깥으로 퍼지는 고리"
+
+msgid "Liquid orb"
+msgstr "액체 구슬"
+
+msgid "Soft shapes flowing around the orb"
+msgstr "구슬 주위를 흐르는 부드러운 모양"
+
+msgid "Kaleidoscope"
+msgstr "만화경"
+
+msgid "A fractal-like bloom of light petals"
+msgstr "빛의 꽃잎으로 피어난 프랙털 같은 꽃"
+

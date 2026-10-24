@@ -1,0 +1,1233 @@
+# 日本語 translation of SeaQ SoundWave.
+# Copyright (C) 2026 SeaQ
+# This file is distributed under the same license as the SeaQ SoundWave package.
+msgid ""
+msgstr ""
+"Project-Id-Version: seaq-soundwave 2.5.0\n"
+"Report-Msgid-Bugs-To: https://github.com/SeaQSoft/SeaQ-SoundWave/issues\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "At the panel"
+msgstr "パネルに配置"
+
+msgid "Fixed position"
+msgstr "固定位置"
+
+msgid "Placed freely"
+msgstr "自由に配置"
+
+msgid "In the widget"
+msgstr "ウィジェット内"
+
+msgid "Moving active"
+msgstr "移動中"
+
+msgid "Pause"
+msgstr "一時停止"
+
+msgid "Resume"
+msgstr "再開"
+
+msgid "Lock position (%1)"
+msgstr "位置を固定（%1）"
+
+msgid "Move freely (%1)"
+msgstr "自由に移動（%1）"
+
+msgid "Settings editor"
+msgstr "設定エディター"
+
+msgid "Fixed position on the screen"
+msgstr "画面上の固定位置"
+
+msgid "Freely movable"
+msgstr "自由に移動可能"
+
+msgid "Quick settings · everything else in the settings editor"
+msgstr "クイック設定 · その他の設定はすべて設定エディターで"
+
+msgid "Open settings editor…"
+msgstr "設定エディターを開く…"
+
+msgid "Style:"
+msgstr "スタイル:"
+
+msgid "Colour palette:"
+msgstr "カラーパレット:"
+
+msgid "Custom colours"
+msgstr "カスタムカラー"
+
+msgid "Let the colours flow"
+msgstr "色を流す"
+
+msgid "Placement:"
+msgstr "配置:"
+
+msgid "Move freely, lock and unlock again: shortcut %1 (change it on the “Keyboard Shortcuts” page or in the settings editor)."
+msgstr "自由に移動・固定・固定解除: ショートカット %1（「キーボードショートカット」タブまたは設定エディターで変更できます）。"
+
+msgid "Sensitivity:"
+msgstr "感度:"
+
+msgid "Clicking the orb:"
+msgstr "球をクリックしたとき:"
+
+msgid "Pause / resume audio and video"
+msgstr "音声と動画を一時停止 / 再開"
+
+msgid "Do nothing"
+msgstr "何もしない"
+
+msgid "no shortcut"
+msgstr "ショートカットなし"
+
+msgid "Free positioning only works while the widget sits on the desktop."
+msgstr "自由配置はウィジェットがデスクトップ上にある場合のみ使用できます。"
+
+msgid "Repair"
+msgstr "修復"
+
+msgid "Don't report again"
+msgstr "今後は通知しない"
+
+msgid "Sound of %1 is muted"
+msgstr "%1 の音がミュートされています"
+
+msgid "The system remembered this app as muted or at 0 %. Click “Repair” to give it its sound back."
+msgstr "システムがこのアプリをミュートまたは 0 % として記憶しています。「修復」をクリックすると音が戻ります。"
+
+msgid "The settings editor could not be loaded."
+msgstr "設定エディターを読み込めませんでした。"
+
+msgid "Lock position"
+msgstr "位置を固定"
+
+msgid "Move freely"
+msgstr "自由に移動"
+
+msgid "Pause playback"
+msgstr "再生を一時停止"
+
+msgid "Resume playback"
+msgstr "再生を再開"
+
+msgid "No audio capture tool found.\nPlease install “pulseaudio-utils” or “pipewire-utils” (or “cava”) and add the widget again."
+msgstr "音声キャプチャツールが見つかりません。\n「pulseaudio-utils」または「pipewire-utils」（あるいは「cava」）をインストールして、ウィジェットを追加し直してください。"
+
+msgid "The audio engine could not be started."
+msgstr "オーディオエンジンを起動できませんでした。"
+
+msgid "Drag = move · Edges and corners = resize · Wheel = zoom · Arrow keys = 1 px (⇧ 10 px)"
+msgstr "ドラッグ = 移動 · 辺と角 = サイズ変更 · ホイール = ズーム · 矢印キー = 1 px（⇧ 10 px）"
+
+msgid "Lock (%1 / Enter)"
+msgstr "固定（%1 / Enter）"
+
+msgid "Configure SeaQ SoundWave…"
+msgstr "SeaQ SoundWave を設定…"
+
+msgid "Choose a colour"
+msgstr "色を選択"
+
+msgid "Copied to the clipboard"
+msgstr "クリップボードにコピーしました"
+
+msgid "My palette %1"
+msgstr "マイパレット %1"
+
+msgid "“%1” saved"
+msgstr "「%1」を保存しました"
+
+msgid "Colour"
+msgstr "色"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Rotation"
+msgstr "回転"
+
+msgid "Type"
+msgstr "種類"
+
+msgid "Auto: every visualizer lays out the colours itself (e.g. per line, all around or from bottom to top)."
+msgstr "自動: 各ビジュアライザーが色を自動で配置します（例: 線ごと、円周に沿って、下から上へ）。"
+
+msgid "The gradient covers the whole visualizer – rotation and type apply as set above."
+msgstr "グラデーションはビジュアライザー全体にかかります – 回転と種類は上の設定どおりです。"
+
+msgid "Random"
+msgstr "ランダム"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Name of the palette"
+msgstr "パレット名"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Preview with the current visualizer"
+msgstr "現在のビジュアライザーでプレビュー"
+
+msgid "Gradient"
+msgstr "グラデーション"
+
+msgid "Auto"
+msgstr "自動"
+
+msgid "Linear"
+msgstr "線形"
+
+msgid "Radial"
+msgstr "放射状"
+
+msgid "Conic"
+msgstr "円錐"
+
+msgid "Copy CSS"
+msgstr "CSS をコピー"
+
+msgid "Copy hex values"
+msgstr "16 進値をコピー"
+
+msgid "Reverse colours"
+msgstr "色を反転"
+
+msgid "Spread evenly"
+msgstr "均等に配置"
+
+msgid "Live"
+msgstr "ライブ"
+
+msgid "Demo · nothing is playing right now"
+msgstr "デモ · 現在何も再生されていません"
+
+msgid "Version %1 · by %2"
+msgstr "バージョン %1 · 作者 %2"
+
+msgid "Support SeaQ SoundWave"
+msgstr "SeaQ SoundWave を応援する"
+
+msgid "If you like the widget, you can support its development – thank you!"
+msgstr "このウィジェットを気に入っていただけたら、開発を応援していただけます – ありがとうございます！"
+
+msgid "Donate with PayPal"
+msgstr "PayPal で寄付"
+
+msgid "Buy me a coffee"
+msgstr "コーヒーをおごる"
+
+msgid "About"
+msgstr "情報"
+
+msgid "Audio visualizer for KDE Plasma 6"
+msgstr "KDE Plasma 6 用オーディオビジュアライザー"
+
+msgid "19 styles in four groups, colour collection with gradient editor, orb with play/pause, panel attachment, fixed or free position on the desktop."
+msgstr "4 グループ 19 スタイル、グラデーションエディター付きカラーコレクション、再生/一時停止できる球、パネルへの配置、デスクトップ上の固定または自由な位置。"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "License"
+msgstr "ライセンス"
+
+msgid "Appearance"
+msgstr "外観"
+
+msgid "Logo in the taskbar"
+msgstr "タスクバーのロゴ"
+
+msgid "Shows the SeaQ SoundWave logo instead of the Plasma logo while a settings window is open. Adds a hidden desktop file and a KWin window rule – switching it off removes both again."
+msgstr "設定ウィンドウを開いている間、Plasma のロゴの代わりに SeaQ SoundWave のロゴを表示します。非表示のデスクトップファイルと KWin のウィンドウルールを追加します – オフにすると両方とも削除されます。"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Everything to factory settings"
+msgstr "すべて工場出荷時の設定に戻す"
+
+msgid "Style, style options, colours, position, orb, audio and editor – everything like right after installing. Your own palettes are kept."
+msgstr "スタイル、スタイルオプション、色、位置、球、オーディオ、エディター – すべてインストール直後の状態に戻ります。自分で作ったパレットは残ります。"
+
+msgid "Yes, reset everything"
+msgstr "はい、すべてリセット"
+
+msgid "Factory settings"
+msgstr "工場出荷時の設定"
+
+msgid "Reset the options of all styles"
+msgstr "すべてのスタイルのオプションをリセット"
+
+msgid "Sets the shape settings of every style back to the defaults"
+msgstr "各スタイルの形状設定を既定値に戻します"
+
+msgid "Really?"
+msgstr "本当によろしいですか？"
+
+msgid "Reset colours"
+msgstr "色をリセット"
+
+msgid "macOS rainbow, colour flow on"
+msgstr "macOS レインボー、色の流れ オン"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid "Light"
+msgstr "ライト"
+
+msgid "Dark"
+msgstr "ダーク"
+
+msgid "Analysis"
+msgstr "解析"
+
+msgid "Frequency bands"
+msgstr "周波数バンド"
+
+msgid "Detail of the spectrum"
+msgstr "スペクトルの細かさ"
+
+msgid "Sensitivity"
+msgstr "感度"
+
+msgid "Frame rate"
+msgstr "フレームレート"
+
+msgid "Fewer frames per second save power"
+msgstr "フレームレートを下げると電力を節約できます"
+
+msgid "Smoothing"
+msgstr "スムージング"
+
+msgid "Audio source"
+msgstr "オーディオソース"
+
+msgid "Audio engine"
+msgstr "オーディオエンジン"
+
+msgid "Automatic uses cava when it is installed – otherwise the built-in analysis (needs only parec or pw-record)."
+msgstr "自動では cava がインストールされていれば cava を、なければ内蔵の解析を使用します（parec または pw-record だけが必要です）。"
+
+msgid "Input method (cava only)"
+msgstr "入力方式（cava のみ）"
+
+msgid "Source"
+msgstr "ソース"
+
+msgid "“auto” shows whatever is playing. Find other sources with “pactl list short sources”."
+msgstr "「auto」は現在再生中のものを表示します。他のソースは「pactl list short sources」で確認できます。"
+
+msgid "Audio protection"
+msgstr "サウンド保護"
+
+msgid "SoundWave keeps its own recording stream out of the audio memory. If an app ends up muted or at 0 % anyway (as remembered by the system), it can be repaired here."
+msgstr "SoundWave は自身の録音ストリームをオーディオの記憶に残しません。それでもアプリがミュートや 0 % で記憶されてしまった場合は、ここで修復できます。"
+
+msgid "Repairing only unmutes and only raises a volume that is at 0 % (to the normal 100 %). Cleaning the remembered settings briefly restarts the audio service."
+msgstr "修復はミュートの解除と、0 % の音量を上げること（通常の 100 % まで）だけを行います。記憶された設定のクリーンアップでは、オーディオサービスが一瞬再起動します。"
+
+msgid "When a muted app is found"
+msgstr "ミュートされたアプリが見つかったとき"
+
+msgid "Muted or silent: %1"
+msgstr "ミュートまたは無音: %1"
+
+msgid "All apps can be heard"
+msgstr "すべてのアプリの音が聞こえます"
+
+msgid "Check now"
+msgstr "今すぐ確認"
+
+msgid "Repair now"
+msgstr "今すぐ修復"
+
+msgid "Not reported: %1"
+msgstr "通知しない: %1"
+
+msgid "Apps you muted on purpose"
+msgstr "意図的にミュートしたアプリ"
+
+msgid "Clear list"
+msgstr "リストを消去"
+
+msgid "Built-in"
+msgstr "内蔵"
+
+msgid "Notify"
+msgstr "通知する"
+
+msgid "Repair automatically"
+msgstr "自動で修復"
+
+msgid "Off"
+msgstr "オフ"
+
+msgid "Colour collection"
+msgstr "カラーコレクション"
+
+msgid "One click recolours the visualizer at once – save your own palettes in the gradient editor."
+msgstr "クリックひとつでビジュアライザーの色がすぐに変わります – 自分のパレットはグラデーションエディターで保存できます。"
+
+msgid "No palettes of your own yet. Put colours together in the gradient editor below and click “Save”."
+msgstr "まだ自分のパレットはありません。下のグラデーションエディターで色を組み合わせ、「保存」をクリックしてください。"
+
+msgid "Gradient editor"
+msgstr "グラデーションエディター"
+
+msgid "Drag the points on the colour bar, click the bar to add a colour. The preview on the right shows the gradient or – with the button at its top right – your visualizer."
+msgstr "カラーバー上の点をドラッグし、バーをクリックすると色を追加できます。右のプレビューにはグラデーション、または右上のボタンでビジュアライザーが表示されます。"
+
+msgid "Colour flow"
+msgstr "色の流れ"
+
+msgid "The palette slowly moves through the visualizer – like the macOS colour waves"
+msgstr "パレットがゆっくりとビジュアライザーの中を流れます – macOS のカラーウェーブのように"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "Mine"
+msgstr "自分のもの"
+
+msgid "Keyboard shortcut"
+msgstr "キーボードショートカット"
+
+msgid "A global shortcut for free positioning – it works everywhere, even when a window is in front."
+msgstr "自由配置用のグローバルショートカット – ウィンドウが前面にあってもどこでも使えます。"
+
+msgid "Move freely / lock / unlock"
+msgstr "自由に移動 / 固定 / 固定解除"
+
+msgid "Current: %1. Click the field and press the new combination."
+msgstr "現在: %1。フィールドをクリックして新しい組み合わせを押してください。"
+
+msgid "Change it via right click → Configure → Keyboard Shortcuts"
+msgstr "右クリック → 設定 → キーボードショートカット で変更できます"
+
+msgid "How free positioning works"
+msgstr "自由配置の使い方"
+
+msgid "Unlock"
+msgstr "固定解除"
+
+msgid "Press %1 (or choose “Position” → “Free”, or the lock on the pop-up card). A blue frame appears around the visualizer."
+msgstr "%1 を押します（または「位置」→「自由」、ポップアップカードの鍵を選択）。ビジュアライザーの周りに青い枠が表示されます。"
+
+msgid "Move & resize"
+msgstr "移動とサイズ変更"
+
+msgid "Drag the frame with the mouse. The handles on every edge and corner change the size, the mouse wheel zooms, arrow keys move by 1 px (with Shift 10 px), + and − scale. It snaps to the centre of the screen."
+msgstr "マウスで枠をドラッグします。各辺と各角のハンドルでサイズを変更、マウスホイールでズーム、矢印キーで 1 px（Shift で 10 px）移動、+ と − で拡大縮小します。画面中央に吸着します。"
+
+msgid "Lock"
+msgstr "固定"
+
+msgid "%1 again, Enter, Esc, a double click or the “Lock” button. Afterwards the visualizer lies behind all windows again and lets clicks through to the desktop."
+msgstr "もう一度 %1、Enter、Esc、ダブルクリック、または「固定」ボタン。その後ビジュアライザーは再びすべてのウィンドウの背面に置かれ、クリックはデスクトップに届きます。"
+
+msgid "Unlock again"
+msgstr "もう一度固定解除"
+
+msgid "Any time with the same shortcut – the widget itself stays where it is."
+msgstr "いつでも同じショートカットで – ウィジェット自体はその場所に残ります。"
+
+msgid "Mouse & menus"
+msgstr "マウスとメニュー"
+
+msgid "Click on the orb"
+msgstr "球をクリック"
+
+msgid "Pauses or resumes audio and video (see “Orb & playback”)"
+msgstr "音声と動画を一時停止または再開します（「球と再生」を参照）"
+
+msgid "Click"
+msgstr "クリック"
+
+msgid "Right click on the visualizer"
+msgstr "ビジュアライザーを右クリック"
+
+msgid "Opens the pop-up card – or, with the card switched off, the menu"
+msgstr "ポップアップカードを開きます – オフの場合はメニューを開きます"
+
+msgid "Right click"
+msgstr "右クリック"
+
+msgid "Quick settings"
+msgstr "クイック設定"
+
+msgid "“Configure SeaQ SoundWave…” shows the most important options and the button to this editor"
+msgstr "「SeaQ SoundWave を設定…」で主要なオプションとこのエディターを開くボタンが表示されます"
+
+msgid "Close the editor"
+msgstr "エディターを閉じる"
+
+msgid "This page adapts itself: you only see the settings that the style “%1” really uses. Every style remembers its own values."
+msgstr "このページは自動で切り替わります: スタイル「%1」が実際に使う設定だけが表示されます。各スタイルは自分の値を記憶します。"
+
+msgid "Defaults"
+msgstr "既定値"
+
+msgid "No options of its own"
+msgstr "固有のオプションなし"
+
+msgid "“%1” has no additional shape settings."
+msgstr "「%1」には追加の形状設定がありません。"
+
+msgid "Set colours and colour flow on the “Colours” page, opacity further down."
+msgstr "色と色の流れは「色」ページで、不透明度はこの下で設定します。"
+
+msgid "For all styles"
+msgstr "すべてのスタイル共通"
+
+msgid "Opacity"
+msgstr "不透明度"
+
+msgid "How softly the motion follows the music"
+msgstr "動きが音楽にどれだけ滑らかに追従するか"
+
+msgid "Background plate"
+msgstr "背景プレート"
+
+msgid "Square at the bottom so that “%1” sits flush – rounded at the top"
+msgstr "「%1」がぴったり載るよう下側は角張り – 上側は角丸"
+
+msgid "Rounded all around, because “%1” floats freely in the middle"
+msgstr "「%1」は中央に浮かぶため、四隅すべて角丸"
+
+msgid "Corner radius of the plate"
+msgstr "プレートの角の半径"
+
+msgid "“%1” has no orb"
+msgstr "「%1」には球がありません"
+
+msgid "The orb exists for the line, light and round styles. Pick one of them:"
+msgstr "球は線・光・円形のスタイルにあります。どれかを選んでください:"
+
+msgid "Orb – for all styles"
+msgstr "球 – すべてのスタイル共通"
+
+msgid "On/off, look and play/pause apply to every style at once. For round styles the orb is the circle in the middle – its size follows the inner radius."
+msgstr "オン/オフ、外観、再生/一時停止はすべてのスタイルに同時に適用されます。円形スタイルでは球は中央の円で、大きさは内側の半径に従います。"
+
+msgid "On/off, look and play/pause apply to every style at once – only the size is set for each style."
+msgstr "オン/オフ、外観、再生/一時停止はすべてのスタイルに同時に適用されます – サイズだけはスタイルごとに設定します。"
+
+msgid "Clicking the orb"
+msgstr "球をクリックしたとき"
+
+msgid "Reset orb"
+msgstr "球をリセット"
+
+msgid "Action"
+msgstr "動作"
+
+msgid "Pauses audio and video of every player that is playing (browser with YouTube/Udemy, VLC, Spotify, Elisa, LizardTune…) – a second click resumes them."
+msgstr "再生中のすべてのプレーヤー（YouTube/Udemy を開いたブラウザー、VLC、Spotify、Elisa、LizardTune…）の音声と動画を一時停止します – もう一度クリックすると再開します。"
+
+msgid "No player found"
+msgstr "プレーヤーが見つかりません"
+
+msgid "Playing right now"
+msgstr "再生中"
+
+msgid "Paused"
+msgstr "一時停止中"
+
+msgid "Stopped"
+msgstr "停止"
+
+msgid "Start music or a video so the orb has something to control."
+msgstr "球が操作できるよう、音楽か動画を再生してください。"
+
+msgid "Pause now"
+msgstr "今すぐ一時停止"
+
+msgid "Pause / resume"
+msgstr "一時停止 / 再開"
+
+msgid "Nothing"
+msgstr "なし"
+
+msgid "The widget is not on the desktop right now (e.g. in a panel). Panel, fixed and free placement only work for widgets on the desktop – put SeaQ SoundWave on the desktop for that."
+msgstr "ウィジェットは現在デスクトップ上にありません（例: パネル内）。パネル・固定・自由配置はデスクトップ上のウィジェットでのみ使えます – SeaQ SoundWave をデスクトップに置いてください。"
+
+msgid "Where should the visualizer appear?"
+msgstr "ビジュアライザーをどこに表示しますか？"
+
+msgid "Outside the widget the visualizer floats on the desktop behind all windows – the widget itself becomes invisible (in the desktop’s edit mode you see a small icon)."
+msgstr "ウィジェットの外では、ビジュアライザーはすべてのウィンドウの背面でデスクトップ上に浮かびます – ウィジェット自体は非表示になります（デスクトップの編集モードでは小さなアイコンが見えます）。"
+
+msgid "Classic, inside the widget frame, sized like any widget"
+msgstr "クラシック、ウィジェットの枠内に表示、サイズは通常のウィジェットと同じ"
+
+msgid "Centred at a panel at the top, bottom, left or right"
+msgstr "上・下・左・右のパネルの中央に配置"
+
+msgid "At one of nine points of the screen"
+msgstr "画面の 9 つの点のいずれか"
+
+msgid "Free"
+msgstr "自由"
+
+msgid "Drag it with the mouse, lock it with a shortcut"
+msgstr "マウスでドラッグし、ショートカットで固定"
+
+msgid "Found: panel at the bottom."
+msgstr "検出: 下のパネル。"
+
+msgid "Found: panel at the top."
+msgstr "検出: 上のパネル。"
+
+msgid "Found: panel on the left."
+msgstr "検出: 左のパネル。"
+
+msgid "Found: panel on the right."
+msgstr "検出: 右のパネル。"
+
+msgid "Round styles sit centred above the panel."
+msgstr "円形スタイルはパネルの上中央に配置されます。"
+
+msgid "The base of the visualizer always points to the panel."
+msgstr "ビジュアライザーの底辺は常にパネル側を向きます。"
+
+msgid "There is no panel on this edge – until there is one, the visualizer sits at the bottom of the screen."
+msgstr "この辺にはパネルがありません – それまでビジュアライザーは画面の下部に表示されます。"
+
+msgid "Edge"
+msgstr "辺"
+
+msgid "Height"
+msgstr "高さ"
+
+msgid "How far the visualizer rises from the panel"
+msgstr "ビジュアライザーがパネルからどれだけ伸びるか"
+
+msgid "Gap to the panel"
+msgstr "パネルとの間隔"
+
+msgid "Small gap between panel and visualizer"
+msgstr "パネルとビジュアライザーの間の小さな隙間"
+
+msgid "Offset along the panel"
+msgstr "パネルに沿ったずらし"
+
+msgid "0 = exactly centred"
+msgstr "0 = ちょうど中央"
+
+msgid "Centre"
+msgstr "中央へ"
+
+msgid "Length"
+msgstr "長さ"
+
+msgid "Fixed length"
+msgstr "固定の長さ"
+
+msgid "Stop before the panel corners"
+msgstr "パネルの角の手前で止める"
+
+msgid "So the visualizer does not reach into the rounding of a floating panel"
+msgstr "浮いたパネルの角丸にビジュアライザーがはみ出さないように"
+
+msgid "Rounded ends"
+msgstr "丸い端"
+
+msgid "Soft curve at the ends above a floating panel (0 = straight edge)"
+msgstr "浮いたパネルの上で端をやわらかくカーブ（0 = まっすぐ）"
+
+msgid "Flare at the base"
+msgstr "根元の広がり"
+
+msgid "Choose an anchor point. Left and right in the middle turn strip styles sideways."
+msgstr "アンカーポイントを選んでください。左中央と右中央では帯状のスタイルが横向きになります。"
+
+msgid "Anchor point"
+msgstr "アンカーポイント"
+
+msgid "Top left"
+msgstr "左上"
+
+msgid "Top centre"
+msgstr "上中央"
+
+msgid "Top right"
+msgstr "右上"
+
+msgid "Left centre"
+msgstr "左中央"
+
+msgid "Screen centre"
+msgstr "画面中央"
+
+msgid "Right centre"
+msgstr "右中央"
+
+msgid "Bottom left"
+msgstr "左下"
+
+msgid "Bottom centre"
+msgstr "下中央"
+
+msgid "Bottom right"
+msgstr "右下"
+
+msgid "Horizontal margin"
+msgstr "横の余白"
+
+msgid "Vertical margin"
+msgstr "縦の余白"
+
+msgid "Share of the screen width (or height)"
+msgstr "画面の幅（または高さ）に対する割合"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "Free positioning"
+msgstr "自由配置"
+
+msgid "Moving is active"
+msgstr "移動が有効です"
+
+msgid "Position is locked"
+msgstr "位置は固定されています"
+
+msgid "Drag the blue frame on the desktop. Lock with %1, Enter or a double click."
+msgstr "デスクトップ上の青い枠をドラッグします。%1、Enter、またはダブルクリックで固定します。"
+
+msgid "Unlock with %1 – or here:"
+msgstr "%1 で固定解除 – またはこちら:"
+
+msgid "Move now"
+msgstr "今すぐ移動"
+
+msgid "Orientation"
+msgstr "向き"
+
+msgid "On which side the “base” of the visualizer lies"
+msgstr "ビジュアライザーの「底辺」がどちら側にあるか"
+
+msgid "Width"
+msgstr "幅"
+
+msgid "Quick placement"
+msgstr "クイック配置"
+
+msgid "The visualizer fills the widget frame."
+msgstr "ビジュアライザーはウィジェットの枠いっぱいに表示されます。"
+
+msgid "Change size and place like any desktop widget (edit mode). A background plate is on the “Style options” page."
+msgstr "サイズと位置は他のデスクトップウィジェットと同様に変更します（編集モード）。背景プレートは「スタイルオプション」ページにあります。"
+
+msgid "Reset position values"
+msgstr "位置の値をリセット"
+
+msgid "Show pop-up card"
+msgstr "ポップアップカードを表示"
+
+msgid "A right click on the visualizer (not on the orb) opens a small card with preview, pause, lock and settings. A click on an empty spot closes it."
+msgstr "ビジュアライザー（球以外）を右クリックすると、プレビュー・一時停止・鍵・設定を備えた小さなカードが開きます。空いている場所をクリックすると閉じます。"
+
+msgid "Off: a right click opens the widget’s menu (settings editor, move freely, pause, configure)."
+msgstr "オフ: 右クリックでウィジェットのメニュー（設定エディター、自由に移動、一時停止、設定）が開きます。"
+
+msgid "Bottom"
+msgstr "下"
+
+msgid "Top"
+msgstr "上"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Like the panel"
+msgstr "パネルと同じ"
+
+msgid "Whole edge"
+msgstr "辺全体"
+
+msgid "Adjust options"
+msgstr "オプションを調整"
+
+msgid "SeaQ SoundWave – Settings"
+msgstr "SeaQ SoundWave – 設定"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Audio engine stopped"
+msgstr "オーディオエンジン停止中"
+
+msgid "Music detected"
+msgstr "音楽を検出"
+
+msgid "Waiting for sound…"
+msgstr "音を待っています…"
+
+msgid "playing"
+msgstr "再生中"
+
+msgid "paused"
+msgstr "一時停止中"
+
+msgid "Style"
+msgstr "スタイル"
+
+msgid "Choose how your music looks"
+msgstr "音楽の見た目を選びます"
+
+msgid "Style options"
+msgstr "スタイルオプション"
+
+msgid "Adapts to the selected style"
+msgstr "選んだスタイルに合わせて変わります"
+
+msgid "Colours"
+msgstr "色"
+
+msgid "Colour collection and gradient editor"
+msgstr "カラーコレクションとグラデーションエディター"
+
+msgid "In the widget, at the panel, fixed or free"
+msgstr "ウィジェット内、パネル、固定、または自由"
+
+msgid "Behaviour"
+msgstr "動作"
+
+msgid "Orb & playback"
+msgstr "球と再生"
+
+msgid "The orb in the middle – a click pauses"
+msgstr "中央の球 – クリックで一時停止"
+
+msgid "Audio"
+msgstr "オーディオ"
+
+msgid "Source, sensitivity and frame rate"
+msgstr "ソース、感度、フレームレート"
+
+msgid "System"
+msgstr "システム"
+
+msgid "Controls & shortcuts"
+msgstr "操作とショートカット"
+
+msgid "Keyboard shortcuts and mouse gestures"
+msgstr "キーボードショートカットとマウス操作"
+
+msgid "Full screen"
+msgstr "全画面"
+
+msgid "Orb"
+msgstr "球"
+
+msgid "macOS Rainbow"
+msgstr "macOS レインボー"
+
+msgid "Chameleon"
+msgstr "カメレオン"
+
+msgid "Apple Music"
+msgstr "Apple Music"
+
+msgid "Sonoma"
+msgstr "Sonoma"
+
+msgid "Sequoia"
+msgstr "Sequoia"
+
+msgid "Peach Evening"
+msgstr "ピーチイブニング"
+
+msgid "Sunset"
+msgstr "夕焼け"
+
+msgid "Ocean"
+msgstr "オーシャン"
+
+msgid "Aurora"
+msgstr "オーロラ"
+
+msgid "Light Strings"
+msgstr "光の糸"
+
+msgid "Forest"
+msgstr "森"
+
+msgid "Fire"
+msgstr "炎"
+
+msgid "Glacier"
+msgstr "氷河"
+
+msgid "Neon"
+msgstr "ネオン"
+
+msgid "Cyberpunk"
+msgstr "サイバーパンク"
+
+msgid "Vaporwave"
+msgstr "ヴェイパーウェイヴ"
+
+msgid "Synthwave"
+msgstr "シンセウェイヴ"
+
+msgid "Laser"
+msgstr "レーザー"
+
+msgid "Cotton Candy"
+msgstr "綿あめ"
+
+msgid "Pastel"
+msgstr "パステル"
+
+msgid "Tropical"
+msgstr "トロピカル"
+
+msgid "Mint"
+msgstr "ミント"
+
+msgid "Gold"
+msgstr "ゴールド"
+
+msgid "Silver"
+msgstr "シルバー"
+
+msgid "Rose Gold"
+msgstr "ローズゴールド"
+
+msgid "Classic Blue"
+msgstr "クラシックブルー"
+
+msgid "Nature"
+msgstr "自然"
+
+msgid "Precious"
+msgstr "プレシャス"
+
+msgid "Glass"
+msgstr "ガラス"
+
+msgid "Record"
+msgstr "レコード"
+
+msgid "From palette"
+msgstr "パレットから"
+
+msgid "Own colour"
+msgstr "カスタムカラー"
+
+msgid "Always"
+msgstr "常に"
+
+msgid "On hover"
+msgstr "ホバー時"
+
+msgid "Never"
+msgstr "表示しない"
+
+msgid "Classic"
+msgstr "クラシック"
+
+msgid "The proven spectrum shapes"
+msgstr "定番のスペクトル形状"
+
+msgid "Colourful, in the style of macOS"
+msgstr "カラフル、macOS 風"
+
+msgid "Lines & Light"
+msgstr "線と光"
+
+msgid "Light strings and beams – also full screen"
+msgstr "光の糸とビーム – 全画面にも対応"
+
+msgid "Round"
+msgstr "円形"
+
+msgid "Circular, with a playback orb in the middle"
+msgstr "円形、中央に再生用の球"
+
+msgid "Spacing"
+msgstr "間隔"
+
+msgid "Fill width automatically"
+msgstr "幅を自動で埋める"
+
+msgid "Fixed bar width"
+msgstr "バーの固定幅"
+
+msgid "Corner radius"
+msgstr "角の半径"
+
+msgid "Number of elements"
+msgstr "要素の数"
+
+msgid "How many bars, columns or rays are drawn"
+msgstr "描画するバー、列、光線の数"
+
+msgid "Lines per side"
+msgstr "片側の線の数"
+
+msgid "Line width"
+msgstr "線の太さ"
+
+msgid "Glow"
+msgstr "グロー"
+
+msgid "Amplitude"
+msgstr "振幅"
+
+msgid "Motion speed"
+msgstr "動きの速さ"
+
+msgid "Fade out at the edges"
+msgstr "端でフェードアウト"
+
+msgid "Spread"
+msgstr "広がり"
+
+msgid "Turns"
+msgstr "巻き数"
+
+msgid "Rungs between the strands"
+msgstr "ストランド間の横木"
+
+msgid "Waviness"
+msgstr "うねり"
+
+msgid "Light in the middle"
+msgstr "中央の光"
+
+msgid "A bright light where the lines meet – it breathes with the music"
+msgstr "線が交わる場所の明るい光 – 音楽に合わせて呼吸します"
+
+msgid "Light blending"
+msgstr "光の合成"
+
+msgid "Overlaps shine brighter (additive)"
+msgstr "重なった部分がより明るく光ります（加算）"
+
+msgid "Orb in the middle"
+msgstr "中央の球"
+
+msgid "Orb size"
+msgstr "球のサイズ"
+
+msgid "Orb style"
+msgstr "球のスタイル"
+
+msgid "Record spins"
+msgstr "レコードが回る"
+
+msgid "Turns like on a turntable while music plays and stops on pause"
+msgstr "音楽の再生中はターンテーブルのように回り、一時停止で止まります"
+
+msgid "Tone arm"
+msgstr "トーンアーム"
+
+msgid "Swings onto the record when playing and away on pause"
+msgstr "再生時にレコードの上へ、一時停止で外へ動きます"
+
+msgid "Cover on the label"
+msgstr "ラベルにカバー"
+
+msgid "Shows the cover of the current song or video in the middle of the record"
+msgstr "レコードの中央に再生中の曲や動画のカバーを表示します"
+
+msgid "Orb pulses with the bass"
+msgstr "球が低音に合わせて脈動"
+
+msgid "Orb colour"
+msgstr "球の色"
+
+msgid "Colour of the orb"
+msgstr "球の色"
+
+msgid "Play/pause on click"
+msgstr "クリックで再生/一時停止"
+
+msgid "Clicking the orb pauses or resumes audio and video"
+msgstr "球をクリックすると音声と動画を一時停止または再開します"
+
+msgid "Show play/pause symbol"
+msgstr "再生/一時停止の記号を表示"
+
+msgid "Inner radius"
+msgstr "内側の半径"
+
+msgid "Ray length"
+msgstr "光線の長さ"
+
+msgid "Negative = counter-clockwise"
+msgstr "マイナス = 反時計回り"
+
+msgid "Rings"
+msgstr "リング"
+
+msgid "LED rows"
+msgstr "LED の行数"
+
+msgid "Peak caps"
+msgstr "ピークマーカー"
+
+msgid "Fall speed"
+msgstr "落下速度"
+
+msgid "Reflection"
+msgstr "反射"
+
+msgid "Reflection strength"
+msgstr "反射の強さ"
+
+msgid "Lit windows"
+msgstr "明かりのついた窓"
+
+msgid "Hint inactive elements"
+msgstr "非アクティブな要素をうっすら表示"
+
+msgid "Symmetry axes"
+msgstr "対称軸"
+
+msgid "Pulse rings"
+msgstr "パルスリング"
+
+msgid "Layers"
+msgstr "レイヤー"
+
+msgid "Shape"
+msgstr "形状"
+
+msgid "Motion"
+msgstr "動き"
+
+msgid "Light & glow"
+msgstr "光とグロー"
+
+msgid "Bars"
+msgstr "バー"
+
+msgid "Classic spectrum bars"
+msgstr "クラシックなスペクトルバー"
+
+msgid "Mirror axis"
+msgstr "ミラー軸"
+
+msgid "Bars mirrored around the centre line"
+msgstr "中心線を軸に反転したバー"
+
+msgid "Wave"
+msgstr "ウェーブ"
+
+msgid "A soft, filled curve"
+msgstr "やわらかく塗りつぶされた曲線"
+
+msgid "Dots"
+msgstr "ドット"
+
+msgid "Floating dots"
+msgstr "浮かぶドット"
+
+msgid "Particles"
+msgstr "パーティクル"
+
+msgid "Floating capsules"
+msgstr "浮かぶカプセル"
+
+msgid "Colour waves"
+msgstr "カラーウェーブ"
+
+msgid "Flowing macOS colours (the original)"
+msgstr "流れる macOS カラー（オリジナル）"
+
+msgid "LED matrix"
+msgstr "LED マトリクス"
+
+msgid "Glowing dots in rows and columns"
+msgstr "行と列に並ぶ光の点"
+
+msgid "Skyline"
+msgstr "スカイライン"
+
+msgid "A city that grows with the music"
+msgstr "音楽とともに成長する街"
+
+msgid "Rainbow bars"
+msgstr "レインボーバー"
+
+msgid "Rounded bars with peaks and reflection"
+msgstr "ピークと反射付きの角丸バー"
+
+msgid "Double helix"
+msgstr "ダブルヘリックス"
+
+msgid "Two glowing strands winding around each other"
+msgstr "互いに巻き付く 2 本の光るストランド"
+
+msgid "Laser fan"
+msgstr "レーザーファン"
+
+msgid "Beams of light meeting in the middle"
+msgstr "中央で交わる光線"
+
+msgid "Light strings"
+msgstr "光の糸"
+
+msgid "Fine strings bundled into a point of light"
+msgstr "ひとつの光点に束ねられた細い糸"
+
+msgid "Colour streams"
+msgstr "カラーストリーム"
+
+msgid "Coloured lines flowing into a small orb"
+msgstr "小さな球へ流れ込む色とりどりの線"
+
+msgid "Silk waves"
+msgstr "シルクウェーブ"
+
+msgid "Layered, swinging bands of light"
+msgstr "重なり合って揺れる光の帯"
+
+msgid "Ring spectrum"
+msgstr "リングスペクトル"
+
+msgid "Rays all around the orb"
+msgstr "球を取り囲む光線"
+
+msgid "Segment ring"
+msgstr "セグメントリング"
+
+msgid "Concentric glowing segments"
+msgstr "同心円状に光るセグメント"
+
+msgid "Rings that travel outwards with the bass"
+msgstr "低音に合わせて外側へ広がるリング"
+
+msgid "Liquid orb"
+msgstr "リキッドオーブ"
+
+msgid "Soft shapes flowing around the orb"
+msgstr "球の周りを流れるやわらかな形"
+
+msgid "Kaleidoscope"
+msgstr "万華鏡"
+
+msgid "A fractal-like bloom of light petals"
+msgstr "光の花びらでできたフラクタルのような花"
+

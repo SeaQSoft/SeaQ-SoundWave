@@ -1,0 +1,1232 @@
+# Template translation of SeaQ SoundWave.
+# Copyright (C) 2026 SeaQ
+# This file is distributed under the same license as the SeaQ SoundWave package.
+msgid ""
+msgstr ""
+"Project-Id-Version: seaq-soundwave 2.5.0\n"
+"Report-Msgid-Bugs-To: https://github.com/SeaQSoft/SeaQ-SoundWave/issues\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "At the panel"
+msgstr ""
+
+msgid "Fixed position"
+msgstr ""
+
+msgid "Placed freely"
+msgstr ""
+
+msgid "In the widget"
+msgstr ""
+
+msgid "Moving active"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+msgid "Lock position (%1)"
+msgstr ""
+
+msgid "Move freely (%1)"
+msgstr ""
+
+msgid "Settings editor"
+msgstr ""
+
+msgid "Fixed position on the screen"
+msgstr ""
+
+msgid "Freely movable"
+msgstr ""
+
+msgid "Quick settings · everything else in the settings editor"
+msgstr ""
+
+msgid "Open settings editor…"
+msgstr ""
+
+msgid "Style:"
+msgstr ""
+
+msgid "Colour palette:"
+msgstr ""
+
+msgid "Custom colours"
+msgstr ""
+
+msgid "Let the colours flow"
+msgstr ""
+
+msgid "Placement:"
+msgstr ""
+
+msgid "Move freely, lock and unlock again: shortcut %1 (change it on the “Keyboard Shortcuts” page or in the settings editor)."
+msgstr ""
+
+msgid "Sensitivity:"
+msgstr ""
+
+msgid "Clicking the orb:"
+msgstr ""
+
+msgid "Pause / resume audio and video"
+msgstr ""
+
+msgid "Do nothing"
+msgstr ""
+
+msgid "no shortcut"
+msgstr ""
+
+msgid "Free positioning only works while the widget sits on the desktop."
+msgstr ""
+
+msgid "Repair"
+msgstr ""
+
+msgid "Don't report again"
+msgstr ""
+
+msgid "Sound of %1 is muted"
+msgstr ""
+
+msgid "The system remembered this app as muted or at 0 %. Click “Repair” to give it its sound back."
+msgstr ""
+
+msgid "The settings editor could not be loaded."
+msgstr ""
+
+msgid "Lock position"
+msgstr ""
+
+msgid "Move freely"
+msgstr ""
+
+msgid "Pause playback"
+msgstr ""
+
+msgid "Resume playback"
+msgstr ""
+
+msgid "No audio capture tool found.\nPlease install “pulseaudio-utils” or “pipewire-utils” (or “cava”) and add the widget again."
+msgstr ""
+
+msgid "The audio engine could not be started."
+msgstr ""
+
+msgid "Drag = move · Edges and corners = resize · Wheel = zoom · Arrow keys = 1 px (⇧ 10 px)"
+msgstr ""
+
+msgid "Lock (%1 / Enter)"
+msgstr ""
+
+msgid "Configure SeaQ SoundWave…"
+msgstr ""
+
+msgid "Choose a colour"
+msgstr ""
+
+msgid "Copied to the clipboard"
+msgstr ""
+
+msgid "My palette %1"
+msgstr ""
+
+msgid "“%1” saved"
+msgstr ""
+
+msgid "Colour"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Rotation"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Auto: every visualizer lays out the colours itself (e.g. per line, all around or from bottom to top)."
+msgstr ""
+
+msgid "The gradient covers the whole visualizer – rotation and type apply as set above."
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Name of the palette"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Preview with the current visualizer"
+msgstr ""
+
+msgid "Gradient"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Linear"
+msgstr ""
+
+msgid "Radial"
+msgstr ""
+
+msgid "Conic"
+msgstr ""
+
+msgid "Copy CSS"
+msgstr ""
+
+msgid "Copy hex values"
+msgstr ""
+
+msgid "Reverse colours"
+msgstr ""
+
+msgid "Spread evenly"
+msgstr ""
+
+msgid "Live"
+msgstr ""
+
+msgid "Demo · nothing is playing right now"
+msgstr ""
+
+msgid "Version %1 · by %2"
+msgstr ""
+
+msgid "Support SeaQ SoundWave"
+msgstr ""
+
+msgid "If you like the widget, you can support its development – thank you!"
+msgstr ""
+
+msgid "Donate with PayPal"
+msgstr ""
+
+msgid "Buy me a coffee"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Audio visualizer for KDE Plasma 6"
+msgstr ""
+
+msgid "19 styles in four groups, colour collection with gradient editor, orb with play/pause, panel attachment, fixed or free position on the desktop."
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Logo in the taskbar"
+msgstr ""
+
+msgid "Shows the SeaQ SoundWave logo instead of the Plasma logo while a settings window is open. Adds a hidden desktop file and a KWin window rule – switching it off removes both again."
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Everything to factory settings"
+msgstr ""
+
+msgid "Style, style options, colours, position, orb, audio and editor – everything like right after installing. Your own palettes are kept."
+msgstr ""
+
+msgid "Yes, reset everything"
+msgstr ""
+
+msgid "Factory settings"
+msgstr ""
+
+msgid "Reset the options of all styles"
+msgstr ""
+
+msgid "Sets the shape settings of every style back to the defaults"
+msgstr ""
+
+msgid "Really?"
+msgstr ""
+
+msgid "Reset colours"
+msgstr ""
+
+msgid "macOS rainbow, colour flow on"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Analysis"
+msgstr ""
+
+msgid "Frequency bands"
+msgstr ""
+
+msgid "Detail of the spectrum"
+msgstr ""
+
+msgid "Sensitivity"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
+
+msgid "Fewer frames per second save power"
+msgstr ""
+
+msgid "Smoothing"
+msgstr ""
+
+msgid "Audio source"
+msgstr ""
+
+msgid "Audio engine"
+msgstr ""
+
+msgid "Automatic uses cava when it is installed – otherwise the built-in analysis (needs only parec or pw-record)."
+msgstr ""
+
+msgid "Input method (cava only)"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "“auto” shows whatever is playing. Find other sources with “pactl list short sources”."
+msgstr ""
+
+msgid "Audio protection"
+msgstr ""
+
+msgid "SoundWave keeps its own recording stream out of the audio memory. If an app ends up muted or at 0 % anyway (as remembered by the system), it can be repaired here."
+msgstr ""
+
+msgid "Repairing only unmutes and only raises a volume that is at 0 % (to the normal 100 %). Cleaning the remembered settings briefly restarts the audio service."
+msgstr ""
+
+msgid "When a muted app is found"
+msgstr ""
+
+msgid "Muted or silent: %1"
+msgstr ""
+
+msgid "All apps can be heard"
+msgstr ""
+
+msgid "Check now"
+msgstr ""
+
+msgid "Repair now"
+msgstr ""
+
+msgid "Not reported: %1"
+msgstr ""
+
+msgid "Apps you muted on purpose"
+msgstr ""
+
+msgid "Clear list"
+msgstr ""
+
+msgid "Built-in"
+msgstr ""
+
+msgid "Notify"
+msgstr ""
+
+msgid "Repair automatically"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Colour collection"
+msgstr ""
+
+msgid "One click recolours the visualizer at once – save your own palettes in the gradient editor."
+msgstr ""
+
+msgid "No palettes of your own yet. Put colours together in the gradient editor below and click “Save”."
+msgstr ""
+
+msgid "Gradient editor"
+msgstr ""
+
+msgid "Drag the points on the colour bar, click the bar to add a colour. The preview on the right shows the gradient or – with the button at its top right – your visualizer."
+msgstr ""
+
+msgid "Colour flow"
+msgstr ""
+
+msgid "The palette slowly moves through the visualizer – like the macOS colour waves"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Mine"
+msgstr ""
+
+msgid "Keyboard shortcut"
+msgstr ""
+
+msgid "A global shortcut for free positioning – it works everywhere, even when a window is in front."
+msgstr ""
+
+msgid "Move freely / lock / unlock"
+msgstr ""
+
+msgid "Current: %1. Click the field and press the new combination."
+msgstr ""
+
+msgid "Change it via right click → Configure → Keyboard Shortcuts"
+msgstr ""
+
+msgid "How free positioning works"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Press %1 (or choose “Position” → “Free”, or the lock on the pop-up card). A blue frame appears around the visualizer."
+msgstr ""
+
+msgid "Move & resize"
+msgstr ""
+
+msgid "Drag the frame with the mouse. The handles on every edge and corner change the size, the mouse wheel zooms, arrow keys move by 1 px (with Shift 10 px), + and − scale. It snaps to the centre of the screen."
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+msgid "%1 again, Enter, Esc, a double click or the “Lock” button. Afterwards the visualizer lies behind all windows again and lets clicks through to the desktop."
+msgstr ""
+
+msgid "Unlock again"
+msgstr ""
+
+msgid "Any time with the same shortcut – the widget itself stays where it is."
+msgstr ""
+
+msgid "Mouse & menus"
+msgstr ""
+
+msgid "Click on the orb"
+msgstr ""
+
+msgid "Pauses or resumes audio and video (see “Orb & playback”)"
+msgstr ""
+
+msgid "Click"
+msgstr ""
+
+msgid "Right click on the visualizer"
+msgstr ""
+
+msgid "Opens the pop-up card – or, with the card switched off, the menu"
+msgstr ""
+
+msgid "Right click"
+msgstr ""
+
+msgid "Quick settings"
+msgstr ""
+
+msgid "“Configure SeaQ SoundWave…” shows the most important options and the button to this editor"
+msgstr ""
+
+msgid "Close the editor"
+msgstr ""
+
+msgid "This page adapts itself: you only see the settings that the style “%1” really uses. Every style remembers its own values."
+msgstr ""
+
+msgid "Defaults"
+msgstr ""
+
+msgid "No options of its own"
+msgstr ""
+
+msgid "“%1” has no additional shape settings."
+msgstr ""
+
+msgid "Set colours and colour flow on the “Colours” page, opacity further down."
+msgstr ""
+
+msgid "For all styles"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "How softly the motion follows the music"
+msgstr ""
+
+msgid "Background plate"
+msgstr ""
+
+msgid "Square at the bottom so that “%1” sits flush – rounded at the top"
+msgstr ""
+
+msgid "Rounded all around, because “%1” floats freely in the middle"
+msgstr ""
+
+msgid "Corner radius of the plate"
+msgstr ""
+
+msgid "“%1” has no orb"
+msgstr ""
+
+msgid "The orb exists for the line, light and round styles. Pick one of them:"
+msgstr ""
+
+msgid "Orb – for all styles"
+msgstr ""
+
+msgid "On/off, look and play/pause apply to every style at once. For round styles the orb is the circle in the middle – its size follows the inner radius."
+msgstr ""
+
+msgid "On/off, look and play/pause apply to every style at once – only the size is set for each style."
+msgstr ""
+
+msgid "Clicking the orb"
+msgstr ""
+
+msgid "Reset orb"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Pauses audio and video of every player that is playing (browser with YouTube/Udemy, VLC, Spotify, Elisa, LizardTune…) – a second click resumes them."
+msgstr ""
+
+msgid "No player found"
+msgstr ""
+
+msgid "Playing right now"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Stopped"
+msgstr ""
+
+msgid "Start music or a video so the orb has something to control."
+msgstr ""
+
+msgid "Pause now"
+msgstr ""
+
+msgid "Pause / resume"
+msgstr ""
+
+msgid "Nothing"
+msgstr ""
+
+msgid "The widget is not on the desktop right now (e.g. in a panel). Panel, fixed and free placement only work for widgets on the desktop – put SeaQ SoundWave on the desktop for that."
+msgstr ""
+
+msgid "Where should the visualizer appear?"
+msgstr ""
+
+msgid "Outside the widget the visualizer floats on the desktop behind all windows – the widget itself becomes invisible (in the desktop’s edit mode you see a small icon)."
+msgstr ""
+
+msgid "Classic, inside the widget frame, sized like any widget"
+msgstr ""
+
+msgid "Centred at a panel at the top, bottom, left or right"
+msgstr ""
+
+msgid "At one of nine points of the screen"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Drag it with the mouse, lock it with a shortcut"
+msgstr ""
+
+msgid "Found: panel at the bottom."
+msgstr ""
+
+msgid "Found: panel at the top."
+msgstr ""
+
+msgid "Found: panel on the left."
+msgstr ""
+
+msgid "Found: panel on the right."
+msgstr ""
+
+msgid "Round styles sit centred above the panel."
+msgstr ""
+
+msgid "The base of the visualizer always points to the panel."
+msgstr ""
+
+msgid "There is no panel on this edge – until there is one, the visualizer sits at the bottom of the screen."
+msgstr ""
+
+msgid "Edge"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "How far the visualizer rises from the panel"
+msgstr ""
+
+msgid "Gap to the panel"
+msgstr ""
+
+msgid "Small gap between panel and visualizer"
+msgstr ""
+
+msgid "Offset along the panel"
+msgstr ""
+
+msgid "0 = exactly centred"
+msgstr ""
+
+msgid "Centre"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
+msgid "Fixed length"
+msgstr ""
+
+msgid "Stop before the panel corners"
+msgstr ""
+
+msgid "So the visualizer does not reach into the rounding of a floating panel"
+msgstr ""
+
+msgid "Rounded ends"
+msgstr ""
+
+msgid "Soft curve at the ends above a floating panel (0 = straight edge)"
+msgstr ""
+
+msgid "Flare at the base"
+msgstr ""
+
+msgid "Choose an anchor point. Left and right in the middle turn strip styles sideways."
+msgstr ""
+
+msgid "Anchor point"
+msgstr ""
+
+msgid "Top left"
+msgstr ""
+
+msgid "Top centre"
+msgstr ""
+
+msgid "Top right"
+msgstr ""
+
+msgid "Left centre"
+msgstr ""
+
+msgid "Screen centre"
+msgstr ""
+
+msgid "Right centre"
+msgstr ""
+
+msgid "Bottom left"
+msgstr ""
+
+msgid "Bottom centre"
+msgstr ""
+
+msgid "Bottom right"
+msgstr ""
+
+msgid "Horizontal margin"
+msgstr ""
+
+msgid "Vertical margin"
+msgstr ""
+
+msgid "Share of the screen width (or height)"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Free positioning"
+msgstr ""
+
+msgid "Moving is active"
+msgstr ""
+
+msgid "Position is locked"
+msgstr ""
+
+msgid "Drag the blue frame on the desktop. Lock with %1, Enter or a double click."
+msgstr ""
+
+msgid "Unlock with %1 – or here:"
+msgstr ""
+
+msgid "Move now"
+msgstr ""
+
+msgid "Orientation"
+msgstr ""
+
+msgid "On which side the “base” of the visualizer lies"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Quick placement"
+msgstr ""
+
+msgid "The visualizer fills the widget frame."
+msgstr ""
+
+msgid "Change size and place like any desktop widget (edit mode). A background plate is on the “Style options” page."
+msgstr ""
+
+msgid "Reset position values"
+msgstr ""
+
+msgid "Show pop-up card"
+msgstr ""
+
+msgid "A right click on the visualizer (not on the orb) opens a small card with preview, pause, lock and settings. A click on an empty spot closes it."
+msgstr ""
+
+msgid "Off: a right click opens the widget’s menu (settings editor, move freely, pause, configure)."
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Like the panel"
+msgstr ""
+
+msgid "Whole edge"
+msgstr ""
+
+msgid "Adjust options"
+msgstr ""
+
+msgid "SeaQ SoundWave – Settings"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Audio engine stopped"
+msgstr ""
+
+msgid "Music detected"
+msgstr ""
+
+msgid "Waiting for sound…"
+msgstr ""
+
+msgid "playing"
+msgstr ""
+
+msgid "paused"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Choose how your music looks"
+msgstr ""
+
+msgid "Style options"
+msgstr ""
+
+msgid "Adapts to the selected style"
+msgstr ""
+
+msgid "Colours"
+msgstr ""
+
+msgid "Colour collection and gradient editor"
+msgstr ""
+
+msgid "In the widget, at the panel, fixed or free"
+msgstr ""
+
+msgid "Behaviour"
+msgstr ""
+
+msgid "Orb & playback"
+msgstr ""
+
+msgid "The orb in the middle – a click pauses"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Source, sensitivity and frame rate"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "Controls & shortcuts"
+msgstr ""
+
+msgid "Keyboard shortcuts and mouse gestures"
+msgstr ""
+
+msgid "Full screen"
+msgstr ""
+
+msgid "Orb"
+msgstr ""
+
+msgid "macOS Rainbow"
+msgstr ""
+
+msgid "Chameleon"
+msgstr ""
+
+msgid "Apple Music"
+msgstr ""
+
+msgid "Sonoma"
+msgstr ""
+
+msgid "Sequoia"
+msgstr ""
+
+msgid "Peach Evening"
+msgstr ""
+
+msgid "Sunset"
+msgstr ""
+
+msgid "Ocean"
+msgstr ""
+
+msgid "Aurora"
+msgstr ""
+
+msgid "Light Strings"
+msgstr ""
+
+msgid "Forest"
+msgstr ""
+
+msgid "Fire"
+msgstr ""
+
+msgid "Glacier"
+msgstr ""
+
+msgid "Neon"
+msgstr ""
+
+msgid "Cyberpunk"
+msgstr ""
+
+msgid "Vaporwave"
+msgstr ""
+
+msgid "Synthwave"
+msgstr ""
+
+msgid "Laser"
+msgstr ""
+
+msgid "Cotton Candy"
+msgstr ""
+
+msgid "Pastel"
+msgstr ""
+
+msgid "Tropical"
+msgstr ""
+
+msgid "Mint"
+msgstr ""
+
+msgid "Gold"
+msgstr ""
+
+msgid "Silver"
+msgstr ""
+
+msgid "Rose Gold"
+msgstr ""
+
+msgid "Classic Blue"
+msgstr ""
+
+msgid "Nature"
+msgstr ""
+
+msgid "Precious"
+msgstr ""
+
+msgid "Glass"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "From palette"
+msgstr ""
+
+msgid "Own colour"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "On hover"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "Classic"
+msgstr ""
+
+msgid "The proven spectrum shapes"
+msgstr ""
+
+msgid "Colourful, in the style of macOS"
+msgstr ""
+
+msgid "Lines & Light"
+msgstr ""
+
+msgid "Light strings and beams – also full screen"
+msgstr ""
+
+msgid "Round"
+msgstr ""
+
+msgid "Circular, with a playback orb in the middle"
+msgstr ""
+
+msgid "Spacing"
+msgstr ""
+
+msgid "Fill width automatically"
+msgstr ""
+
+msgid "Fixed bar width"
+msgstr ""
+
+msgid "Corner radius"
+msgstr ""
+
+msgid "Number of elements"
+msgstr ""
+
+msgid "How many bars, columns or rays are drawn"
+msgstr ""
+
+msgid "Lines per side"
+msgstr ""
+
+msgid "Line width"
+msgstr ""
+
+msgid "Glow"
+msgstr ""
+
+msgid "Amplitude"
+msgstr ""
+
+msgid "Motion speed"
+msgstr ""
+
+msgid "Fade out at the edges"
+msgstr ""
+
+msgid "Spread"
+msgstr ""
+
+msgid "Turns"
+msgstr ""
+
+msgid "Rungs between the strands"
+msgstr ""
+
+msgid "Waviness"
+msgstr ""
+
+msgid "Light in the middle"
+msgstr ""
+
+msgid "A bright light where the lines meet – it breathes with the music"
+msgstr ""
+
+msgid "Light blending"
+msgstr ""
+
+msgid "Overlaps shine brighter (additive)"
+msgstr ""
+
+msgid "Orb in the middle"
+msgstr ""
+
+msgid "Orb size"
+msgstr ""
+
+msgid "Orb style"
+msgstr ""
+
+msgid "Record spins"
+msgstr ""
+
+msgid "Turns like on a turntable while music plays and stops on pause"
+msgstr ""
+
+msgid "Tone arm"
+msgstr ""
+
+msgid "Swings onto the record when playing and away on pause"
+msgstr ""
+
+msgid "Cover on the label"
+msgstr ""
+
+msgid "Shows the cover of the current song or video in the middle of the record"
+msgstr ""
+
+msgid "Orb pulses with the bass"
+msgstr ""
+
+msgid "Orb colour"
+msgstr ""
+
+msgid "Colour of the orb"
+msgstr ""
+
+msgid "Play/pause on click"
+msgstr ""
+
+msgid "Clicking the orb pauses or resumes audio and video"
+msgstr ""
+
+msgid "Show play/pause symbol"
+msgstr ""
+
+msgid "Inner radius"
+msgstr ""
+
+msgid "Ray length"
+msgstr ""
+
+msgid "Negative = counter-clockwise"
+msgstr ""
+
+msgid "Rings"
+msgstr ""
+
+msgid "LED rows"
+msgstr ""
+
+msgid "Peak caps"
+msgstr ""
+
+msgid "Fall speed"
+msgstr ""
+
+msgid "Reflection"
+msgstr ""
+
+msgid "Reflection strength"
+msgstr ""
+
+msgid "Lit windows"
+msgstr ""
+
+msgid "Hint inactive elements"
+msgstr ""
+
+msgid "Symmetry axes"
+msgstr ""
+
+msgid "Pulse rings"
+msgstr ""
+
+msgid "Layers"
+msgstr ""
+
+msgid "Shape"
+msgstr ""
+
+msgid "Motion"
+msgstr ""
+
+msgid "Light & glow"
+msgstr ""
+
+msgid "Bars"
+msgstr ""
+
+msgid "Classic spectrum bars"
+msgstr ""
+
+msgid "Mirror axis"
+msgstr ""
+
+msgid "Bars mirrored around the centre line"
+msgstr ""
+
+msgid "Wave"
+msgstr ""
+
+msgid "A soft, filled curve"
+msgstr ""
+
+msgid "Dots"
+msgstr ""
+
+msgid "Floating dots"
+msgstr ""
+
+msgid "Particles"
+msgstr ""
+
+msgid "Floating capsules"
+msgstr ""
+
+msgid "Colour waves"
+msgstr ""
+
+msgid "Flowing macOS colours (the original)"
+msgstr ""
+
+msgid "LED matrix"
+msgstr ""
+
+msgid "Glowing dots in rows and columns"
+msgstr ""
+
+msgid "Skyline"
+msgstr ""
+
+msgid "A city that grows with the music"
+msgstr ""
+
+msgid "Rainbow bars"
+msgstr ""
+
+msgid "Rounded bars with peaks and reflection"
+msgstr ""
+
+msgid "Double helix"
+msgstr ""
+
+msgid "Two glowing strands winding around each other"
+msgstr ""
+
+msgid "Laser fan"
+msgstr ""
+
+msgid "Beams of light meeting in the middle"
+msgstr ""
+
+msgid "Light strings"
+msgstr ""
+
+msgid "Fine strings bundled into a point of light"
+msgstr ""
+
+msgid "Colour streams"
+msgstr ""
+
+msgid "Coloured lines flowing into a small orb"
+msgstr ""
+
+msgid "Silk waves"
+msgstr ""
+
+msgid "Layered, swinging bands of light"
+msgstr ""
+
+msgid "Ring spectrum"
+msgstr ""
+
+msgid "Rays all around the orb"
+msgstr ""
+
+msgid "Segment ring"
+msgstr ""
+
+msgid "Concentric glowing segments"
+msgstr ""
+
+msgid "Rings that travel outwards with the bass"
+msgstr ""
+
+msgid "Liquid orb"
+msgstr ""
+
+msgid "Soft shapes flowing around the orb"
+msgstr ""
+
+msgid "Kaleidoscope"
+msgstr ""
+
+msgid "A fractal-like bloom of light petals"
+msgstr ""
+

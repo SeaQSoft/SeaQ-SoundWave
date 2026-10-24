@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name=""/>
+  <group name="General">
+    <entry name="vizStyle" type="String">
+      <default>macos-wave</default>
+    </entry>
+    <entry name="styleOptions" type="String">
+      <default>{}</default>
+    </entry>
+    <entry name="palette" type="String">
+      <default></default>
+    </entry>
+    <entry name="paletteName" type="String">
+      <default>macos</default>
+    </entry>
+    <entry name="customPalettes" type="String">
+      <default>[]</default>
+    </entry>
+    <entry name="colorMapping" type="String">
+      <default>auto</default>
+    </entry>
+    <entry name="gradientAngle" type="Int">
+      <default>90</default>
+      <min>0</min>
+      <max>359</max>
+    </entry>
+    <entry name="colorShift" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="colorShiftSpeed" type="Int">
+      <default>12</default>
+      <min>1</min>
+      <max>100</max>
+    </entry>
+    <entry name="opacity" type="Int">
+      <default>100</default>
+      <min>10</min>
+      <max>100</max>
+    </entry>
+    <entry name="smoothing" type="Int">
+      <default>35</default>
+      <min>0</min>
+      <max>90</max>
+    </entry>
+    <entry name="backgroundEnabled" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="backgroundColor" type="Color">
+      <default>20,20,20,89</default>
+    </entry>
+    <entry name="backgroundRadius" type="Int">
+      <default>14</default>
+      <min>0</min>
+      <max>60</max>
+    </entry>
+    <entry name="barCount" type="Int">
+      <default>64</default>
+      <min>8</min>
+      <max>128</max>
+    </entry>
+    <entry name="sensitivity" type="Int">
+      <default>100</default>
+      <min>10</min>
+      <max>300</max>
+    </entry>
+    <entry name="framerate" type="Int">
+      <default>60</default>
+      <min>15</min>
+      <max>144</max>
+    </entry>
+    <entry name="engine" type="String">
+      <default>auto</default>
+    </entry>
+    <entry name="inputMethod" type="String">
+      <default>pulse</default>
+    </entry>
+    <entry name="inputSource" type="String">
+      <default>auto</default>
+    </entry>
+    <entry name="placement" type="String">
+      <default>widget</default>
+    </entry>
+    <entry name="attachEdge" type="String">
+      <default>auto</default>
+    </entry>
+    <entry name="attachThickness" type="Int">
+      <default>96</default>
+      <min>24</min>
+      <max>1200</max>
+    </entry>
+    <entry name="attachGap" type="Int">
+      <default>1</default>
+      <min>-100</min>
+      <max>400</max>
+    </entry>
+    <entry name="attachOffset" type="Int">
+      <default>0</default>
+      <min>-4000</min>
+      <max>4000</max>
+    </entry>
+    <entry name="attachLengthMode" type="String">
+      <default>panel</default>
+    </entry>
+    <entry name="attachLength" type="Int">
+      <default>900</default>
+      <min>100</min>
+      <max>7680</max>
+    </entry>
+    <entry name="attachEndInset" type="Int">
+      <default>8</default>
+      <min>0</min>
+      <max>100</max>
+    </entry>
+    <entry name="attachSoftEnds" type="Int">
+      <default>32</default>
+      <min>0</min>
+      <max>300</max>
+    </entry>
+    <entry name="attachSoftBase" type="Int">
+      <default>8</default>
+      <min>0</min>
+      <max>100</max>
+    </entry>
+    <entry name="screenAnchor" type="String">
+      <default>bottom</default>
+    </entry>
+    <entry name="screenMarginX" type="Int">
+      <default>0</default>
+      <min>-4000</min>
+      <max>4000</max>
+    </entry>
+    <entry name="screenMarginY" type="Int">
+      <default>24</default>
+      <min>-4000</min>
+      <max>4000</max>
+    </entry>
+    <entry name="screenWidth" type="Int">
+      <default>60</default>
+      <min>5</min>
+      <max>100</max>
+    </entry>
+    <entry name="screenHeight" type="Int">
+      <default>260</default>
+      <min>24</min>
+      <max>4000</max>
+    </entry>
+    <entry name="freeX" type="Int">
+      <default>-1</default>
+      <min>-1</min>
+      <max>16000</max>
+    </entry>
+    <entry name="freeY" type="Int">
+      <default>-1</default>
+      <min>-1</min>
+      <max>16000</max>
+    </entry>
+    <entry name="freeW" type="Int">
+      <default>-1</default>
+      <min>-1</min>
+      <max>16000</max>
+    </entry>
+    <entry name="freeH" type="Int">
+      <default>-1</default>
+      <min>-1</min>
+      <max>16000</max>
+    </entry>
+    <entry name="freeEdge" type="String">
+      <default>bottom</default>
+    </entry>
+    <entry name="showMiniCard" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="widgetSize" type="String">
+      <default></default>
+    </entry>
+    <entry name="audioGuard" type="String">
+      <default>notify</default>
+    </entry>
+    <entry name="audioGuardIgnore" type="String">
+      <default></default>
+    </entry>
+    <entry name="taskbarIcon" type="Bool">
+      <default>true</default>
+    </entry>
+    <entry name="orbAction" type="String">
+      <default>playpause</default>
+    </entry>
+    <entry name="editorTheme" type="String">
+      <default>auto</default>
+    </entry>
+    <entry name="editorRequest" type="String">
+      <default></default>
+    </entry>
+    <entry name="editorPage" type="Int">
+      <default>0</default>
+      <min>0</min>
+      <max>20</max>
+    </entry>
+    <entry name="shortcutInit" type="Bool">
+      <default>false</default>
+    </entry>
+    <entry name="shortcutText" type="String">
+      <default>Meta+Alt+V</default>
+    </entry>
+  </group>
+</kcfg>
